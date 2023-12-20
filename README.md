@@ -26,4 +26,30 @@ l'app de parsing est  pour l'instant codée en haxe [haxe.org](http://www.haxe.o
 libs npm ( cf package.json): 
 - mozilla-readibility : lecteur ( reader-mode) de firefox pour épurer l'html 
 - turndown : conversion en markdown
-- lix ( haxe like npm )
+- lix ( haxe like npm ): 
+
+
+### install 
+
+-install npm (node & npm)
+- install lix [how-to ](https://github.com/lix-pm/lix.client#installation)
+- download lix libs  ( via haxe_librairies)
+
+terminal:
+```
+lix download
+```
+- download npm libs ( via package.json)
+
+terminal:
+```
+npm install
+```
+
+- compile 
+terminal
+```
+haxe build.hxml
+````
+
+
