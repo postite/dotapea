@@ -1,0 +1,6 @@
+# -lib node
+# -lib parse5
+# -lib tough-cookie
+-cp /Users/postite/Documents/LAB/dotapea/.haxelib/jsdom/21,1,6
+-D jsdom=21.1.6
+--macro Sys.println("haxe_libraries/jsdom.hxml:5: [Warning] Using dev version of library jsdom")

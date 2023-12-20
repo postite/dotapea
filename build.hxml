@@ -1,0 +1,17 @@
+-cp src
+-D analyzer-optimize
+-main Top
+--debug
+-lib mots
+-lib tink_web
+-lib turndown
+-lib asys
+-lib readability
+-lib postite_core
+ -lib hxnodejs
+ -lib jsdom
+ --js www/app.js
+-D no-deprecation-warnings
+
+--cmd node www/app.js
+#--interp
