@@ -1,0 +1,54 @@
+---
+title: Tour
+date: Wed Dec 20 2023 16:34:12 GMT+0100 (Central European Standard Time)
+author: postite
+---
+
+## Tour
+### Tour, article du glossaire
+ Navig. page/section
+
+[![Sup./Above](_derived/up_cmp_themenoir010_up.gif)](t.html)
+
+\_\_\_\_\_
+
+**Sous cette page**
+
+\_\_\_\_\_
+
+**Pages soeurs**
+
+\_\_\_\_\_
+
+Copyright � www.dotapea.com
+
+Tous droits r�serv�s.  
+[Pr�cisions cliquer ici](droitscopie.html)
+
+**Acc�s direct glossaire**
+
+**[A](a.html)  [B](b.html)  [C](c.html)  [D](d.html)  [E](e.html)  [F](f.html)  [G](g.html)  
+[H](h.html)  [IJK](ijk.html)  [L](l.html)  [M](m.html)  [NO](no.html)  [P](p.html)  
+[QR](qr.html)  [S](s.html)  [T](t.html)  [UV](uv.html)  [WXYZ](wxyz.html)**
+
+**Le travertin  
+Article du [glossaire](glossaire.html)**
+
+_Du latin_ tiburtinus_, "de Tibur",  
+ancienne ville du Latium (devenue Tivoli)_
+
+Roche calcaire parsem�e de trous, vari�t� de [tuf](tuf.html). Bon mat�riau de construction, elle a permis d'�riger des monuments consid�rables. L'exemple le plus c�l�bre est le Colis�e romain.
+
+Voir [_roches calcaires_](calcaires.html).
+
+
+
+ 
+
+ ![](images/transparent122x1.gif)
+
+![](images/flechebas.gif) [Communication](http://www.artrealite.com/annonceurs.htm) 
+
+[![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
+
+![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)

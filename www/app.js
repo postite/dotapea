@@ -6,28 +6,20 @@ function $extend(from, fields) {
 	if( fields.toString !== Object.prototype.toString ) proto.toString = fields.toString;
 	return proto;
 }
-var App = function() { };
-App.__name__ = true;
-App.main = function() {
-	haxe_Log.trace("Hella, world!",{ fileName : "src/App.hx", lineNumber : 8, className : "App", methodName : "main"});
+var App = function() {
+	this.resumedBuf = new StringBuf();
+	this.counter = 0;
+	this.laliste = [];
+	this.done = [];
+	var _gthis = this;
+	haxe_Log.trace("new",{ fileName : "src/App.hx", lineNumber : 14, className : "App", methodName : "new"});
 	var f = function(r) {
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"err",{ fileName : "src/App.hx", lineNumber : 36, className : "App", methodName : "main"}))));
+		Debug.Log(_gthis.resumed(),"resumed",{ fileName : "src/App.hx", lineNumber : 29, className : "App", methodName : "new"});
+		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(r)));
 	};
-	var this1 = tink_core_Future.flatMap(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(asys_io_File.getContent("./www.dotapea.com/a.html"),function(s) {
-		var doc = new jsdom_JSDOM(s).window.document;
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(new mozilla_readability_Readability(doc).parse())));
-	}),function(parsed) {
-		var content = "";
-		if(parsed.content == "html") {
-			content = parsed.content;
-		} else {
-			content = new Turndown().turndown(parsed.content);
-		}
-		Debug.Log(content,"content",{ fileName : "src/App.hx", lineNumber : 31, className : "App", methodName : "main"});
-		var this1 = new tink_core_MPair(Mots.underclean(parsed.title),content);
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(this1)));
-	}),function(pair) {
-		return asys_io_File.saveContent(process.cwd() + ("/www/md/" + pair.a + ".md"),pair.b);
+	var this1 = tink_core_Promise.next(tink_core_Future.flatMap(tink_core_Promise.next(this.getOne("zinc.html"),function(liste) {
+		haxe_Log.trace(_gthis.laliste.length,{ fileName : "src/App.hx", lineNumber : 21, className : "App", methodName : "new"});
+		return _gthis.batchexport(_gthis.laliste);
 	}),function(o) {
 		switch(o._hx_index) {
 		case 0:
@@ -35,8 +27,188 @@ App.main = function() {
 		case 1:
 			return f(o.failure);
 		}
+	}),function(n) {
+		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(Debug.Log(_gthis.resumed(),"resumed",{ fileName : "src/App.hx", lineNumber : 35, className : "App", methodName : "new"}))));
 	});
 	this1.eager();
+};
+App.__name__ = true;
+App.main = function() {
+	new App();
+};
+App.prototype = {
+	getOne: function(name) {
+		this.laliste = [name];
+		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(this.laliste)));
+	}
+	,getFiles: function() {
+		var f = function(r) {
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"oups",{ fileName : "src/App.hx", lineNumber : 84, className : "App", methodName : "getFiles"}))));
+		};
+		return tink_core_Future.flatMap(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(asys_FileSystem.readDirectory(App.dotapeaPath),function(n) {
+			Debug.Log(n.length,null,{ fileName : "src/App.hx", lineNumber : 54, className : "App", methodName : "getFiles"});
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(n)));
+		}),function(n) {
+			var _g = [];
+			var _g1 = 0;
+			while(_g1 < n.length) {
+				var v = n[_g1];
+				++_g1;
+				if(!sys_FileSystem.isDirectory(App.dotapeaPath + v)) {
+					_g.push(v);
+				}
+			}
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(_g)));
+		}),function(n) {
+			var _g = [];
+			var _g1 = 0;
+			while(_g1 < n.length) {
+				var v = n[_g1];
+				++_g1;
+				if(haxe_io_Path.extension(v) == "html" && v.indexOf("courrier") == -1 && v.indexOf("archive") == -1 && v.indexOf("communique") == -1) {
+					_g.push(v);
+				}
+			}
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(_g)));
+		}),function(n) {
+			Debug.Log(n.length,null,{ fileName : "src/App.hx", lineNumber : 80, className : "App", methodName : "getFiles"});
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(n)));
+		}),function(n) {
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(Debug.Log(n,"path",{ fileName : "src/App.hx", lineNumber : 83, className : "App", methodName : "getFiles"}))));
+		}),function(o) {
+			switch(o._hx_index) {
+			case 0:
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
+			case 1:
+				return f(o.failure);
+			}
+		});
+	}
+	,batchexport: function(liste) {
+		var result = new Array(liste.length);
+		var _g = 0;
+		var _g1 = liste.length;
+		while(_g < _g1) {
+			var i = _g++;
+			result[i] = tink_core_Future.flatMap(this.exportToMd(App.dotapeaPath + Debug.Log(liste[i],"name",{ fileName : "src/App.hx", lineNumber : 90, className : "App", methodName : "batchexport"})),(function(f) {
+				return function(o) {
+					switch(o._hx_index) {
+					case 0:
+						return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
+					case 1:
+						return f[0](o.failure);
+					}
+				};
+			})([(function() {
+				return function(n) {
+					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(n,"ok",{ fileName : "src/App.hx", lineNumber : 91, className : "App", methodName : "batchexport"}))));
+				};
+			})()]));
+		}
+		var f = function(f) {
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(f,"continue qund même",{ fileName : "src/App.hx", lineNumber : 94, className : "App", methodName : "batchexport"}))));
+		};
+		return tink_core_Promise.noise(tink_core_Future.flatMap(tink_core_Promise.inSequence(result),function(o) {
+			switch(o._hx_index) {
+			case 0:
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
+			case 1:
+				return f(o.failure);
+			}
+		}));
+	}
+	,logToResumed: function(s) {
+		this.resumedBuf.b += Std.string("" + s + "\n");
+	}
+	,resumed: function() {
+		haxe_Log.trace(this.laliste.length,{ fileName : "src/App.hx", lineNumber : 105, className : "App", methodName : "resumed", customParams : ["laliste"]});
+		haxe_Log.trace(this.done.length,{ fileName : "src/App.hx", lineNumber : 106, className : "App", methodName : "resumed", customParams : ["done"]});
+		this.logToResumed("laliste" + this.laliste.length);
+		this.logToResumed("done" + this.done.length);
+		var this1 = asys_io_File.saveContent("./resumed.txt",this.resumedBuf.b);
+		this1.eager();
+		return this.resumedBuf.b;
+	}
+	,exportToMd: function(path) {
+		var _gthis = this;
+		var f = function(n) {
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(n,"erreur fichier",{ fileName : "src/App.hx", lineNumber : 117, className : "App", methodName : "exportToMd"}))));
+		};
+		var f1 = function(r) {
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"err" + path,{ fileName : "src/App.hx", lineNumber : 172, className : "App", methodName : "exportToMd"}))));
+		};
+		return tink_core_Future.flatMap(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Future.flatMap(asys_io_File.getContent(path),function(o) {
+			switch(o._hx_index) {
+			case 0:
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
+			case 1:
+				return f(o.failure);
+			}
+		}),function(s) {
+			if(s == "") {
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(haxe_ds_Option.None)));
+			}
+			var doc = new jsdom_JSDOM(s).window.document;
+			var read = new mozilla_readability_Readability(doc).parse();
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(haxe_ds_Option.Some(read))));
+		}),function(readOpt) {
+			haxe_Log.trace("path",{ fileName : "src/App.hx", lineNumber : 128, className : "App", methodName : "exportToMd", customParams : [path]});
+			_gthis.counter = Debug.Log(_gthis.counter + 1,"count",{ fileName : "src/App.hx", lineNumber : 129, className : "App", methodName : "exportToMd"});
+			switch(readOpt._hx_index) {
+			case 0:
+				var _g = readOpt.v;
+				if(_g.title == "404 Not Found") {
+					_gthis.logToResumed("" + path + " is not found");
+					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(haxe_ds_Option.None)));
+				}
+				var content = "";
+				if(_g.content == "html") {
+					content = _g.content;
+				} else {
+					content = new Turndown().turndown(_g.content);
+				}
+				var titre = DotapeaTools.removeDotapeaTitle(_g.title);
+				var excerpt = DotapeaTools.removeDotapeaTitle(_g.excerpt);
+				content = DotapeaTools.remOrphanLink(content,"Retour début de page");
+				var meta = "---\ntitle: " + titre + "\ndate: " + Std.string(new Date()) + "\nauthor: postite\n---\n";
+				content = "" + meta + "\n## " + titre + "\n### " + excerpt + "\n " + content;
+				var this1 = new tink_core_MPair(Mots.underclean(titre),content);
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(haxe_ds_Option.Some(this1))));
+			case 1:
+				_gthis.logToResumed("" + path + " is vide");
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(haxe_ds_Option.None)));
+			}
+		}),function(opt) {
+			switch(opt._hx_index) {
+			case 0:
+				var pair = opt.v;
+				return tink_core_Promise.next(tink_core_Promise.next(asys_io_File.saveContent(process.cwd() + Debug.Log("/www/md/" + pair.a + ".md","write",{ fileName : "src/App.hx", lineNumber : 163, className : "App", methodName : "exportToMd"}),pair.b),function(n) {
+					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(_gthis.done.push(pair.a))));
+				}),function(n) {
+					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(null)));
+				});
+			case 1:
+				return tink_core_Promise.NOISE;
+			}
+		}),function(o) {
+			switch(o._hx_index) {
+			case 0:
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
+			case 1:
+				return f1(o.failure);
+			}
+		});
+	}
+	,__class__: App
+};
+var DotapeaTools = function() { };
+DotapeaTools.__name__ = true;
+DotapeaTools.removeDotapeaTitle = function(d) {
+	return StringTools.replace(d," - Dotapea","");
+};
+DotapeaTools.remOrphanLink = function(big,link) {
+	var reg_r = new RegExp("^(\\[[" + link + "]).*$","gm".split("u").join(""));
+	return big.replace(reg_r,"");
 };
 var DateTools = function() { };
 DateTools.__name__ = true;
@@ -719,6 +891,126 @@ Type.enumParameters = function(e) {
 	} else {
 		return [];
 	}
+};
+var asys_FileSystem = function() { };
+asys_FileSystem.__name__ = true;
+asys_FileSystem.exists = function(path) {
+	var trigger = new tink_core_FutureTrigger();
+	js_node_Fs.stat(path,function(err,stats) {
+		trigger.trigger(err == null);
+	});
+	return trigger;
+};
+asys_FileSystem.rename = function(path,newPath) {
+	var trigger = new tink_core_FutureTrigger();
+	js_node_Fs.rename(path,newPath,function(err) {
+		trigger.trigger(err == null ? tink_core_Outcome.Success(null) : tink_core_Outcome.Failure(tink_core_TypedError.withData(null,err.message,err,{ fileName : "asys/FileSystem.hx", lineNumber : 30, className : "asys.FileSystem", methodName : "rename"})));
+	});
+	return trigger;
+};
+asys_FileSystem.stat = function(path) {
+	var trigger = new tink_core_FutureTrigger();
+	js_node_Fs.stat(path,function(err,stat) {
+		trigger.trigger(err == null ? tink_core_Outcome.Success({ gid : stat.gid, uid : stat.uid, atime : stat.atime, mtime : stat.mtime, ctime : stat.ctime, size : stat.size | 0, dev : stat.dev, ino : stat.ino | 0, nlink : stat.nlink, rdev : stat.rdev, mode : stat.mode}) : tink_core_Outcome.Failure(tink_core_TypedError.withData(null,err.message,err,{ fileName : "asys/FileSystem.hx", lineNumber : 53, className : "asys.FileSystem", methodName : "stat"})));
+	});
+	return trigger;
+};
+asys_FileSystem.fullPath = function(relPath) {
+	var trigger = new tink_core_FutureTrigger();
+	js_node_Fs.realpath(relPath,function(err,path) {
+		trigger.trigger(err == null ? tink_core_Outcome.Success(path) : tink_core_Outcome.Failure(tink_core_TypedError.withData(null,err.message,err,{ fileName : "asys/FileSystem.hx", lineNumber : 64, className : "asys.FileSystem", methodName : "fullPath"})));
+	});
+	return trigger;
+};
+asys_FileSystem.absolutePath = function(relPath) {
+	if(haxe_io_Path.isAbsolute(relPath)) {
+		return relPath;
+	}
+	return haxe_io_Path.join([process.cwd(),relPath]);
+};
+asys_FileSystem.isDirectory = function(path) {
+	var trigger = new tink_core_FutureTrigger();
+	js_node_Fs.stat(path,function(err,stat) {
+		trigger.trigger(err == null && stat.isDirectory());
+	});
+	return trigger;
+};
+asys_FileSystem.mkdir = function(path) {
+	return tink_core_Future.async(function(_cb) {
+		js_node_Fs.mkdir(path,function(err) {
+			_cb(err == null || err.code == "EEXIST" ? tink_core_Outcome.Success(null) : tink_core_Outcome.Failure(tink_core_TypedError.withData(500,err.message,err,{ fileName : "asys/FileSystem.hx", lineNumber : 92, className : "asys.FileSystem", methodName : "mkdir"})));
+		});
+	});
+};
+asys_FileSystem.createDirectory = function(path) {
+	var this1 = tink_core_Future.async(function(cb) {
+		asys_FileSystem.isDirectory(path).handle(function(isDir) {
+			if(isDir) {
+				cb(tink_core_Outcome.Success(null));
+			} else {
+				asys_FileSystem.mkdir(path).handle(function(o) {
+					if(o._hx_index == 1) {
+						if(o.failure.data.code == "ENOENT") {
+							tink_core_Promise.next(asys_FileSystem.createDirectory(js_node_Path.dirname(path)),function(_) {
+								return asys_FileSystem.mkdir(path);
+							}).handle(cb);
+						} else {
+							cb(o);
+						}
+					} else {
+						cb(o);
+					}
+				});
+			}
+		});
+	});
+	this1.eager();
+	return this1;
+};
+asys_FileSystem.deleteFile = function(path) {
+	var trigger = new tink_core_FutureTrigger();
+	js_node_Fs.unlink(path,function(err) {
+		trigger.trigger(err == null ? tink_core_Outcome.Success(null) : tink_core_Outcome.Failure(tink_core_TypedError.withData(null,err.message,err,{ fileName : "asys/FileSystem.hx", lineNumber : 117, className : "asys.FileSystem", methodName : "deleteFile"})));
+	});
+	return trigger;
+};
+asys_FileSystem.deleteDirectory = function(path) {
+	var this1 = tink_core_Future.async(function(cb) {
+		tink_core_Promise.next(tink_core_Promise.next(asys_FileSystem.readDirectory(path),function(files) {
+			var _g = [];
+			var _g1 = 0;
+			while(_g1 < files.length) {
+				var file = files[_g1];
+				++_g1;
+				var cur = ["" + path + "/" + file];
+				_g.push(tink_core_Future.flatMap(asys_FileSystem.isDirectory(cur[0]),(function(cur) {
+					return function(isDir) {
+						if(isDir) {
+							return asys_FileSystem.deleteDirectory(cur[0]);
+						} else {
+							return asys_FileSystem.deleteFile(cur[0]);
+						}
+					};
+				})(cur)));
+			}
+			return tink_core_Promise.inParallel(_g);
+		}),function(_) {
+			return tink_core_Future.async(function(cb1) {
+				js_node_Fs.rmdir(path,function(err) {
+					cb(err == null ? tink_core_Outcome.Success(null) : tink_core_Outcome.Failure(tink_core_TypedError.withData(500,err.message,err,{ fileName : "asys/FileSystem.hx", lineNumber : 133, className : "asys.FileSystem", methodName : "deleteDirectory"})));
+				});
+			});
+		}).handle(cb);
+	});
+	this1.eager();
+	return this1;
+};
+asys_FileSystem.readDirectory = function(path) {
+	var trigger = new tink_core_FutureTrigger();
+	js_node_Fs.readdir(path,function(err,files) {
+		trigger.trigger(err == null ? tink_core_Outcome.Success(files) : tink_core_Outcome.Failure(tink_core_TypedError.withData(null,err.message,err,{ fileName : "asys/FileSystem.hx", lineNumber : 144, className : "asys.FileSystem", methodName : "readDirectory"})));
+	});
+	return trigger;
 };
 var asys_io_File = function() { };
 asys_io_File.__name__ = true;
@@ -1767,6 +2059,29 @@ haxe_io_Path.extension = function(path) {
 	}
 	return s.ext;
 };
+haxe_io_Path.join = function(paths) {
+	var _g = [];
+	var _g1 = 0;
+	while(_g1 < paths.length) {
+		var v = paths[_g1];
+		++_g1;
+		if(v != null && v != "") {
+			_g.push(v);
+		}
+	}
+	if(_g.length == 0) {
+		return "";
+	}
+	var path = _g[0];
+	var _g1 = 1;
+	var _g2 = _g.length;
+	while(_g1 < _g2) {
+		var i = _g1++;
+		path = haxe_io_Path.addTrailingSlash(path);
+		path += _g[i];
+	}
+	return haxe_io_Path.normalize(path);
+};
 haxe_io_Path.normalize = function(path) {
 	var slash = "/";
 	path = path.split("\\").join(slash);
@@ -1836,6 +2151,36 @@ haxe_io_Path.normalize = function(path) {
 		}
 	}
 	return acc_b;
+};
+haxe_io_Path.addTrailingSlash = function(path) {
+	if(path.length == 0) {
+		return "/";
+	}
+	var c1 = path.lastIndexOf("/");
+	var c2 = path.lastIndexOf("\\");
+	if(c1 < c2) {
+		if(c2 != path.length - 1) {
+			return path + "\\";
+		} else {
+			return path;
+		}
+	} else if(c1 != path.length - 1) {
+		return path + "/";
+	} else {
+		return path;
+	}
+};
+haxe_io_Path.isAbsolute = function(path) {
+	if(StringTools.startsWith(path,"/")) {
+		return true;
+	}
+	if(path.charAt(1) == ":") {
+		return true;
+	}
+	if(StringTools.startsWith(path,"\\\\")) {
+		return true;
+	}
+	return false;
 };
 haxe_io_Path.prototype = {
 	toString: function() {
@@ -2235,6 +2580,7 @@ js_node_KeyValue.get_key = function(this1) {
 js_node_KeyValue.get_value = function(this1) {
 	return this1[1];
 };
+var js_node_Path = require("path");
 var js_node_buffer_Buffer = require("buffer").Buffer;
 var js_node_buffer__$Buffer_Helper = function() { };
 js_node_buffer__$Buffer_Helper.__name__ = true;
@@ -2271,6 +2617,15 @@ js_node_url_URLSearchParamsEntry.get_value = function(this1) {
 };
 var jsdom_JSDOM = require("jsdom").JSDOM;
 var mozilla_readability_Readability = require("@mozilla/readability").Readability;
+var sys_FileSystem = function() { };
+sys_FileSystem.__name__ = true;
+sys_FileSystem.isDirectory = function(path) {
+	try {
+		return js_node_Fs.statSync(path).isDirectory();
+	} catch( _g ) {
+		return false;
+	}
+};
 var sys_io_FileInput = function(fd) {
 	this.fd = fd;
 	this.pos = 0;
@@ -4184,7 +4539,9 @@ tink_core_Future.get_status = function(this1) {
 	return this1.getStatus();
 };
 tink_core_Future._new = function(wakeup) {
-	var this1 = new tink_core__$Future_SuspendableFuture(wakeup);
+	var this1 = new tink_core__$Future_SuspendableFuture(function($yield,destroy) {
+		return wakeup($yield);
+	});
 	return this1;
 };
 tink_core_Future.handle = function(this1,callback) {
@@ -4227,8 +4584,8 @@ tink_core_Future.first = function(this1,that) {
 		case 4:
 			return _g;
 		default:
-			return new tink_core__$Future_SuspendableFuture(function(fire) {
-				return new tink_core__$Callback_LinkPair(this1.handle(fire),that.handle(fire));
+			return new tink_core__$Future_SuspendableFuture(function($yield,_) {
+				return new tink_core__$Callback_LinkPair(this1.handle($yield),that.handle($yield));
 			});
 		}
 	}
@@ -4245,9 +4602,9 @@ tink_core_Future.map = function(this1,f,gather) {
 	case 4:
 		return tink_core_Future.never();
 	default:
-		return new tink_core__$Future_SuspendableFuture(function(fire) {
+		return new tink_core__$Future_SuspendableFuture(function($yield,_) {
 			return this1.handle(function(v) {
-				fire(f(v));
+				$yield(f(v));
 			});
 		});
 	}
@@ -4257,23 +4614,28 @@ tink_core_Future.flatMap = function(this1,next,gather) {
 	switch(_g._hx_index) {
 	case 3:
 		var l = _g.result;
-		return new tink_core__$Future_SuspendableFuture(function(fire) {
+		return new tink_core__$Future_SuspendableFuture(function($yield,_) {
 			return next(tink_core_Lazy.get(l)).handle(function(v) {
-				fire(v);
+				$yield(v);
 			});
 		});
 	case 4:
 		return tink_core_Future.never();
 	default:
-		return new tink_core__$Future_SuspendableFuture(function($yield) {
+		return new tink_core__$Future_SuspendableFuture(function($yield,destroy) {
 			var inner = new tink_core_CallbackLinkRef();
 			var outer = this1.handle(function(v) {
-				var param = next(v).handle($yield);
-				var this1 = inner.link;
-				if(this1 != null) {
-					this1.cancel();
+				var _g = next(v);
+				if(_g.getStatus()._hx_index == 4) {
+					destroy();
+				} else {
+					var param = _g.handle($yield);
+					var this1 = inner.link;
+					if(this1 != null) {
+						this1.cancel();
+					}
+					inner.link = param;
 				}
-				inner.link = param;
 			});
 			return new tink_core__$Callback_LinkPair(outer,inner);
 		});
@@ -4304,7 +4666,7 @@ tink_core_Future.merge = function(this1,that,combine) {
 	} else if(_g1._hx_index == 4) {
 		return tink_core_Future.never();
 	} else {
-		return new tink_core__$Future_SuspendableFuture(function($yield) {
+		return new tink_core__$Future_SuspendableFuture(function($yield,_) {
 			var check = function(v) {
 				var _g = this1.getStatus();
 				var _g1 = that.getStatus();
@@ -4336,7 +4698,7 @@ tink_core_Future.ofJsPromise = function(promise,transformError) {
 			var tmp;
 			if(transformError == null) {
 				var e1 = e;
-				tmp = tink_core_TypedError.withData(500,e1.message,e1,{ fileName : "tink/core/Future.hx", lineNumber : 176, className : "tink.core._Future.Future_Impl_", methodName : "ofJsPromise"});
+				tmp = tink_core_TypedError.withData(500,e1.message,e1,{ fileName : "tink/core/Future.hx", lineNumber : 179, className : "tink.core._Future.Future_Impl_", methodName : "ofJsPromise"});
 			} else {
 				var f = transformError;
 				tmp = f(e);
@@ -4375,7 +4737,7 @@ tink_core_Future.processMany = function(a,concurrency,fn,lift) {
 	if(a.length == 0) {
 		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(lift(tink_core_Outcome.Success([]))));
 	} else {
-		var this1 = new tink_core__$Future_SuspendableFuture(function($yield) {
+		var wakeup = function($yield) {
 			var links = [];
 			var _g = [];
 			var _g1 = 0;
@@ -4471,6 +4833,9 @@ tink_core_Future.processMany = function(a,concurrency,fn,lift) {
 				step();
 			}
 			return tink_core_CallbackLink.fromMany(links);
+		};
+		var this1 = new tink_core__$Future_SuspendableFuture(function($yield,destroy) {
+			return wakeup($yield);
 		});
 		return this1;
 	}
@@ -4497,7 +4862,7 @@ tink_core_Future.async = function(init,lazy) {
 	}
 };
 tink_core_Future.irreversible = function(init) {
-	return new tink_core__$Future_SuspendableFuture(function($yield) {
+	return new tink_core__$Future_SuspendableFuture(function($yield,_) {
 		init($yield);
 		return null;
 	});
@@ -4696,11 +5061,15 @@ tink_core__$Future_SuspendableFuture.prototype = $extend(tink_core__$Future_Futu
 			}
 		}
 	}
+	,destroy: function() {
+		this.callbacks.dispose();
+		this.status = tink_core_FutureStatus.NeverEver;
+	}
 	,arm: function() {
 		var _gthis = this;
 		this.link = this.wakeup(function(x) {
 			_gthis.trigger(x);
-		});
+		},$bind(this,this.destroy));
 	}
 	,eager: function() {
 		switch(this.status._hx_index) {
@@ -4824,7 +5193,7 @@ tink_core_OptionTools.toOutcome = function(o,pos) {
 	case 0:
 		return tink_core_Outcome.Success(o.v);
 	case 1:
-		return tink_core_Outcome.Failure(new tink_core_TypedError(404,"Some value expected but none found in " + pos.fileName + "@line " + pos.lineNumber,{ fileName : "tink/core/Option.hx", lineNumber : 31, className : "tink.core.OptionTools", methodName : "toOutcome"}));
+		return tink_core_Outcome.Failure(new tink_core_TypedError(404,"Some value expected but none found in " + pos.fileName + "@line " + pos.lineNumber,{ fileName : "tink/core/Option.hx", lineNumber : 32, className : "tink.core.OptionTools", methodName : "toOutcome"}));
 	}
 };
 tink_core_OptionTools.or = function(o,l) {
@@ -5224,7 +5593,7 @@ var tink_core__$Progress_ProgressObject = function(changed,getStatus) {
 	},null);
 	this.progressed = this1;
 	this.getStatus = getStatus;
-	var this1 = new tink_core__$Future_SuspendableFuture(function(fire) {
+	var wakeup = function(fire) {
 		var _g = getStatus();
 		if(_g._hx_index == 1) {
 			fire(_g.v);
@@ -5236,6 +5605,9 @@ var tink_core__$Progress_ProgressObject = function(changed,getStatus) {
 				}
 			});
 		}
+	};
+	var this1 = new tink_core__$Future_SuspendableFuture(function($yield,destroy) {
+		return wakeup($yield);
 	});
 	this.result = this1;
 };
@@ -5370,12 +5742,15 @@ tink_core_Promise.never = function() {
 	return tink_core_Future.never();
 };
 tink_core_Promise._new = function(f) {
-	var this1 = new tink_core__$Future_SuspendableFuture(function(cb) {
+	var wakeup = function(cb) {
 		return f(function(v) {
 			cb(tink_core_Outcome.Success(v));
 		},function(e) {
 			cb(tink_core_Outcome.Failure(e));
 		});
+	};
+	var this1 = new tink_core__$Future_SuspendableFuture(function($yield,destroy) {
+		return wakeup($yield);
 	});
 	var this2 = this1;
 	return this2;
@@ -5492,12 +5867,15 @@ tink_core_Promise.irreversible = function(f) {
 		f(res,rej);
 		return null;
 	};
-	var this1 = new tink_core__$Future_SuspendableFuture(function(cb) {
+	var wakeup = function(cb) {
 		return f1(function(v) {
 			cb(tink_core_Outcome.Success(v));
 		},function(e) {
 			cb(tink_core_Outcome.Failure(e));
 		});
+	};
+	var this1 = new tink_core__$Future_SuspendableFuture(function($yield,destroy) {
+		return wakeup($yield);
 	});
 	var this2 = this1;
 	return this2;
@@ -5627,8 +6005,11 @@ tink_core_Promise.asFuture = function(this1) {
 	return this1;
 };
 tink_core_Promise.lazy = function(p) {
-	var this1 = new tink_core__$Future_SuspendableFuture(function(cb) {
+	var wakeup = function(cb) {
 		return tink_core_Lazy.get(p).handle(cb);
+	};
+	var this1 = new tink_core__$Future_SuspendableFuture(function($yield,destroy) {
+		return wakeup($yield);
 	});
 	return this1;
 };
@@ -8011,12 +8392,16 @@ tink_io_RealSourceTools.split = function(src,delim) {
 			return src;
 		}
 	}))), delimiter : tink_core_Promise.next(s,function(p) {
+		var p1;
 		switch(p.a._hx_index) {
 		case 0:
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(delim)));
+			p1 = new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(delim)));
+			break;
 		case 1:
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(new tink_core_TypedError(404,"Delimiter not found",{ fileName : "tink/io/Source.hx", lineNumber : 213, className : "tink.io.RealSourceTools", methodName : "split"}))));
+			p1 = new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(new tink_core_TypedError(404,"Delimiter not found",{ fileName : "tink/io/Source.hx", lineNumber : 214, className : "tink.io.RealSourceTools", methodName : "split"}))));
+			break;
 		}
+		return p1;
 	}), after : tink_streams_Stream.promise(tink_core_Promise.next(s,tink_core_Next.ofSafeSync(function(p) {
 		return p.b;
 	})))};
@@ -9863,6 +10248,7 @@ js_Boot.__toStr = ({ }).toString;
 if(ArrayBuffer.prototype.slice == null) {
 	ArrayBuffer.prototype.slice = js_lib__$ArrayBuffer_ArrayBufferCompat.sliceImpl;
 }
+App.dotapeaPath = "./www.dotapea.com/";
 DateTools.DAY_SHORT_NAMES = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
 DateTools.DAY_NAMES = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 DateTools.MONTH_SHORT_NAMES = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
