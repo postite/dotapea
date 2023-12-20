@@ -28,6 +28,8 @@ libs npm ( cf package.json):
 - turndown : conversion en markdown
 - lix ( haxe like npm ): 
 
+les fichiers markdown  sont exportés vers le repertoire www/md. 
+
 
 ### install 
 
