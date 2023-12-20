@@ -6,6 +6,38 @@ function $extend(from, fields) {
 	if( fields.toString !== Object.prototype.toString ) proto.toString = fields.toString;
 	return proto;
 }
+var App = function() { };
+App.__name__ = true;
+App.main = function() {
+	haxe_Log.trace("Hella, world!",{ fileName : "src/App.hx", lineNumber : 8, className : "App", methodName : "main"});
+	var f = function(r) {
+		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"err",{ fileName : "src/App.hx", lineNumber : 36, className : "App", methodName : "main"}))));
+	};
+	var this1 = tink_core_Future.flatMap(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(asys_io_File.getContent("./www.dotapea.com/a.html"),function(s) {
+		var doc = new jsdom_JSDOM(s).window.document;
+		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(new mozilla_readability_Readability(doc).parse())));
+	}),function(parsed) {
+		var content = "";
+		if(parsed.content == "html") {
+			content = parsed.content;
+		} else {
+			content = new Turndown().turndown(parsed.content);
+		}
+		Debug.Log(content,"content",{ fileName : "src/App.hx", lineNumber : 31, className : "App", methodName : "main"});
+		var this1 = new tink_core_MPair(Mots.underclean(parsed.title),content);
+		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(this1)));
+	}),function(pair) {
+		return asys_io_File.saveContent(process.cwd() + ("/www/md/" + pair.a + ".md"),pair.b);
+	}),function(o) {
+		switch(o._hx_index) {
+		case 0:
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
+		case 1:
+			return f(o.failure);
+		}
+	});
+	this1.eager();
+};
 var DateTools = function() { };
 DateTools.__name__ = true;
 DateTools.__format_get = function(d,e) {
@@ -669,38 +701,6 @@ _$Sys_FileInput.prototype = $extend(haxe_io_Input.prototype,{
 	}
 	,__class__: _$Sys_FileInput
 });
-var Top = function() { };
-Top.__name__ = true;
-Top.main = function() {
-	haxe_Log.trace("Hella, world!",{ fileName : "src/Top.hx", lineNumber : 8, className : "Top", methodName : "main"});
-	var f = function(r) {
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"err",{ fileName : "src/Top.hx", lineNumber : 36, className : "Top", methodName : "main"}))));
-	};
-	var this1 = tink_core_Future.flatMap(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(asys_io_File.getContent("./www.dotapea.com/a.html"),function(s) {
-		var doc = new jsdom_JSDOM(s).window.document;
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(new mozilla_readability_Readability(doc).parse())));
-	}),function(parsed) {
-		var content = "";
-		if(parsed.content == "html") {
-			content = parsed.content;
-		} else {
-			content = new Turndown().turndown(parsed.content);
-		}
-		Debug.Log(content,"content",{ fileName : "src/Top.hx", lineNumber : 31, className : "Top", methodName : "main"});
-		var this1 = new tink_core_MPair(Mots.underclean(parsed.title),content);
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(this1)));
-	}),function(pair) {
-		return asys_io_File.saveContent(process.cwd() + ("/www/md/" + pair.a + ".md"),pair.b);
-	}),function(o) {
-		switch(o._hx_index) {
-		case 0:
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
-		case 1:
-			return f(o.failure);
-		}
-	});
-	this1.eager();
-};
 var Turndown = require("turndown");
 var Type = function() { };
 Type.__name__ = true;
@@ -10901,7 +10901,7 @@ tink_io_Worker.EAGER = new tink_io__$Worker_EagerWorker();
 tink_io_Worker.pool = [tink_io_Worker.EAGER];
 tink_url_Path.root = "/";
 tink_web_routing_Response.BINARY = "application/octet-stream";
-Top.main();
+App.main();
 })(typeof window != "undefined" ? window : typeof global != "undefined" ? global : typeof self != "undefined" ? self : this);
 
 //# sourceMappingURL=app.js.map

@@ -1,9 +1,29 @@
-# Haxe project
+# Dotapea revival 
 
-This is an example Haxe project scaffolded by Visual Studio Code.
+### description 
 
-Without further changes the structure is following:
+re-publication du site de base de connaissance ex dotapea.com:
 
- * `src/Main.hx`: Entry point Haxe source file
- * `build.hxml`: Haxe command line file used to build the project
- * `README.md`: This file
+[site-archive](https://web.archive.org/web/20191027030704/http://online-dotapea-archive.e-monsite.com/medias/files/accueil.html)
+
+ou 
+
+
+
+
+
+### process
+
+- [x] scrapping des pages depuis [boivin.fr](https://cbonvin.fr/dotapea)  dans le rep www.dotapea.com
+- [x] creer un convertisseur html->markdown
+- [ ] creer  un parseur de lien
+- recreer une arborescence & navigation plus coherente
+
+
+### POC
+
+l'app de parsing est  pour l'instant codée en haxe [haxe.org](http://www.haxe.org) et compilée en nodeJS. 
+libs npm ( cf package.json): 
+- mozilla-readibility : lecteur ( reader-mode) de firefox pour épurer l'html 
+- turndown : conversion en markdown
+- lix ( haxe like npm )

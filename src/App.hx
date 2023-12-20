@@ -3,7 +3,7 @@ import mozilla.readability.Readability;
 import asys.io.File;
 import tink.http.Fetch;
 using Mots;
-class Top {
+class App {
 	static function main() {
 		trace("Hella, world!");
 
