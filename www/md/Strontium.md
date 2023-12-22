@@ -1,9 +1,3 @@
----
-title: Strontium
-date: Wed Dec 20 2023 16:33:58 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Strontium
 ### Strontium, article du glossaire
  _De Strontian, village écossais.  
@@ -28,3 +22,8 @@ _L'oxyde de strontium_ SrO est quelquefois employé dans les arts du feu. Par ra
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Strontium
+date: Fri Dec 22 2023 11:28:30 GMT+0100 (Central European Standard Time)
+author: postite
+```

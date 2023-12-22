@@ -1,9 +1,3 @@
----
-title: Vaseline
-date: Wed Dec 20 2023 16:34:16 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vaseline
 ### Vaseline, article du glossaire
  _De l'allemand_ Wasser_, eau et du grec_ elaion_, huile_
@@ -19,3 +13,8 @@ Comme celles-ci, la vaseline n'a pas d'affinité : elle ne se lie pas. Pour cet
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Vaseline
+date: Fri Dec 22 2023 11:28:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

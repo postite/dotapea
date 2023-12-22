@@ -2,9 +2,14 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Haxe Interpreter",
-			"type": "haxe-eval",
-			"request": "launch"
+			"preLaunchTask": "server",
+			"type": "node",
+			"request": "launch",
+			"name": "Launch server",
+			"program": "${workspaceFolder}/www/server.js",
+			"skipFiles": [
+				"<node_internals>/**"
+			]
 		}
 	]
 }

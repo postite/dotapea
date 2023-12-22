@@ -1,9 +1,3 @@
----
-title: Xanthine
-date: Wed Dec 20 2023 16:34:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Xanthine
 ### Xanthine, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Voir [café](encresdiverses.html#lecafe) et [thé](encresdiverses.html#lethe).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Xanthine
+date: Fri Dec 22 2023 11:28:51 GMT+0100 (Central European Standard Time)
+author: postite
+```

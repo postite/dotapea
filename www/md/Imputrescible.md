@@ -1,9 +1,3 @@
----
-title: Imputrescible
-date: Wed Dec 20 2023 16:32:52 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Imputrescible
 ### Imputrescible, article du glossaire
  _Adjectif_
@@ -27,3 +21,8 @@ Voir aussi [tanin](tanin.html), [chaux in _La caséine_](caseine.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Imputrescible
+date: Fri Dec 22 2023 11:27:26 GMT+0100 (Central European Standard Time)
+author: postite
+```

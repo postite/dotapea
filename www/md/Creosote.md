@@ -1,9 +1,3 @@
----
-title: Créosote
-date: Wed Dec 20 2023 16:32:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Créosote
 ### Créosote, article du glossaire
  _Du grec_ kreas_, chair, et_ sôzein_, conserver._
@@ -25,3 +19,8 @@ N'hésitez pas à [nous écrire](ecrire.html) si vous disposez d'informations co
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Créosote
+date: Fri Dec 22 2023 11:26:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

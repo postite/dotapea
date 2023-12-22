@@ -1,9 +1,3 @@
----
-title: Acyclique
-date: Wed Dec 20 2023 16:31:20 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Acyclique
 ### Acyclique, adjectif, article du glossaire
  Une molécule acyclique a une structure en [chaîne](chaine.html) ouverte (série grasse).
@@ -37,3 +31,8 @@ De fait, il suffit de comparer la lenteur de déplacement d'un corps gras à la 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Acyclique
+date: Fri Dec 22 2023 11:25:56 GMT+0100 (Central European Standard Time)
+author: postite
+```

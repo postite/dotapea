@@ -1,9 +1,3 @@
----
-title: Naphtalène
-date: Wed Dec 20 2023 16:33:13 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Naphtalène
 ### Naphtalène, article du glossaire
  _De_ naphtaline_, de_ naphte
@@ -25,3 +19,8 @@ Ce produit peut être prélevé à différentes hauteurs de la colonne de [disti
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Naphtalène
+date: Fri Dec 22 2023 11:27:47 GMT+0100 (Central European Standard Time)
+author: postite
+```

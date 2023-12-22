@@ -1,9 +1,3 @@
----
-title: Dévernissage
-date: Wed Dec 20 2023 16:32:15 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dévernissage
 ### Dévernissage, article du glossaire
  Un [vernis](vernis.html) est protecteur. Mais lui-même ne dispose pas de protection.
@@ -19,3 +13,8 @@ En ce qui concerne les autres procédés de peinture, un vernis n'est pas forcé
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dévernissage
+date: Fri Dec 22 2023 11:26:50 GMT+0100 (Central European Standard Time)
+author: postite
+```

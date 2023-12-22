@@ -1,9 +1,3 @@
----
-title: Linoxine
-date: Wed Dec 20 2023 16:33:01 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Linoxine
 ### Linoxine, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ La peinture à l'huile de lin sèche et le [linoléum](linoxine.html#linoleique)
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Linoxine
+date: Fri Dec 22 2023 11:27:35 GMT+0100 (Central European Standard Time)
+author: postite
+```

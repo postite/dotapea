@@ -1,9 +1,3 @@
----
-title: Kaolin
-date: Wed Dec 20 2023 16:32:55 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Kaolin
 ### Kaolin, article du glossaire
  _De_ kaoling_, nom chinois d'un lieu où l'on extrayait le kaolin._
@@ -33,3 +27,8 @@ Cette tendance théorique peut être exploitée. Le kaolin est d'ailleurs utilis
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Kaolin
+date: Fri Dec 22 2023 11:27:29 GMT+0100 (Central European Standard Time)
+author: postite
+```

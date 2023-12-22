@@ -1,9 +1,3 @@
----
-title: Aluminium
-date: Wed Dec 20 2023 16:31:25 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Aluminium
 ### Aluminium, usage en arts plastiques
  **L'aluminium**
@@ -27,3 +21,8 @@ Sa neutralité chimique et sa permanence sont tout spécialement notoires.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Aluminium
+date: Fri Dec 22 2023 11:26:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

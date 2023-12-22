@@ -1,9 +1,3 @@
----
-title: Baume
-date: Wed Dec 20 2023 16:31:38 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Baume
 ### Baume, article du glossaire
  _du grec_ balsamon_, qui donne l'adjectif_ balsamique_._
@@ -23,3 +17,8 @@ Voir [résine](resine.html), [oléorésine](oleoresine.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Baume
+date: Fri Dec 22 2023 11:26:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Sumac
-date: Wed Dec 20 2023 16:34:01 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Sumac
 ### Sumac, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Leurs usages sont multiples (tannerie, colorants, teinturerie), mais nous mentio
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Sumac
+date: Fri Dec 22 2023 11:28:33 GMT+0100 (Central European Standard Time)
+author: postite
+```

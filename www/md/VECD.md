@@ -1,9 +1,3 @@
----
-title: VECD
-date: Wed Dec 20 2023 16:34:17 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## VECD
 ### VECD, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Concernant une exposition de courte durée, elle est souvent supérieure à la [
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: VECD
+date: Fri Dec 22 2023 11:28:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

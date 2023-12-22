@@ -1,9 +1,3 @@
----
-title: Barbotine
-date: Wed Dec 20 2023 16:31:36 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Barbotine
 ### Barbotine, article du glossaire
  C'est une pâte collante faite d'argile saturé d'eau. Elle a au moins différents emplois en modelage et moulage. Nous citerons les suivants :  
@@ -50,3 +44,8 @@ Voir [Les terres](terressupports.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Barbotine
+date: Fri Dec 22 2023 11:26:11 GMT+0100 (Central European Standard Time)
+author: postite
+```

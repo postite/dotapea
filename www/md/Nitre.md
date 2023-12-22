@@ -1,9 +1,3 @@
----
-title: Nitre
-date: Wed Dec 20 2023 16:33:15 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Nitre
 ### Nitre, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Dans le domaine des arts du feu, il n'est plus guère utilisé car trop soluble.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Nitre
+date: Fri Dec 22 2023 11:27:49 GMT+0100 (Central European Standard Time)
+author: postite
+```

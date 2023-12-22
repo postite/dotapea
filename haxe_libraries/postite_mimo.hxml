@@ -1,0 +1,4 @@
+# @install: lix --silent download "gh://github.com/postite/postite_mimo#4f80f8134909499f8c9bc93763384befc9346517" into postite_mimo/0.0.6/github/4f80f8134909499f8c9bc93763384befc9346517
+-lib mime
+-cp ${HAXE_LIBCACHE}/postite_mimo/0.0.6/github/4f80f8134909499f8c9bc93763384befc9346517/src/
+-D postite_mimo=0.0.6

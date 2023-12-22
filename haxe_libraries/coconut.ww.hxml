@@ -1,0 +1,4 @@
+-lib coconut.vdom
+-cp /Users/postite/Documents/LAB/coconut.ww/src
+-D coconut.ww=0.0.0
+--macro Sys.println("haxe_libraries/coconut.ww.hxml:3: [Warning] Using dev version of library coconut.ww")

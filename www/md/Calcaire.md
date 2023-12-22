@@ -1,9 +1,3 @@
----
-title: Calcaire
-date: Wed Dec 20 2023 16:31:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Calcaire
 ### Calcaire, article du glossaire
  Est calcaire ce qui contient une certaine quantité de carbon[ate](uresiresates.html) de calcium (dit _**[calcite](calcite.html)**_, n.f., de formule CaCO3), molécule à distinguer de la chaux vive, oxyde de calcium, CaO, ou éteinte, Ca(OH)2, et du [gypse](gypse.html) qui est sulfuré.
@@ -23,3 +17,8 @@ Voir aussi [marne](marne.html), [chaux](chaux.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Calcaire
+date: Fri Dec 22 2023 11:26:23 GMT+0100 (Central European Standard Time)
+author: postite
+```

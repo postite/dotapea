@@ -1,9 +1,3 @@
----
-title: Fleur
-date: Wed Dec 20 2023 16:32:33 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Fleur
 ### Fleur, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Il existe plusieurs acceptions du mot fleur concernant directement ou non le dom
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Fleur
+date: Fri Dec 22 2023 11:27:07 GMT+0100 (Central European Standard Time)
+author: postite
+```

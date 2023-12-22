@@ -1,9 +1,3 @@
----
-title: Assiette
-date: Wed Dec 20 2023 16:31:31 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Assiette
 ### Assiette et dorure, article du glossaire
  Terme utilisé en dorure. 
@@ -25,3 +19,8 @@ Enfin on lit ici ou là une qu'il existerait - toujours dans le domaine de la do
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Assiette
+date: Fri Dec 22 2023 11:26:06 GMT+0100 (Central European Standard Time)
+author: postite
+```

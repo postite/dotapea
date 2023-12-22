@@ -1,9 +1,3 @@
----
-title: Hématite
-date: Wed Dec 20 2023 16:32:45 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Hématite
 ### Hématite, article du glossaire
  Navig. page/section
@@ -55,3 +49,8 @@ L'hématite rouge (ferret d'Espagne) donne la [sanguine](sanguine.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Hématite
+date: Fri Dec 22 2023 11:27:19 GMT+0100 (Central European Standard Time)
+author: postite
+```

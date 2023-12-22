@@ -1,9 +1,3 @@
----
-title: Naphtol
-date: Wed Dec 20 2023 16:33:14 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Naphtol
 ### Naphtol, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Très utilisé en peinture (surtout acrylique) comme base d'un pigment [carmin](
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Naphtol
+date: Fri Dec 22 2023 11:27:47 GMT+0100 (Central European Standard Time)
+author: postite
+```

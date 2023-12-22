@@ -1,0 +1,4 @@
+# @install: lix --silent download "gh://github.com/why-haxe/why-email#88f602210cbeb05f608d668123bd31c846f7781f" into why-email/0.1.1/github/88f602210cbeb05f608d668123bd31c846f7781f
+-lib tink_io
+-cp ${HAXE_LIBCACHE}/why-email/0.1.1/github/88f602210cbeb05f608d668123bd31c846f7781f/src
+-D why-email=0.1.1

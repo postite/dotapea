@@ -1,9 +1,3 @@
----
-title: Méthane
-date: Wed Dec 20 2023 16:33:09 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Méthane
 ### Méthane, article du glossaire
  CH4. Gaz inodore, [saturé](saturation.html) (comme l'indique le suffixe _ane_) semblant incolore, il est très inflammable et explosif. Son "m" initial - m comme moitié - pourrait signifier qu'il s'agit en quelque sorte de la moitié d'un [éthane](ethane.html).
@@ -29,3 +23,8 @@ Oxydé, il devient [méthanol](methanol.html#lemethanolcommeproduitpur).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Méthane
+date: Fri Dec 22 2023 11:27:43 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+(:head:)
+<body>
+    <div id="maincontainer" id="(:id:)">
+        (:header:)
+        <div id="container">
+            <div class="aside">
+                <div class="titrebox top" >
+                    <h2>themes</h2>
+                </div>
+                <div class="menu">
+                    (:menu:)
+                </div>
+                <div class="titrebox mid">
+                    <h2>glossaire</h2>
+                </div>
+                <div class="glossaire">              
+                    (: for a in "a,b,c,e,d,e,f,g,h,ijk,l,m,no,p,qr,s,t,uv,wxyz".split(","):)
+                    <div class="gloss_lettre">
+                        <a href="/(:a:).html">(:a:)</a>
+                    </div>
+                    (:end:)
+                </div>
+                <div class="titrebox mid">
+                    <h2> <a href="/dialoguesdotapea.html">dialogues</a></h2>
+                </div>
+            </div>
+            <div id="content" class="">
+                (: viewContent :)
+            </div>
+        </div>
+        (: footer :)
+    </div>
+</body>
+
+</html>

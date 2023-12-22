@@ -1,9 +1,3 @@
----
-title: Cinabre
-date: Wed Dec 20 2023 16:32:05 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cinabre
 ### Cinabre
  _Du grec kinnabari.  
@@ -30,3 +24,8 @@ Note : certains fabricants proposent des "verts cinabre" de composition inconnu
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Cinabre
+date: Fri Dec 22 2023 11:26:40 GMT+0100 (Central European Standard Time)
+author: postite
+```

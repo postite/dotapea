@@ -1,9 +1,3 @@
----
-title: Biocide
-date: Wed Dec 20 2023 16:31:40 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Biocide
 ### Biocide, article du glossaire
  _Néologisme._
@@ -21,3 +15,8 @@ Voir par exemple _[Isothiazolinone](toxicite.html#isothiazolinone)_.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Biocide
+date: Fri Dec 22 2023 11:26:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

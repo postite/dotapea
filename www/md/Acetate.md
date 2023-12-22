@@ -1,9 +1,3 @@
----
-title: Acétate
-date: Wed Dec 20 2023 16:31:19 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Acétate
 ### Acétate, article du glossaire
  (n.m. 1787) du latin _acetum_, vinaigre.
@@ -23,3 +17,8 @@ Voir également [acétate d'amyle](acetatedamyle.html), [vinaigre](vinaigre.html
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Acétate
+date: Fri Dec 22 2023 11:25:54 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Colle
-date: Wed Dec 20 2023 16:32:07 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Colle
 ### Colle, article du glossaire
  _Du grec_ kolla
@@ -37,3 +31,8 @@ Voir [collagène](collagene.html), [liant](liant.html), [résine](resine.html), 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Colle
+date: Fri Dec 22 2023 11:26:42 GMT+0100 (Central European Standard Time)
+author: postite
+```

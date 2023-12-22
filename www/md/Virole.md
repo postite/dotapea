@@ -1,53 +1,22 @@
----
-title: Virole
-date: Wed Dec 20 2023 16:34:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Virole
 ### Virole, article du glossaire
- Navig. page/section
+ _Du latin_ viriola, viria_, sorte de bracelet_
 
-[![Sup./Above](_derived/up_cmp_themenoir010_up.gif)](uv.html)
+Pièce enserrant les poils d'un [pinceau](pinceaux.html) sur le manche. La _[sortie](sortie.html)_ en émerge.
 
-\_\_\_\_\_
+Elle était à l'origine en plume d'oiseau, puis en métal ou en plastique. Certains pinceaux chinois pour la calligraphie sont pourvus d'une sorte de virole hémisphérique en bois.
 
-**Sous cette page**
-
-\_\_\_\_\_
-
-**Pages soeurs**
-
-\_\_\_\_\_
-
-Copyright © www.dotapea.com
-
-Tous droits réservés.  
-[Précisions cliquer ici](droitscopie.html)
-
-**Accès direct glossaire**
-
-**[A](a.html)  [B](b.html)  [C](c.html)  [D](d.html)  [E](e.html)  [F](f.html)  [G](g.html)  
-[H](h.html)  [IJK](ijk.html)  [L](l.html)  [M](m.html)  [NO](no.html)  [P](p.html)  
-[QR](qr.html)  [S](s.html)  [T](t.html)  [UV](uv.html)  [WXYZ](wxyz.html)**
-
-**La vitrocéramique  
-Article du [glossaire](glossaire.html)**
-
-[Fer](vitroceramique.html) et [sable](sable.html) fondus, traités par [frittage](frittage.html).
-
-A la fois pierre et verre, la vitrocéramique résiste sans altération à des températures relativement élevées subies de manière répétitive (plaques de cuisson). Mais surtout, comparativement aux céramiques habituelles, elle ne filtre que très partiellement la chaleur. Au contraire, elle la conduit.
-
-Voir [céramique](ceramique.html).
+Métallique, la virole peut être recouverte d'or (on trouve des couvertures à 22 [carats](carat.html) dans le commerce). Sauf exceptions toujours possibles, cela n'est aucunement un luxe, un apparat : le métal précieux indique que le pinceau est destiné à des peintures très agressives. Pour les mêmes peintures (dites improprement "peintures à solvants"), d'autres fabricants recourent à du [laiton](laiton.html). Le choix doit être effectué non seulement en fonction de la virole, mais aussi en fonction du poil, c'est-à-dire, plus globalement, en fonction de la destination précise que le fabricant a donné à son pinceau (pour quel solvant, quel liquide).
 
 
-
- 
-
- ![](images/transparent122x1.gif)
 
 ![](images/flechebas.gif) [Communication](http://www.artrealite.com/annonceurs.htm) 
 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Virole
+date: Fri Dec 22 2023 11:28:49 GMT+0100 (Central European Standard Time)
+author: postite
+```

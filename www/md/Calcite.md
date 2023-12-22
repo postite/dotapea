@@ -1,9 +1,3 @@
----
-title: Calcite
-date: Wed Dec 20 2023 16:31:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Calcite
 ### Calcite, article du glossaire
  Possiblement du grec _chalix_, _chalx_, chaux
@@ -69,3 +63,8 @@ Voir [Spath](spath.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Calcite
+date: Fri Dec 22 2023 11:26:23 GMT+0100 (Central European Standard Time)
+author: postite
+```

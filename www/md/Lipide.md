@@ -1,9 +1,3 @@
----
-title: Lipide
-date: Wed Dec 20 2023 16:33:01 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Lipide
 ### Lipide, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Voir [glycéride](glyceride.html), [triglycéride](t.html#triglycerides).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Lipide
+date: Fri Dec 22 2023 11:27:35 GMT+0100 (Central European Standard Time)
+author: postite
+```

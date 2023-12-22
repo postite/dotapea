@@ -1,9 +1,3 @@
----
-title: Cramoisi
-date: Wed Dec 20 2023 16:32:10 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cramoisi
 ### Cramoisi, article du glossaire
  _De l'arabe_ qirmi'z_i, rouge de [kermès](laquesanciennes.html#kermes).  
@@ -21,3 +15,9 @@ Voir [carmin](laquesanciennes.html#lecarmindecochenilleetlerougekermes) et surto
 
 Lecture conseillée : [Le cramoisi sur Pourpre.com](http://pourpre.com/chroma/dico.php?typ=fiche&&ent=cramoisi)
 
+
+```
+title: Cramoisi
+date: Fri Dec 22 2023 11:26:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

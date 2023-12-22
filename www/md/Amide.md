@@ -1,9 +1,3 @@
----
-title: Amide
-date: Wed Dec 20 2023 16:31:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Amide
 ### Amide, article du glossaire
  Navig. page/section
@@ -55,3 +49,8 @@ Voir [polyamide](polyamide.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Amide
+date: Fri Dec 22 2023 11:26:01 GMT+0100 (Central European Standard Time)
+author: postite
+```

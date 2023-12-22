@@ -1,9 +1,3 @@
----
-title: Polycyclique
-date: Wed Dec 20 2023 16:33:35 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Polycyclique
 ### Polycyclique, article du glossaire
  _Adjectif_
@@ -63,3 +57,8 @@ Voir [cyclique](cyclique.html), [acyclique](acyclique.html), [chaîne](chaine.ht
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Polycyclique
+date: Fri Dec 22 2023 11:28:08 GMT+0100 (Central European Standard Time)
+author: postite
+```

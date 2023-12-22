@@ -1,9 +1,3 @@
----
-title: Laiton
-date: Wed Dec 20 2023 16:32:56 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Laiton
 ### Laiton, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Alliage malléable, généralement assez peu coûteux du moins par rapport au br
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Laiton
+date: Fri Dec 22 2023 11:27:30 GMT+0100 (Central European Standard Time)
+author: postite
+```

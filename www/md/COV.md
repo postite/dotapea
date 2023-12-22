@@ -1,9 +1,3 @@
----
-title: COV
-date: Wed Dec 20 2023 16:32:10 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## COV
 ### COV, article du glossaire
  Composé [Organique](organique.html) [Volatil](volatil.html).
@@ -23,3 +17,8 @@ Il est important de souligner qu'une très importante part des composés organiq
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: COV
+date: Fri Dec 22 2023 11:26:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

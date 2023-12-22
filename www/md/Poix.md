@@ -1,9 +1,3 @@
----
-title: Poix
-date: Wed Dec 20 2023 16:33:33 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Poix
 ### Poix, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Par extension, le terme poix peut désigner de nombreuses colles. Il a donné na
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Poix
+date: Fri Dec 22 2023 11:28:06 GMT+0100 (Central European Standard Time)
+author: postite
+```

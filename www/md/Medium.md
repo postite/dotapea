@@ -1,9 +1,3 @@
----
-title: Médium
-date: Wed Dec 20 2023 16:33:06 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Médium
 ### Médium, article du glossaire
  La [dilution](diluantssolvants.html) d'une peinture est un appauvrissement. Le médium agit contre cet appauvrissement tout en apportant ses propres spécificités.
@@ -21,3 +15,8 @@ Lire l'article [Médiums et vernis](mediumsetvernis.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Médium
+date: Fri Dec 22 2023 11:27:40 GMT+0100 (Central European Standard Time)
+author: postite
+```

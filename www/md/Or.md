@@ -1,29 +1,26 @@
----
-title: Or
-date: Wed Dec 20 2023 16:33:18 GMT+0100 (Central European Standard Time)
+## L'or comme pigment
+### L'or comme pigment, usage en arts plastiques
+ **L'or (pigment)**  
+
+![](images/or1versionweb.jpg)
+
+[L'or](annexe1.html#au) véritable (voir photo) est très couvrant, très présent, à tel point qu'il vaut mieux parfois le combiner avec d'autres métaux et l'employer avec sagesse sans quoi il peut étouffer une oeuvre.
+
+Lecture conseillée : [L'or sur Pourpre.com](http://pourpre.com/chroma/dico.php?typ=fiche&&ent=or)
+
+Certains peintres semblent pris d'une " fièvre de l'or" lorsqu'ils ont l'occasion de travailler avec ce métal. Nous recensons par exemple un cas d'intoxication - aux conséquences heureusement bénignes - par inhalation de poudre d'or, dû à un excès d'enthousiasme peut-être un peu puéril.
+
+Les imitations peuvent être intéressantes pour peu qu'elles conservent l'aspect _couvrant_ typique du métal précieux authentique, ce qui est rare.
+
+L'or a une luminosité à la fois intense et subtile. Les imitations de type "or rouge" ou "or vieux" peuvent être satisfaisantes, particulièrement dans le domaine des patines à la cire, mais elles le sont moins souvent dans celui des peintures en tubes, souvent kitsch.
+
+Il y a un avantage certain à reconstituer les variétés d'or à l'aide d'un or véritable combiné avec d'autres métaux.
+
+C'est une constatation sans appel : l'or véritable est vraiment inimitable (que l'on veuille bien nous excuser pour cette formule qui peut évoquer certains slogans publicitaires).
+
+
+```
+title: L'or comme pigment
+date: Fri Dec 22 2023 11:27:52 GMT+0100 (Central European Standard Time)
 author: postite
----
-
-## Or
-### Or, article du glossaire
- Du latin _aurum_
-
-Or : [n°79](annexe1.html#au) du tableau périodique des éléments.
-
-L'or, métal le plus [ductile](ductilite.html), se travaille relativement facilement. Pour cette raison, il a été employé dans une perspective [plastique](plastique.html) très tôt par de nombreux peuples. Autre avantage : bien qu'étant un métal lourd, il serait peu toxique (information non confirmée) contrairement au [plomb](plomb.html) dont il est proche à différents égards ou à [l'argent](argent.html). Il est très stable et difficilement oxydable.
-
-Si l'or est rare, ses emplois sont extrêmement nombreux. Si nombreux que nous cherchons actuellement à réunir des informations permettrant d'élaborer une vision d'ensemble. Travail en cours.
-
-Oxyde d'or, rubis : [lire passage _in_ Les oxydes](oxydes.html#oxydedor) et [Pourpre de Cassius](pourpre.html#cassius).
-
-Vieillir l'or : voir [agate](agate.html).
-
-Une encre d'or : lire [passage](chap19oxydationsmetaux.html#encredor) _in Les dialogues de Dotapea, Chap. XIX_.
-
-
-
-![](images/flechebas.gif) [Communication](http://www.artrealite.com/annonceurs.htm) 
-
-[![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
-
-![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```

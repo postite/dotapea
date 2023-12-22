@@ -1,9 +1,3 @@
----
-title: Rompu
-date: Wed Dec 20 2023 16:33:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Rompu
 ### Rompu, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Subtil, il se rapproche du gris ou du moins d'une certaine neutralité. Il est p
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Rompu
+date: Fri Dec 22 2023 11:28:20 GMT+0100 (Central European Standard Time)
+author: postite
+```

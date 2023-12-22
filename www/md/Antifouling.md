@@ -1,9 +1,3 @@
----
-title: Antifouling
-date: Wed Dec 20 2023 16:31:28 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Antifouling
 ### Antifouling, adjectif, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Depuis l'Antiquité, l'être humain utilise des poisons parfois naturels pour pr
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Antifouling
+date: Fri Dec 22 2023 11:26:04 GMT+0100 (Central European Standard Time)
+author: postite
+```

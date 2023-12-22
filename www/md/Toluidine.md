@@ -1,9 +1,3 @@
----
-title: Toluidine
-date: Wed Dec 20 2023 16:34:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Toluidine
 ### Toluidine, article du glossaire
  [Arylamine](arylamine.html) de formule brute C7H9N.
@@ -19,3 +13,8 @@ Les informations toxicologiques sur ce produit sont pratiquement inexistantes. S
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Toluidine
+date: Fri Dec 22 2023 11:28:41 GMT+0100 (Central European Standard Time)
+author: postite
+```

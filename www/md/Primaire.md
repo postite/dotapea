@@ -1,9 +1,3 @@
----
-title: Primaire
-date: Wed Dec 20 2023 16:33:39 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Primaire
 ### Primaire, article du glossaire
  En théorie, il s'agit de la première couche d'enduction appliquée sur un support mais notons que le terme de "[sous-couche](souscouche.html)" semble avoir la même définition.
@@ -19,3 +13,8 @@ Lorsque le support est métallique, la primaire comme la sous-couche sont charg�
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Primaire
+date: Fri Dec 22 2023 11:28:12 GMT+0100 (Central European Standard Time)
+author: postite
+```

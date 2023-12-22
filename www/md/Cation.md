@@ -1,9 +1,3 @@
----
-title: Cation
-date: Wed Dec 20 2023 16:31:52 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cation
 ### Cation, article du glossaire
  **Accès direct glossaire**
@@ -35,3 +29,8 @@ et [L'ion et l'isotope](ion.html) (_in_ concepts physico-chimiques)
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Cation
+date: Fri Dec 22 2023 11:26:27 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Polyacide
-date: Wed Dec 20 2023 16:33:34 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Polyacide
 ### Polyacide, article du glossaire
  **Accès direct glossaire**
@@ -30,3 +24,8 @@ Voir [macromolécule](macromolecule.html), [polymèrie](polyacide.html#polymerie
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Polyacide
+date: Fri Dec 22 2023 11:28:07 GMT+0100 (Central European Standard Time)
+author: postite
+```

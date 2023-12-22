@@ -1,9 +1,3 @@
----
-title: Gesse
-date: Wed Dec 20 2023 16:32:38 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Gesse
 ### Gesse, article du glossaire
  _n.f., peut-être du latin (_faba_)_ aegyptia_, (fève) d'Égypte  
@@ -36,3 +30,8 @@ A cause de l'aspect très flou des informations disponibles, nous recherchons de
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Gesse
+date: Fri Dec 22 2023 11:27:12 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Plombagine
-date: Wed Dec 20 2023 16:33:32 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Plombagine
 ### Plombagine, article du glossaire
  Il s'agit du graphite, ni plus, ni moins.
@@ -23,3 +17,8 @@ Lire [l'article consacré au crayon](crayon.html) et [l'article _Le graphite_ in
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Plombagine
+date: Fri Dec 22 2023 11:28:05 GMT+0100 (Central European Standard Time)
+author: postite
+```

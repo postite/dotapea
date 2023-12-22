@@ -1,9 +1,3 @@
----
-title: Mixtion
-date: Wed Dec 20 2023 16:33:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Mixtion
 ### Mixtion, article du glossaire
  **Accès direct glossaire**
@@ -31,3 +25,8 @@ en particulier la fin de l'article
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Mixtion
+date: Fri Dec 22 2023 11:27:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Thèmes
-date: Wed Dec 20 2023 16:34:10 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Thèmes
 ### Thèmes, une section majeure de Dotapea
  Navig. page/section
@@ -80,3 +74,9 @@ _De même, les supports, les préparations (encollage, enduction) et les produit
 
 _Autre approche, les Dialogues de Dotapea abordent de nombreux sujet sous un angle scientifique dans le cadre de conversations informelles._
 
+
+```
+title: Thèmes
+date: Fri Dec 22 2023 11:28:40 GMT+0100 (Central European Standard Time)
+author: postite
+```

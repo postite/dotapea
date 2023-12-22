@@ -1,9 +1,3 @@
----
-title: Phospholipide
-date: Wed Dec 20 2023 16:33:28 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Phospholipide
 ### Phospholipide, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Voir aussi [lécithine](lecithine.html) et [phosphore](phosphore.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Phospholipide
+date: Fri Dec 22 2023 11:28:01 GMT+0100 (Central European Standard Time)
+author: postite
+```

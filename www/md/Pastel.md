@@ -1,9 +1,3 @@
----
-title: Pastel
-date: Wed Dec 20 2023 16:33:25 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Pastel
 ### Pastel, article du glossaire
  A. Couleur, plante, teinture, peinture -> voir [_indigo médiéval_](bleusfroids.html#lindigomedieval)
@@ -23,3 +17,8 @@ Pour le moment, nous avouons manquer d'informations plus précises à ce sujet. 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Pastel
+date: Fri Dec 22 2023 11:27:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

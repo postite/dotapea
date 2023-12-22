@@ -1,9 +1,3 @@
----
-title: Chlorhydrique
-date: Wed Dec 20 2023 16:32:04 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Chlorhydrique
 ### Chlorhydrique
  _Anciennement dit acide muriatique ou esprit-de-sel_
@@ -29,3 +23,8 @@ Voir [Eau régale](eauregale.html), [Les acides](acides.html), [Le chlore](chlor
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Chlorhydrique
+date: Fri Dec 22 2023 11:26:39 GMT+0100 (Central European Standard Time)
+author: postite
+```

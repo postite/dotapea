@@ -1,9 +1,3 @@
----
-title: Litharge
-date: Wed Dec 20 2023 16:33:02 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Litharge
 ### Litharge, article du glossaire
  _n.f., du latin d'origine grecque_ lithargyrus_, "pierre d'argent".  
@@ -22,3 +16,9 @@ Dans le domaine des arts du feu, la litharge est assez peu employée car son gra
 
 La litharge est un produit toxique et polluant dont nous déconseillons vivement l'emploi.
 
+
+```
+title: Litharge
+date: Fri Dec 22 2023 11:27:36 GMT+0100 (Central European Standard Time)
+author: postite
+```

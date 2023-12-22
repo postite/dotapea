@@ -1,9 +1,3 @@
----
-title: Soude
-date: Wed Dec 20 2023 16:33:55 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Soude
 ### Soude, article du glossaire
  _Du mot arabe identique (noter qu'il existe  
@@ -29,3 +23,8 @@ En effet, à partir de 1911, les "Conférences Solvay" accueillirent des génies
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Soude
+date: Fri Dec 22 2023 11:28:27 GMT+0100 (Central European Standard Time)
+author: postite
+```

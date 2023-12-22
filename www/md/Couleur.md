@@ -1,9 +1,3 @@
----
-title: Couleur
-date: Wed Dec 20 2023 16:32:09 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Couleur
 ### Couleur, article du glossaire
  La couleur est un concept qui correspond à une réalité physique complexe qui ne sera pas évoquée dans cet article (lire plutôt _[Les pigments, les couleurs](pigments.html)_).
@@ -27,3 +21,8 @@ Visite conseillée : [Pourpre.com](http://www.pourpre.com/)
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Couleur
+date: Fri Dec 22 2023 11:26:44 GMT+0100 (Central European Standard Time)
+author: postite
+```

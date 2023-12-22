@@ -1,9 +1,3 @@
----
-title: Indophénol
-date: Wed Dec 20 2023 16:32:52 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Indophénol
 ### Indophénol, article du glossaire
  _Nom masculin  
@@ -24,3 +18,8 @@ Nous avons très peu d'informations. N'hésitez pas à [nous écrire](ecrire.htm
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Indophénol
+date: Fri Dec 22 2023 11:27:27 GMT+0100 (Central European Standard Time)
+author: postite
+```

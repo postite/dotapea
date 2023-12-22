@@ -1,9 +1,3 @@
----
-title: Bauxite
-date: Wed Dec 20 2023 16:31:38 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Bauxite
 ### Bauxite, article du glossaire
  **Accès direct glossaire**
@@ -35,3 +29,8 @@ La bauxite peut receler d'autres métaux comme le [fer](fer.html), le [titane](t
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Bauxite
+date: Fri Dec 22 2023 11:26:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

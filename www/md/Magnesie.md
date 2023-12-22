@@ -1,9 +1,3 @@
----
-title: Magnésie
-date: Wed Dec 20 2023 16:33:03 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Magnésie
 ### Magnésie, article du glossaire
  Passons sur son usage comme purgatif. La magnésie n'est pas absente de l'univers des arts plastiques et des domaines voisins.
@@ -27,3 +21,8 @@ Elle entrerait notamment dans la composition de la [terre verte](vertscomplexes.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Magnésie
+date: Fri Dec 22 2023 11:27:37 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Bitume
-date: Wed Dec 20 2023 16:31:40 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Bitume
 ### Bitume de Judée, article du glossaire
  [Lire passage important](noirs.html#lebitume) dans l'article consacré aux noirs.
@@ -27,3 +21,8 @@ Le _bitume de Judée_, résine fossile, a aujourd'hui deux emplois :
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Bitume
+date: Fri Dec 22 2023 11:26:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

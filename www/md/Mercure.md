@@ -1,9 +1,3 @@
----
-title: Mercure
-date: Wed Dec 20 2023 16:33:08 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Mercure
 ### Mercure, article du glossaire
  _Du dieu latin éponyme, "sans doute à cause de la mobilité de ce métal",  
@@ -43,3 +37,8 @@ Il est en principe inodore mais à haute concentration de vapeur, on décrit un 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Mercure
+date: Fri Dec 22 2023 11:27:42 GMT+0100 (Central European Standard Time)
+author: postite
+```

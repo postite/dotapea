@@ -1,9 +1,3 @@
----
-title: Tempera
-date: Wed Dec 20 2023 16:34:06 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tempera
 ### Tempera, article du glossaire
  _a tempera_ signifie en italien _"_� d�trempe_"_
@@ -27,3 +21,8 @@ Lire la page consacr�e � la [tempera � l'oeuf](oeuf.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Tempera
+date: Fri Dec 22 2023 11:28:37 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Azote
-date: Wed Dec 20 2023 16:31:34 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Azote
 ### Azote, adjectif, article du glossaire
  _Nom masculin_  
@@ -27,3 +21,8 @@ Dans le domaine des liants, des résines et des pigments, l'azote donne lieu à 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Azote
+date: Fri Dec 22 2023 11:26:10 GMT+0100 (Central European Standard Time)
+author: postite
+```

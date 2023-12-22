@@ -1,9 +1,3 @@
----
-title: Carbure
-date: Wed Dec 20 2023 16:31:50 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Carbure
 ### Carbure, article du glossaire
  Un carbure est une association de carbone + un autre atome qui donne lieu à d'innombrables substances dont nous mêmes, humains, sommes composés. Il est linguistiquement au carbone ce que l'oxyde est à l'oxygène.
@@ -39,3 +33,8 @@ Note : "le carbure" désigne, chez les graveurs utilisant le carbure de siliciu
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Carbure
+date: Fri Dec 22 2023 11:26:25 GMT+0100 (Central European Standard Time)
+author: postite
+```

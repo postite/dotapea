@@ -1,9 +1,3 @@
----
-title: Volatil
-date: Wed Dec 20 2023 16:34:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Volatil
 ### Volatil, article du glossaire
  _Adjectif (_volatile _au féminin)  
@@ -26,3 +20,8 @@ Plus récemment dans le domaine boursier, un "marché volatil" ou un "cours vola
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Volatil
+date: Fri Dec 22 2023 11:28:49 GMT+0100 (Central European Standard Time)
+author: postite
+```

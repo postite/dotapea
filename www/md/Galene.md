@@ -1,9 +1,3 @@
----
-title: Galène
-date: Wed Dec 20 2023 16:32:36 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Galène
 ### Galène, article du glossaire
  _Du grec_ galênê_, plomb_
@@ -18,3 +12,9 @@ On mentionne une galène contenant une forte quantité [d'antimoine](antimoine.h
 
 Un tel métal associé à de l'étain est une base pour la fonte et différents traitements de métaux blancs.
 
+
+```
+title: Galène
+date: Fri Dec 22 2023 11:27:11 GMT+0100 (Central European Standard Time)
+author: postite
+```

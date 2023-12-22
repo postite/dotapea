@@ -1,9 +1,3 @@
----
-title: Alcane
-date: Wed Dec 20 2023 16:31:23 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcane
 ### Alcane, article du glossaire
  _Nom masculin, de_ alcool _et vraisemblablement de_ méthane_._
@@ -25,3 +19,8 @@ Voir [alcène](alcene.html), [amine](alcane.html#amine), [alcoyle](alcane.html#a
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alcane
+date: Fri Dec 22 2023 11:25:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

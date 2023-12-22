@@ -1,9 +1,3 @@
----
-title: Azoïques
-date: Wed Dec 20 2023 16:31:34 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Azoïques
 ### Pigments azoïques, usage en arts plastiques
  **Les couleurs azoïques**
@@ -35,3 +29,8 @@ Certaines variétés assez résistantes à la chaleur (dont les jaunes Hansa) so
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Azoïques
+date: Fri Dec 22 2023 11:26:10 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: pH
-date: Wed Dec 20 2023 16:33:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## pH
 ### pH, article du glossaire
  _Initiales de "potentiel H (hydrogène)"_
@@ -30,3 +24,9 @@ Le [papier tournesol](ph.html#papierdetournesol) donne une indication moins pré
 
 La neutralité de [l'eau](eau.html) utilisée pour la mesure n'est que très relative hors conditions de laboratoire. L'eau parfaitement pure est neutre, mais elle ne le reste pas longtemps ([lire passage in _L'eau_](eau.html#purepaslongtemps)).
 
+
+```
+title: pH
+date: Fri Dec 22 2023 11:28:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

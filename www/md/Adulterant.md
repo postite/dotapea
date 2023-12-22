@@ -1,9 +1,3 @@
----
-title: Adultérant
-date: Wed Dec 20 2023 16:31:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Adultérant
 ### Adultérant, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Ce terme non dénué de connotations est censé désigner les produits altérant
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Adultérant
+date: Fri Dec 22 2023 11:25:56 GMT+0100 (Central European Standard Time)
+author: postite
+```

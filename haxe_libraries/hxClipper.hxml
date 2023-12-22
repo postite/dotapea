@@ -1,0 +1,3 @@
+# @install: lix --silent download "gh://github.com/postite/hxclipper#3db33cf9a5e76ebaf7dce0a21bf675ac87655bc6" into hxclipper/0.0.0/github/3db33cf9a5e76ebaf7dce0a21bf675ac87655bc6
+-cp ${HAXE_LIBCACHE}/hxclipper/0.0.0/github/3db33cf9a5e76ebaf7dce0a21bf675ac87655bc6/src
+-D hxclipper=0.0.0

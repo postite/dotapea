@@ -1,6 +1,6 @@
 -cp src
 -D analyzer-optimize
--main App
+-main Parser
 --debug
 -lib mots
 -lib tink_web

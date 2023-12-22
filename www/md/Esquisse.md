@@ -1,9 +1,3 @@
----
-title: Esquisse
-date: Wed Dec 20 2023 16:32:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Esquisse
 ### Esquisse, article du glossaire
  _Probablement du latin_ scedium_, poème improvisé._
@@ -16,3 +10,9 @@ Le "papier esquisse" est très léger (environ 50 g/m2) et assez transparent pou
 
 Voir aussi [rough](rough.html), [layout](layout.html).
 
+
+```
+title: Esquisse
+date: Fri Dec 22 2023 11:27:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

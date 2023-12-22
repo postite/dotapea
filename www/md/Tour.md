@@ -1,54 +1,22 @@
----
-title: Tour
-date: Wed Dec 20 2023 16:34:12 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tour
 ### Tour, article du glossaire
- Navig. page/section
+ Machine permettant de faire tourner un objet dans le but de le fa�onner ou bien de fa�onner, polir, abraser, un autre objet.
 
-[![Sup./Above](_derived/up_cmp_themenoir010_up.gif)](t.html)
+Le tour de potier est souvent activ� manuellement, mais dans le domaine industriel, il est motoris�. C'est un outil ancien mais des objets � section ronde ont pu �tre cr��s avant son invention.
 
-\_\_\_\_\_
+Le r�le majeur du tour a chang� au fil des si�cles, notamment depuis l'invention du coulage des m�taux, en perp�tuel perfectionnement. Le tour comme outil abrasant ou polissant est toujours d'actualit�.
 
-**Sous cette page**
-
-\_\_\_\_\_
-
-**Pages soeurs**
-
-\_\_\_\_\_
-
-Copyright � www.dotapea.com
-
-Tous droits r�serv�s.  
-[Pr�cisions cliquer ici](droitscopie.html)
-
-**Acc�s direct glossaire**
-
-**[A](a.html)  [B](b.html)  [C](c.html)  [D](d.html)  [E](e.html)  [F](f.html)  [G](g.html)  
-[H](h.html)  [IJK](ijk.html)  [L](l.html)  [M](m.html)  [NO](no.html)  [P](p.html)  
-[QR](qr.html)  [S](s.html)  [T](t.html)  [UV](uv.html)  [WXYZ](wxyz.html)**
-
-**Le travertin  
-Article du [glossaire](glossaire.html)**
-
-_Du latin_ tiburtinus_, "de Tibur",  
-ancienne ville du Latium (devenue Tivoli)_
-
-Roche calcaire parsem�e de trous, vari�t� de [tuf](tuf.html). Bon mat�riau de construction, elle a permis d'�riger des monuments consid�rables. L'exemple le plus c�l�bre est le Colis�e romain.
-
-Voir [_roches calcaires_](calcaires.html).
+[Lire passage in _Abrasifs_.](abrasifs.html#tours)
 
 
-
- 
-
- ![](images/transparent122x1.gif)
 
 ![](images/flechebas.gif) [Communication](http://www.artrealite.com/annonceurs.htm) 
 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Tour
+date: Fri Dec 22 2023 11:28:41 GMT+0100 (Central European Standard Time)
+author: postite
+```

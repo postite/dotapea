@@ -1,9 +1,3 @@
----
-title: Architecte
-date: Wed Dec 20 2023 16:31:29 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Architecte
 ### Architecte, architecture, architectonique, article du glossaire
  **Accès direct glossaire**
@@ -33,3 +27,8 @@ _L'architectonique_ semble référer aux règles et techniques de l'architecture
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Architecte
+date: Fri Dec 22 2023 11:26:04 GMT+0100 (Central European Standard Time)
+author: postite
+```

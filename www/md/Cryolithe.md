@@ -1,9 +1,3 @@
----
-title: Cryolithe
-date: Wed Dec 20 2023 16:32:12 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cryolithe
 ### Cryolithe, article du glossaire
  Du radical _cryo_, du grec _kruos_, froid.  
@@ -22,3 +16,8 @@ En métallurgie, la cryolithe est une forme intermédiaire entre le minerai de b
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Cryolithe
+date: Fri Dec 22 2023 11:26:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

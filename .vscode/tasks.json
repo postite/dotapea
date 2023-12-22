@@ -8,6 +8,58 @@
 				"kind": "build",
 				"isDefault": true
 			}
-		}
+		},
+		{
+			"type": "hxml",
+			"file": "server.hxml",
+			"problemMatcher": [
+				"$haxe-absolute",
+				"$haxe",
+				"$haxe-error",
+				"$haxe-trace"
+			],
+			"group": "build",
+			"label": "server"
+		},
+		{
+			"type": "hxml",
+			"file": "client.hxml",
+			"problemMatcher": [
+				"$haxe-absolute",
+				"$haxe",
+				"$haxe-error",
+				"$haxe-trace"
+			],
+			"group": "build",
+			"label": "client"
+		},
+		{
+			"type": "haxe",
+			"args": "active configuration",
+			"problemMatcher": [
+				"$haxe-absolute",
+				"$haxe",
+				"$haxe-error",
+				"$haxe-trace"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"label": "haxe: active configuration"
+		},
+		{
+			"label": "reboot always data",
+			"type": "shell",
+			"command": "./reboot.sh",
+			// "windows": {
+			//   "command": ".\\scripts\\test.cmd"
+			// },
+			"group": "test",
+			"presentation": {
+			  "reveal": "always",
+			  "panel": "new"
+			}
+		  }
 	]
 }

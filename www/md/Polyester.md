@@ -1,9 +1,3 @@
----
-title: Polyester
-date: Wed Dec 20 2023 16:33:35 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Polyester
 ### Polyester, article du glossaire
  _1957, de_ poly _(plusieurs) +_ _[ester](ester.html)_
@@ -33,3 +27,8 @@ Lire aussi [passage](chap21resines.html#polyester) in _Les dialogues de Dotapea 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Polyester
+date: Fri Dec 22 2023 11:28:08 GMT+0100 (Central European Standard Time)
+author: postite
+```

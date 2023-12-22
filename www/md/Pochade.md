@@ -1,9 +1,3 @@
----
-title: Pochade
-date: Wed Dec 20 2023 16:33:33 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Pochade
 ### Pochade, article du glossaire
  **Accès direct glossaire**
@@ -28,3 +22,8 @@ Il n'est pas exceptionnel qu'une pochade de maître dépasse, en valeur artistiq
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Pochade
+date: Fri Dec 22 2023 11:28:06 GMT+0100 (Central European Standard Time)
+author: postite
+```

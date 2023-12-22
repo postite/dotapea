@@ -1,9 +1,3 @@
----
-title: Amorphe
-date: Wed Dec 20 2023 16:31:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Amorphe
 ### Amorphe, article du glossaire
  _Du grec_ amorphos_, "informe"  
@@ -19,3 +13,9 @@ Une substance telle que la [silice](silice.html) par exemple peut se trouver à 
 
 Plusieurs raisons peuvent empêcher la formation d'un cristal : un manque de temps pour s'assembler ("trempe" trop rapide ou viscosité forte tendant à produire des polymères), une forme qui ne s'y prête pas (manque de densité) ou une structure trop déformable.
 
+
+```
+title: Amorphe
+date: Fri Dec 22 2023 11:26:02 GMT+0100 (Central European Standard Time)
+author: postite
+```

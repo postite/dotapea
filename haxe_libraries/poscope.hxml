@@ -1,0 +1,5 @@
+-lib tink_template
+-lib tink_core
+-cp /Users/postite/Documents/LAB/poscope/src/
+-D poscope=0.0.3
+--macro Sys.println("haxe_libraries/poscope.hxml:4: [Warning] Using dev version of library poscope")

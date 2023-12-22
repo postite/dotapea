@@ -1,9 +1,3 @@
----
-title: Albumine
-date: Wed Dec 20 2023 16:31:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Albumine
 ### Albumine, article du glossaire
  Navig. page/section
@@ -54,3 +48,8 @@ Voir [oeuf](oeuf.html), [lécithine](lecithine.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Albumine
+date: Fri Dec 22 2023 11:25:57 GMT+0100 (Central European Standard Time)
+author: postite
+```

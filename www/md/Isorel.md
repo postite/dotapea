@@ -1,9 +1,3 @@
----
-title: Isorel
-date: Wed Dec 20 2023 16:32:54 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Isorel
 ### Isorel, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Pour plus de détails, lire [la section Isorel ® dans l'article consacré au bo
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Isorel
+date: Fri Dec 22 2023 11:27:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Electricité
-date: Wed Dec 20 2023 16:32:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Electricité
 ### Electricité, article du glossaire
  _\[Académie française, article Electrique\]  
@@ -28,3 +22,8 @@ Cette définition est suffisante pour distinguer :
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Electricité
+date: Fri Dec 22 2023 11:26:56 GMT+0100 (Central European Standard Time)
+author: postite
+```

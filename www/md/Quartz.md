@@ -1,9 +1,3 @@
----
-title: Quartz
-date: Wed Dec 20 2023 16:33:41 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Quartz
 ### Quartz, article du glossaire
  Le quartz est de la [silice](silice.html) à l'état [cristallin](cristal.html). Il est éponyme d'un ensemble de neuf membres appartenant au groupe des silices dont il partage la composition mais spécifiquement pas la structure. Il est de très loin la silice la plus courante : il représenterait environ 12% de la masse de la croûte terrestre.
@@ -43,3 +37,8 @@ Enfin le quartz est évoqué dans l'article _[Les terres en tant que supports](t
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Quartz
+date: Fri Dec 22 2023 11:28:14 GMT+0100 (Central European Standard Time)
+author: postite
+```

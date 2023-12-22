@@ -1,9 +1,3 @@
----
-title: Transducteur
-date: Wed Dec 20 2023 16:34:12 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Transducteur
 ### Transducteur, article du glossaire
  _Via l'anglais_ transducer_, de trans- et conducteur_
@@ -21,3 +15,8 @@ Dans le domaine �lectroacoustique et plus g�n�ralement, on distingue - en 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Transducteur
+date: Fri Dec 22 2023 11:28:41 GMT+0100 (Central European Standard Time)
+author: postite
+```

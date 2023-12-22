@@ -1,9 +1,3 @@
----
-title: Alcalinoterreux
-date: Wed Dec 20 2023 16:31:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcalinoterreux
 ### Alcalinoterreux, adjectif, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Voir [bases](base.html), [sels minéraux](selsmineraux.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alcalinoterreux
+date: Fri Dec 22 2023 11:25:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

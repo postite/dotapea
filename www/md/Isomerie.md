@@ -1,9 +1,3 @@
----
-title: Isomérie
-date: Wed Dec 20 2023 16:32:54 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Isomérie
 ### Isomérie, article du glossaire
  _Du grec_ isos_, égal, et_ meros_, partie_
@@ -23,3 +17,8 @@ Voir absolument [polymérie](polymere.html) et surtout l'ensemble du [chapitre I
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Isomérie
+date: Fri Dec 22 2023 11:27:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

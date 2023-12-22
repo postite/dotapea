@@ -1,9 +1,3 @@
----
-title: Bannières
-date: Wed Dec 20 2023 16:31:36 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Bannières
 ### Bannières pour liens - ArtRéalité
  **Bannières  
@@ -50,3 +44,8 @@ En taille réduite,
 
 
 ![](images/flechebas.gif) [Communication](http://www.artrealite.com/annonceurs.htm)
+```
+title: Bannières
+date: Fri Dec 22 2023 11:26:11 GMT+0100 (Central European Standard Time)
+author: postite
+```

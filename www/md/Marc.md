@@ -1,9 +1,3 @@
----
-title: Marc
-date: Wed Dec 20 2023 16:33:05 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Marc
 ### Marc, article du glossaire
  _Étymologie. L'Académie Française indique :  
@@ -28,3 +22,8 @@ Pas d'indications sur des emplois du marc en arts plastiques et domaines voisins
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Marc
+date: Fri Dec 22 2023 11:27:39 GMT+0100 (Central European Standard Time)
+author: postite
+```

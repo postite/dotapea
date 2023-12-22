@@ -1,9 +1,3 @@
----
-title: Faïence
-date: Wed Dec 20 2023 16:32:29 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Faïence
 ### Faïence, article du glossaire
  _La "terre faïence" est traitée [dans une section de l'article](terressupports.html#lafaience)_ [La terre, substrat, support.](terressupports.html#lafaience) _Il s'agit d'une [argile](argile.html) ordinaire. Le mot faïence (de Faenza, ville italienne) désigne également les objets réalisés avec cette terre._
@@ -21,3 +15,8 @@ Au XVIIIème siècle, l'apparition de la technique orientale de la porcelaine im
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Faïence
+date: Fri Dec 22 2023 11:27:03 GMT+0100 (Central European Standard Time)
+author: postite
+```

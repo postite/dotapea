@@ -1,9 +1,3 @@
----
-title: Diatomées
-date: Wed Dec 20 2023 16:32:17 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Diatomées
 ### Diatomées, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Au Japon, les maîtres laqueurs l'utilisent comme épaississant pour [URUSHI](la
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Diatomées
+date: Fri Dec 22 2023 11:26:51 GMT+0100 (Central European Standard Time)
+author: postite
+```

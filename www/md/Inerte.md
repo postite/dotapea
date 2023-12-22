@@ -1,9 +1,3 @@
----
-title: Inerte
-date: Wed Dec 20 2023 16:32:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Inerte
 ### Inerte, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Corps inerte : substance ne réagissant aucunement lorsqu'elle est mise en pré
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Inerte
+date: Fri Dec 22 2023 11:27:27 GMT+0100 (Central European Standard Time)
+author: postite
+```

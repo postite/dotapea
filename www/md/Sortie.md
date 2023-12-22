@@ -1,9 +1,3 @@
----
-title: Sortie
-date: Wed Dec 20 2023 16:33:55 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Sortie
 ### Sortie d'un pinceau, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ La sortie d'un pinceau n'est pas représentative de sa [réserve](reserve.html#p
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Sortie
+date: Fri Dec 22 2023 11:28:27 GMT+0100 (Central European Standard Time)
+author: postite
+```

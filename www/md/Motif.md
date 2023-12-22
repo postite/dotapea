@@ -1,9 +1,3 @@
----
-title: Motif
-date: Wed Dec 20 2023 16:33:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Motif
 ### Motif, article du glossaire
  (Approximativement,) sujet d'une peinture, d'un travail artistique.
@@ -19,3 +13,8 @@ Mais ces anciennes mutations de la pratique de la peinture paysagère ne doivent
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Motif
+date: Fri Dec 22 2023 11:27:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

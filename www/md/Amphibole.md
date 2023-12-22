@@ -1,9 +1,3 @@
----
-title: Amphibole
-date: Wed Dec 20 2023 16:31:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Amphibole
 ### Amphibole, article du glossaire
  Nom féminin, du grec _amphibolos_ signifiant "à double pointe" ou "ambigu, équivoque", à cause de son aspect clivé. Notons à ce sujet que les amphiboles sont assez variées par leurs formes et ne présentent pas toujours une véritable double pointe, mais plutôt un aspect double d'une manière ou d'une autre.
@@ -35,3 +29,8 @@ Voir [granit](granit.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Amphibole
+date: Fri Dec 22 2023 11:26:02 GMT+0100 (Central European Standard Time)
+author: postite
+```

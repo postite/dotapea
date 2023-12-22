@@ -1,9 +1,3 @@
----
-title: Transmutation
-date: Wed Dec 20 2023 16:34:12 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Transmutation
 ### Transmutation, article du glossaire
  _Du latin_ transmutatio_, de_ trans- _et_ mutare_, changer  
@@ -76,3 +70,8 @@ D'un point de vue artistique plus proche de l'objet central de ce site, la trans
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Transmutation
+date: Fri Dec 22 2023 11:28:42 GMT+0100 (Central European Standard Time)
+author: postite
+```

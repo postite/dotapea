@@ -1,9 +1,3 @@
----
-title: Dénaturant
-date: Wed Dec 20 2023 16:32:15 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dénaturant
 ### Dénaturant, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Celui-ci est donc dilué en principe au minimum par 5% d'agents fortement repous
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dénaturant
+date: Fri Dec 22 2023 11:26:49 GMT+0100 (Central European Standard Time)
+author: postite
+```

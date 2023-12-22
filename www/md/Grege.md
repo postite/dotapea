@@ -1,9 +1,3 @@
----
-title: Grège
-date: Wed Dec 20 2023 16:32:43 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Grège
 ### Grège, article du glossaire
  _L'adjectif grège proviendrait de l'italien_ (seta) greggia_, (soie) brute_
@@ -23,3 +17,8 @@ Lecture conseillée : [La couleur grège sur Pourpre.com](http://pourpre.com/ch
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Grège
+date: Fri Dec 22 2023 11:27:17 GMT+0100 (Central European Standard Time)
+author: postite
+```

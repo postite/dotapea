@@ -1,9 +1,3 @@
----
-title: Béton
-date: Wed Dec 20 2023 16:31:39 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Béton
 ### Les bétons, usage en arts plastiques
  **Le béton**
@@ -49,3 +43,8 @@ A lire également : [passage](chap16interieurexterieurchaux.html#dansleau) in _
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Béton
+date: Fri Dec 22 2023 11:26:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

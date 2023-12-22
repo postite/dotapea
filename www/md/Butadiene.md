@@ -1,9 +1,3 @@
----
-title: Butadiène
-date: Wed Dec 20 2023 16:31:46 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Butadiène
 ### Butadiène, article du glossaire
  **Accès direct glossaire**
@@ -28,3 +22,8 @@ Précurseur de produits utilisés entre autres dans le domaine des arts plastiqu
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Butadiène
+date: Fri Dec 22 2023 11:26:22 GMT+0100 (Central European Standard Time)
+author: postite
+```

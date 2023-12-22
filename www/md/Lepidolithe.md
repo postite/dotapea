@@ -1,27 +1,14 @@
----
-title: Lépidolithe
-date: Wed Dec 20 2023 16:32:59 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Lépidolithe
 ### Lépidolithe ou lépidolite, article du glossaire
- _1700, de_ lier_. Parfois nommé_ véhicule _(anglicisme)._
+ _Du grec_ lepidos_, écaille et_ lithos_, pierre._
 
-Lire aussi :  
-[La section _Les liants font les procédés_](liants.html)  
-[Les dialogues de Dotapea, chap. I, A propos des liants](chap01liants.html)
+De composition variable comme celle d'un [feldspath](feldspath.html) (dont il est de toute manière assez proche chimiquement), d'un point de vue minéralogique, il appartient à la grande famille des [micas](mica.html).
 
-Utilisé à l'état pur ou dilué (eau, essence, alcool, etc.), le [pigment](pigments.html) ne tient pas sur les [supports](supportsetpreparations.html).  
-Le liant joue un double rôle :
+Ce beau minéral d'aspect cristallin contient de la [silice](silice.html) (trois à sept molécules environ), de [l'alumine](alumine.html) (trois à quatre molécules environ), tantôt de [l'oxyde de sodium](sodium.html) (deux molécules environ), tantôt de [l'oxyde de potassium](potassium.html) (une ou deux molécules environ), parfois un [alcali](alcali.html) [fluoré](annexe1.html#f) (deux ou trois F-OH) et surtout deux ou trois molécules [d'oxyde de lithium](lepidolithe.html#lithium) dont il est le principal minerai sur notre planète.
 
-> \- il accroche littéralement le pigment au support et/ou à la couche inférieure
-> 
-> \- il tisse un réseau tridimensionnel (voir [macromolécules](macromolecule.html) et surtout [réticulation](reticulation.html)) enserrant le pigment et assurant la tenue de la pâte pigmentée sur le support.
+A ce titre, il est employé dans le domaine des arts du feu. Des [glaçures](glacure.html) extrêmement brillantes peuvent être réalisées avec le lépidolite, mais il semble que son comportement à la cuisson puisse poser quelques problèmes (on signale l'apparition possible de bulles). Le nombre considérable de variétés de ce minéral incite cependant à ne pas adopter un point de vue globalisant à son sujet. 
 
-Le liant ne doit pas être confondu avec le [médium](medium.html) (la confusion est assez fréquente), même si un liant donné peut être utilisé dans un médium : il est la base d'un procédé (lire l'article [Les liants font les procédés](liants.html)) dont il détermine les règles et les possibilités. L'emploi d'un type de diluants, d'une catégorie de pigments, de médiums et de vernis, de transparences ou d'empâtements dépendent de lui, là où le médium ne fait jamais qu'ajouter ou modifier ou plus souvent encore _renforcer_ ou _exploiter_ les propriétés de cette base caractéristique.
-
-Le liant détermine le procédé, toujours lié à la chimie qu'il implique. Il détermine les liquides qui pourront être utilisés pour diluer la pâte et bien souvent aussi les pigments utilisables.
+La couleur du minerai (pas forcément des glaçures) est soit blanche, soit d'un rose lilas, soit franchement lavande foncée, soit jaune.
 
 
 
@@ -30,3 +17,8 @@ Le liant détermine le procédé, toujours lié à la chimie qu'il implique. Il 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Lépidolithe
+date: Fri Dec 22 2023 11:27:32 GMT+0100 (Central European Standard Time)
+author: postite
+```

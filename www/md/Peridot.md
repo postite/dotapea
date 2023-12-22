@@ -1,9 +1,3 @@
----
-title: Péridot
-date: Wed Dec 20 2023 16:33:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Péridot
 ### Péridot, article du glossaire
  _Étymologie incertaine._
@@ -27,3 +21,8 @@ Le péridot est parfois présent dans les météorites. Il l'est bien davantage 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Péridot
+date: Fri Dec 22 2023 11:28:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

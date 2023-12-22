@@ -1,9 +1,3 @@
----
-title: Parchemin
-date: Wed Dec 20 2023 16:33:25 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Parchemin
 ### Parchemin, article du glossaire
  **Parchemins et vélins : quid ?**
@@ -60,3 +54,8 @@ Voir [_Les vélins_ in _Les papiers à dessin._](papiersadessin.html#velins)
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Parchemin
+date: Fri Dec 22 2023 11:27:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

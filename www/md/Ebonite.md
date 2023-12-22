@@ -1,9 +1,3 @@
----
-title: Ebonite
-date: Wed Dec 20 2023 16:32:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Ebonite
 ### Ebonite, article du glossaire
  **Accès direct glossaire**
@@ -12,19 +6,16 @@ author: postite
 [H](h.html)  [IJK](ijk.html)  [L](l.html)  [M](m.html)  [NO](no.html)  [P](p.html)  
 [QR](qr.html)  [S](s.html)  [T](t.html)  [UV](uv.html)  [WXYZ](wxyz.html)**
 
-**L'échoppe  
+**L'ébonite  
 Article du [glossaire](glossaire.html)**
 
-_Du latin_ scalprum_, "burin, ciseau",  
-par l'ancien français_ eschaulbre
+_Nom féminin, de_ ebony_, ébène_
 
-Genre de [burin](burin.html), outil composé d'un matériau très dur, permettant de travailler une matière dure par retrait.
+C'est l'un des ancêtres du plastique. Elle a connu son heure de gloire.
 
-L'échoppe a une forme spécifiquement biseautée.
+Fabriqué à partir de caoutchouc longuement réchauffé dans un bain de [soufre](soufre.html), ce produit noir peu malléable est un excellent isolant. Cependant, il est très oxydable, à l'instar du caoutchouc non traité.
 
-Ce type d'outils est utilisé par différents corps de métiers.
-
-Voir aussi [outils de la taille](outilstaille.html).
+Les Goodyear furent leurs inventeurs. [Lire passage in _Le latex_](latex.html#goodyear).
 
 
 
@@ -33,3 +24,8 @@ Voir aussi [outils de la taille](outilstaille.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Ebonite
+date: Fri Dec 22 2023 11:26:55 GMT+0100 (Central European Standard Time)
+author: postite
+```

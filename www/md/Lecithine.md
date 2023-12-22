@@ -1,9 +1,3 @@
----
-title: Lécithine
-date: Wed Dec 20 2023 16:32:58 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Lécithine
 ### Lécithine, article du glossaire
  Navig. page/section
@@ -56,3 +50,8 @@ Voir [tempera](tempera.html), [oeuf](oeuf.html), [albumine](albumine.html), [hui
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Lécithine
+date: Fri Dec 22 2023 11:27:32 GMT+0100 (Central European Standard Time)
+author: postite
+```

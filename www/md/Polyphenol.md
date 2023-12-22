@@ -1,9 +1,3 @@
----
-title: Polyphénol
-date: Wed Dec 20 2023 16:33:36 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Polyphénol
 ### Polyphénol, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Ils permettent des [estérifications](saponification.html#lesterification) en co
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Polyphénol
+date: Fri Dec 22 2023 11:28:09 GMT+0100 (Central European Standard Time)
+author: postite
+```

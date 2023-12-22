@@ -1,9 +1,3 @@
----
-title: Base
-date: Wed Dec 20 2023 16:31:37 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Base
 ### Base, article du glossaire
  **Accès direct glossaire**
@@ -38,3 +32,8 @@ Roches basiques --> voir _[Roches basiques vs roches acides](rochesbasiquesacide
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Base
+date: Fri Dec 22 2023 11:26:12 GMT+0100 (Central European Standard Time)
+author: postite
+```

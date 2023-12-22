@@ -1,9 +1,3 @@
----
-title: Lampant
-date: Wed Dec 20 2023 16:32:56 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Lampant
 ### Lampant, article du glossaire
  _Adjectif_
@@ -21,3 +15,8 @@ S'ils sont généralement moins impurs que les carburants ordinaires, leur quali
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Lampant
+date: Fri Dec 22 2023 11:27:30 GMT+0100 (Central European Standard Time)
+author: postite
+```

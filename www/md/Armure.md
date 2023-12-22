@@ -1,9 +1,3 @@
----
-title: Armure
-date: Wed Dec 20 2023 16:31:30 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Armure
 ### Armure, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Il existe différentes armures "basiques" : le satin, le sergé, le toilé. D'e
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Armure
+date: Fri Dec 22 2023 11:26:05 GMT+0100 (Central European Standard Time)
+author: postite
+```

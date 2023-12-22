@@ -1,9 +1,3 @@
----
-title: Phénocristal
-date: Wed Dec 20 2023 16:33:27 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Phénocristal
 ### Phénocristal, article du glossaire
  **Accès direct glossaire**
@@ -28,3 +22,8 @@ Catégorie de minéraux que l'on trouve dans de nombreuses formations géologiqu
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Phénocristal
+date: Fri Dec 22 2023 11:28:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

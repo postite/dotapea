@@ -1,9 +1,3 @@
----
-title: Cristal
-date: Wed Dec 20 2023 16:32:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cristal
 ### Cristal, article du glossaire
  "_Le_ cristal", au sens restreint, est de la pure [silice](silice.html) (SiO2, voir [quartz](quartz.html), [verre](verre.html)) ou du [spath](spath.html) d'Islande (une [calcite](calcite.html) CaCO3). Dans ce cadre strict, il se définit par sa _[biréfringence](birefringence.html)_ (voir _[réfraction, réfringent](refraction.html#refringent)_ et [exemple illustré](chap06polaris.html#cristalbirefringence) in _Les dialogues de Dotapea_). Par analogie, est nommée "cristal liquide" toute substance liquide biréfringente.
@@ -25,3 +19,8 @@ Voir aussi [cristalloïde](cristalloide.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Cristal
+date: Fri Dec 22 2023 11:26:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

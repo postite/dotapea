@@ -1,9 +1,3 @@
----
-title: Filasse
-date: Wed Dec 20 2023 16:32:32 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Filasse
 ### Filasse, article du glossaire
  ![](images/filasse.jpg)Il s'agit d'un textile qui n'a pas encore été filé (chanvre, lin).
@@ -16,3 +10,9 @@ _L'étoupe blanche_ désigne la filasse de la qualité la plus grossière. La no
 
 Il existe une "filasse de [staffeur](staff.html)" synthétique.
 
+
+```
+title: Filasse
+date: Fri Dec 22 2023 11:27:07 GMT+0100 (Central European Standard Time)
+author: postite
+```

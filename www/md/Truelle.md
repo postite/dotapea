@@ -1,9 +1,3 @@
----
-title: Truelle
-date: Wed Dec 20 2023 16:34:13 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Truelle
 ### Truelle, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ La forme de la lame de la truelle est caract�ristique : c'est une sorte de tr
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Truelle
+date: Fri Dec 22 2023 11:28:43 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Chantourner
-date: Wed Dec 20 2023 16:31:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Chantourner
 ### Chantourner
  _Le sens de chant est décrit dans l'article chanfrein ([lien](chanfrein.html#chant)).  
@@ -26,3 +20,8 @@ Le verbe chantourner peut également être utilisé de manière péjorative, dan
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Chantourner
+date: Fri Dec 22 2023 11:26:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Vermeil
-date: Wed Dec 20 2023 16:34:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vermeil
 ### Vermeil, article du glossaire
  **Accès direct glossaire**
@@ -30,3 +24,8 @@ Lecture conseillée : [Le vermeil sur Pourpre.com](http://pourpre.com/chroma/di
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Vermeil
+date: Fri Dec 22 2023 11:28:47 GMT+0100 (Central European Standard Time)
+author: postite
+```

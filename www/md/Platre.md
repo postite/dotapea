@@ -1,9 +1,3 @@
----
-title: Plâtre
-date: Wed Dec 20 2023 16:33:32 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Plâtre
 ### Plâtre, article du glossaire
  **Accès direct glossaire**
@@ -30,3 +24,8 @@ Plusieurs articles sont consacrés à cette substance aux emplois multiples :
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Plâtre
+date: Fri Dec 22 2023 11:28:05 GMT+0100 (Central European Standard Time)
+author: postite
+```

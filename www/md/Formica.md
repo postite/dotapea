@@ -1,9 +1,3 @@
----
-title: Formica
-date: Wed Dec 20 2023 16:32:34 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Formica
 ### Formica, article du glossaire
  _D'après_ [formique](formica.html#formique)  
@@ -30,3 +24,8 @@ Site officiel du produit (en anglais) : [cliquer ici](http://www.formica.co.uk/
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Formica
+date: Fri Dec 22 2023 11:27:08 GMT+0100 (Central European Standard Time)
+author: postite
+```

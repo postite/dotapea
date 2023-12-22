@@ -1,9 +1,3 @@
----
-title: Os
-date: Wed Dec 20 2023 16:33:20 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Os
 ### Os, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Cependant, employé dans différentes disciplines, ce terme a d'autres acception
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Os
+date: Fri Dec 22 2023 11:27:54 GMT+0100 (Central European Standard Time)
+author: postite
+```

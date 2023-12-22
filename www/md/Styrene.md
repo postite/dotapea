@@ -1,9 +1,3 @@
----
-title: Styrène
-date: Wed Dec 20 2023 16:33:59 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Styrène
 ### Styrène, article du glossaire
  _De [styrax](styrax.html), arbre dont il a été extrait naguère_
@@ -33,3 +27,8 @@ Il est le [monomère](polymere.html#monomeres) de diverses "matières plastiques
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Styrène
+date: Fri Dec 22 2023 11:28:31 GMT+0100 (Central European Standard Time)
+author: postite
+```

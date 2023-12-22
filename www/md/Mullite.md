@@ -1,9 +1,3 @@
----
-title: Mullite
-date: Wed Dec 20 2023 16:33:13 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Mullite
 ### Mullite, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ La mullite accroît la dureté de la matière vitrifiée en y tissant un réseau
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Mullite
+date: Fri Dec 22 2023 11:27:47 GMT+0100 (Central European Standard Time)
+author: postite
+```

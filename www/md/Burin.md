@@ -1,9 +1,3 @@
----
-title: Burin
-date: Wed Dec 20 2023 16:31:46 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Burin
 ### Burin, article du glossaire
  _Peut-être du longobard_ boro_, forêt,  
@@ -24,3 +18,8 @@ Un burin peut également être une oeuvre réalisée à l'aide de l'outil du mê
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Burin
+date: Fri Dec 22 2023 11:26:21 GMT+0100 (Central European Standard Time)
+author: postite
+```

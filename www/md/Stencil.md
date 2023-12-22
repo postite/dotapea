@@ -1,9 +1,3 @@
----
-title: Stencil
-date: Wed Dec 20 2023 16:33:58 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Stencil
 ### Stencil, article du glossaire
  _Du français_ étinceler_,  
@@ -40,3 +34,8 @@ On ne peut donner aucune garantie de longévité des épreuves imprimées, mais 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Stencil
+date: Fri Dec 22 2023 11:28:30 GMT+0100 (Central European Standard Time)
+author: postite
+```

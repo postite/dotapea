@@ -1,9 +1,3 @@
----
-title: Talosel
-date: Wed Dec 20 2023 16:34:04 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Talosel
 ### Talosel, article du glossaire
  Lecture conseill�e :  
@@ -22,3 +16,8 @@ Le Talosel (ac�**TA**te de cellu**LOS**e **EL**abor�) est une mati�re aux 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Talosel
+date: Fri Dec 22 2023 11:28:35 GMT+0100 (Central European Standard Time)
+author: postite
+```

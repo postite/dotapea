@@ -1,9 +1,3 @@
----
-title: Dextrine
-date: Wed Dec 20 2023 16:32:15 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dextrine
 ### Dextrine, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Un chapitre des _Dialogues de Dotapea_ est entièrement consacré à ces produit
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dextrine
+date: Fri Dec 22 2023 11:26:50 GMT+0100 (Central European Standard Time)
+author: postite
+```

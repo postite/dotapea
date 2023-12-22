@@ -1,9 +1,3 @@
----
-title: Fusion
-date: Wed Dec 20 2023 16:32:36 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Fusion
 ### Fusion, article du glossaire
  "Fusion" est un terme courant dans les domaines que nous traitons sur ce site. Il finit par prêter à confusion. Il existe en effet deux acception de ce mot.
@@ -33,3 +27,8 @@ Cela peut surprendre, mais lors d'un fort réchauffement, deux substances associ
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Fusion
+date: Fri Dec 22 2023 11:27:10 GMT+0100 (Central European Standard Time)
+author: postite
+```

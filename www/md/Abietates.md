@@ -1,9 +1,3 @@
----
-title: Abiétates
-date: Wed Dec 20 2023 16:31:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Abiétates
 ### Abiétates, article du glossaire
  Navig. page/section
@@ -42,3 +36,9 @@ et l'acide abiétique**
 
 L'acide abiétique serait le composant majeur de la [colophane](autresresines.html#colophane).
 
+
+```
+title: Abiétates
+date: Fri Dec 22 2023 11:25:53 GMT+0100 (Central European Standard Time)
+author: postite
+```

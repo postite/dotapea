@@ -1,0 +1,36 @@
+-cp src
+-lib postite_core
+-lib mots
+-D analyzer-optimize
+-lib postite_mimo
+-lib tink_web
+-lib markdown
+-lib image
+-lib tink_sql
+-lib tink_json
+-lib poscope
+-lib tink_http_middleware
+-lib tink_pure
+-lib thx.core
+-lib why-email
+-lib tink_anon
+-lib jsonwebtoken
+-lib tink_multipart
+-lib random
+-lib thx.core
+-lib thx.format
+-lib thx.culture
+-D no-deprecation-warnings
+-lib HtmlParser
+-lib  tink_template
+-D tink_template_pos=off
+#--macro tink.Template.addFlavor('moustache', '{{', '}}')`
+-D server
+--debug
+-D no-deprecation-warnings
+-w -WVarInit
+#-D busboy
+-lib hxnodejs
+-main app.Server
+--js www/server.js
+#--cmd cp package.json www/package.json

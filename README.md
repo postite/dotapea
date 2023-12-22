@@ -6,10 +6,13 @@ re-publication du site de base de connaissance ex dotapea.com:
 
 [site-archive](https://web.archive.org/web/20191027030704/http://online-dotapea-archive.e-monsite.com/medias/files/accueil.html)
 
-ou 
 
 
+### todo
 
+- responsive css
+- clean index pages (glossaire)
+- integrer courrrier lecteurs 
 
 
 ### process
@@ -17,8 +20,9 @@ ou
 - [x] scrapping des pages depuis [boivin.fr](https://cbonvin.fr/dotapea)  dans le rep www.dotapea.com
 - [x] creer un convertisseur html->markdown
 - [ ] creer  un parseur de lien
+- [x] faire un serveur basique
 - recreer une arborescence & navigation plus coherente
-
+- [ ] renommer tous les fichiers selon leur correspondance de liens ( modifier le batch)
 
 ### POC
 

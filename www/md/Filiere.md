@@ -1,9 +1,3 @@
----
-title: Filière
-date: Wed Dec 20 2023 16:32:33 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Filière
 ### Filière, article du glossaire
  _Dérivé de_ fil
@@ -18,3 +12,9 @@ La compression est en principe obtenue par la rotation d'une vis sans fin situé
 
 L'ensemble du procédé est nommé [extrusion](extrusion.html).
 
+
+```
+title: Filière
+date: Fri Dec 22 2023 11:27:07 GMT+0100 (Central European Standard Time)
+author: postite
+```

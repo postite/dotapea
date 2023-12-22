@@ -1,9 +1,3 @@
----
-title: Alcoyle
-date: Wed Dec 20 2023 16:31:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcoyle
 ### Alcasit, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Voir [alcool](alcool.html) et [amine](amine.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alcoyle
+date: Fri Dec 22 2023 11:25:59 GMT+0100 (Central European Standard Time)
+author: postite
+```

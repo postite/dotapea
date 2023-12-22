@@ -1,9 +1,3 @@
----
-title: Elastomère
-date: Wed Dec 20 2023 16:32:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Elastomère
 ### Elastomère, article du glossaire
  _Contraction de_ élastique _et_ polymère
@@ -21,3 +15,8 @@ Voir [isoprène](isoprene.html), [latex](latex.html), [silicone](silicone.html),
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Elastomère
+date: Fri Dec 22 2023 11:26:56 GMT+0100 (Central European Standard Time)
+author: postite
+```

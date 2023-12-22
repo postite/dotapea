@@ -1,9 +1,3 @@
----
-title: Dureté
-date: Wed Dec 20 2023 16:32:19 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dureté
 ### Dureté, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Une définition possiblement valable de la dureté est qu'elle serait caractéri
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dureté
+date: Fri Dec 22 2023 11:26:54 GMT+0100 (Central European Standard Time)
+author: postite
+```

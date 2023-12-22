@@ -1,9 +1,3 @@
----
-title: Teint
-date: Wed Dec 20 2023 16:34:05 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Teint
 ### Teint, article du glossaire
  En teinturerie, les termes
@@ -25,3 +19,8 @@ Ces appellations se retrouvent parfois dans le domaine de la peinture. Pourquoi 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Teint
+date: Fri Dec 22 2023 11:28:36 GMT+0100 (Central European Standard Time)
+author: postite
+```

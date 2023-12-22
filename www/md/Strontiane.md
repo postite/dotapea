@@ -1,9 +1,3 @@
----
-title: Strontiane
-date: Wed Dec 20 2023 16:33:58 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Strontiane
 ### Strontiane, article du glossaire
  _Étymologie : voir [strontium](strontium.html)._
@@ -19,3 +13,8 @@ La strontiane donnerait lieu à un pigment jaune d'emploi rare ([cliquer ici](ja
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Strontiane
+date: Fri Dec 22 2023 11:28:30 GMT+0100 (Central European Standard Time)
+author: postite
+```

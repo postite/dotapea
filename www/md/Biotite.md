@@ -1,9 +1,3 @@
----
-title: Biotite
-date: Wed Dec 20 2023 16:31:40 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Biotite
 ### Biotite, article du glossaire
  _L'étymologie de ce mot  
@@ -21,3 +15,8 @@ Très abondante, elle représenterait un peu moins de 4% de la masse de la croû
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Biotite
+date: Fri Dec 22 2023 11:26:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

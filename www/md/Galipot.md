@@ -1,9 +1,3 @@
----
-title: Galipot
-date: Wed Dec 20 2023 16:32:37 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Galipot
 ### Galipot, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Composition : essence 18%, eau 10%, produits secs 70%, impuretés 2%. Températ
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Galipot
+date: Fri Dec 22 2023 11:27:11 GMT+0100 (Central European Standard Time)
+author: postite
+```

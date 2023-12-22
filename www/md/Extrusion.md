@@ -1,9 +1,3 @@
----
-title: Extrusion
-date: Wed Dec 20 2023 16:32:28 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Extrusion
 ### Extrusion, article du glossaire
  _Nom féminin  
@@ -30,3 +24,8 @@ Il s'agit en fait de donner à un plan une troisième dimension, de créer un vo
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Extrusion
+date: Fri Dec 22 2023 11:27:02 GMT+0100 (Central European Standard Time)
+author: postite
+```

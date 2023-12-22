@@ -1,9 +1,3 @@
----
-title: Foulon
-date: Wed Dec 20 2023 16:32:34 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Foulon
 ### Foulon, article du glossaire
  Le foulage consiste (théoriquement) à fouler au pied certaines matières : cuirs, laines, tissus divers, pour leur donner épaisseur ou consistance, souvent pas sans un agent supplémentaire bien actif.
@@ -31,3 +25,8 @@ Lire _[Dégraisser une matière avec une terre blanche](terresblanches.html#degr
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Foulon
+date: Fri Dec 22 2023 11:27:09 GMT+0100 (Central European Standard Time)
+author: postite
+```

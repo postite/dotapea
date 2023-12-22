@@ -1,9 +1,3 @@
----
-title: Chanfrein
-date: Wed Dec 20 2023 16:31:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Chanfrein
 ### Chanfrein
  _Le chant est la face étroite d'un objet.  
@@ -27,3 +21,8 @@ Le chanfrein est une surface plane obtenue en brisant l'arête ou la partie étr
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Chanfrein
+date: Fri Dec 22 2023 11:26:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

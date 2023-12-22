@@ -1,9 +1,3 @@
----
-title: Substantif
-date: Wed Dec 20 2023 16:34:00 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Substantif
 ### Colorant substantif, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Exemple : le [curcuma](jaunes.html#curcuma).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Substantif
+date: Fri Dec 22 2023 11:28:32 GMT+0100 (Central European Standard Time)
+author: postite
+```

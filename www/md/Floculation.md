@@ -1,9 +1,3 @@
----
-title: Floculation
-date: Wed Dec 20 2023 16:32:33 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Floculation
 ### Floculation, article du glossaire
  Éviter de former des grains, des flocons, des regroupements de matière est un objectif récurrent dans les domaines des arts plastiques, des arts décoratifs, en cuisine, etc. Parfois, on cherche au contraire à accentuer ce phénomène.
@@ -27,3 +21,8 @@ Lire aussi un passage consacré à la floculation en relation avec l'encre de Ch
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Floculation
+date: Fri Dec 22 2023 11:27:07 GMT+0100 (Central European Standard Time)
+author: postite
+```

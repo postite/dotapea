@@ -1,9 +1,3 @@
----
-title: Dosse
-date: Wed Dec 20 2023 16:32:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dosse
 ### Dosse, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Par extension, lorsque l'on évoque un "panneau débité sur dosse", on peut sig
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dosse
+date: Fri Dec 22 2023 11:26:53 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,16 +1,10 @@
----
-title: Silane
-date: Wed Dec 20 2023 16:33:54 GMT+0100 (Central European Standard Time)
-author: postite
----
+## Silane et silanes
+### Silane et silanes, article du glossaire
+ Le silane, SiH4, est le premier membre d'une famille chimique du même nom (de formule SinH2n+2) en apparence proche de la série hydrocarbonée des [alcanes](alcane.html).
 
-## Silane
-### Silane, article du glossaire
- Les silicates sont des [sels](formationdesels.html) de [silicium](silicate.html#silicium), en principe [silice](silice.html) + oxyde(s) métallique(s), mais aussi toute sortes de combinaisons et associations parfois assez compliquées. Ils sont plus que courants - ils dominent - à l'état naturel dans les roches de la croûte terrestre. On suppose généralement que les corps telluriques situés relativement près d'une étoile sont majoritairement composés de silicates. Plus loin, dans le froid, l'eau retenue au sol par des températures glaciales devient majoritaire.
+En réalité, la liaison entre deux atomes de silicium est moins forte que la liaison entre deux carbones tandis que la liaison avec l'oxygène est plus solide, ce qui a pour conséquence que ces corps se décomposent plus facilement à l'air libre. A 400°C, le silane se réorganise en silicium + hydrogène (information [Reptox](liensutiles.html#csst)).
 
-Les peintures au silicate de [potassium](annexe1.html#k) ressemblant au [badigeon à la chaux](badigeon.html) furent créées au XIXème (Keim). Elles sont destinées aux surfaces extérieures, bien qu'elles ne jouent pas le rôle de revêtement ([Kevin Mac Cloud](livres.html#maccloud), p. 261).
-
-Voir [verre](uv.html#verre), [mica](mica.html), [amphibole](amphibole.html), [ures, ites et ates](uresiresates.html).
+Le silane - parfois confondu avec le silicone - semble disposer de caractéristiques particulièrement intéressantes dans le domaine de l'adhérence à certains matériaux lisses et humides (particulièrement le verre et l'aluminium, voir [le mastic](mastic.html)).
 
 
 
@@ -19,3 +13,8 @@ Voir [verre](uv.html#verre), [mica](mica.html), [amphibole](amphibole.html), [ur
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Silane et silanes
+date: Fri Dec 22 2023 11:28:25 GMT+0100 (Central European Standard Time)
+author: postite
+```

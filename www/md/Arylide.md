@@ -1,9 +1,3 @@
----
-title: Arylide
-date: Wed Dec 20 2023 16:31:31 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Arylide
 ### Arylide, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Dans la plupart des cas, il s'agit simplement de couleurs [azoïques](azoiques.h
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Arylide
+date: Fri Dec 22 2023 11:26:06 GMT+0100 (Central European Standard Time)
+author: postite
+```

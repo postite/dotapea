@@ -1,9 +1,3 @@
----
-title: Taloche
-date: Wed Dec 20 2023 16:34:04 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Taloche
 ### Taloche, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Il existe diff�rents types de taloches permettant de cr�er des effets de tex
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Taloche
+date: Fri Dec 22 2023 11:28:35 GMT+0100 (Central European Standard Time)
+author: postite
+```

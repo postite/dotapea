@@ -1,9 +1,3 @@
----
-title: Elixir
-date: Wed Dec 20 2023 16:32:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Elixir
 ### Elixir, article du glossaire
  _Indirectement du grec_ ksêrion_,  
@@ -24,3 +18,8 @@ Le sens contemporain de ce terme semble très appauvri, mais il n'est peut-être
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Elixir
+date: Fri Dec 22 2023 11:26:57 GMT+0100 (Central European Standard Time)
+author: postite
+```

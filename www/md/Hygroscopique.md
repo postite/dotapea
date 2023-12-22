@@ -1,9 +1,3 @@
----
-title: Hygroscopique
-date: Wed Dec 20 2023 16:32:50 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Hygroscopique
 ### Hygroscopique, article du glossaire
  _Adjectif.  
@@ -23,3 +17,8 @@ De nombreux produits sont hygroscopiques, mais à des degrés très différents.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Hygroscopique
+date: Fri Dec 22 2023 11:27:24 GMT+0100 (Central European Standard Time)
+author: postite
+```

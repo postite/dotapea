@@ -1,9 +1,3 @@
----
-title: Dextrogyre
-date: Wed Dec 20 2023 16:32:16 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dextrogyre
 ### Dextrogyre, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Note : les dénomination D et L caractérisant certaines formulations chimiques
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dextrogyre
+date: Fri Dec 22 2023 11:26:50 GMT+0100 (Central European Standard Time)
+author: postite
+```

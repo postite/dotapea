@@ -1,9 +1,3 @@
----
-title: Catalyse
-date: Wed Dec 20 2023 16:31:52 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Catalyse
 ### Catalyse, article du glossaire
  _Du grec_ katalusis_, dissolution, décomposition_
@@ -25,3 +19,8 @@ L'adjectif dérivé de ces mots est : _catalytique_
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Catalyse
+date: Fri Dec 22 2023 11:26:26 GMT+0100 (Central European Standard Time)
+author: postite
+```

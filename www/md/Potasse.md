@@ -1,9 +1,3 @@
----
-title: Potasse
-date: Wed Dec 20 2023 16:33:38 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Potasse
 ### Potasse, article du glossaire
  _De l'allemand_ Pottasche_, cendre du pot (voir [cendre](cendre.html))  
@@ -39,3 +33,8 @@ Voir aussi [Salpêtre](salpetre.html) et [Borax](borax.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Potasse
+date: Fri Dec 22 2023 11:28:11 GMT+0100 (Central European Standard Time)
+author: postite
+```

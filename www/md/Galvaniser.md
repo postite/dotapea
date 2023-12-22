@@ -1,9 +1,3 @@
----
-title: Galvaniser
-date: Wed Dec 20 2023 16:32:37 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Galvaniser
 ### Galvaniser, article du glossaire
  _De_ Galvani _(Luigi Galvani, physicien bolognais 1737-1798,  
@@ -33,3 +27,8 @@ Notes en relation avec les usages artistiques :
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Galvaniser
+date: Fri Dec 22 2023 11:27:11 GMT+0100 (Central European Standard Time)
+author: postite
+```

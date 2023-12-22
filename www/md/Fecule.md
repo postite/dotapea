@@ -1,9 +1,3 @@
----
-title: Fecule
-date: Wed Dec 20 2023 16:32:30 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Fecule
 ### Fecule, article du glossaire
  _du latin_ fæcula_, "fécule" ou "tartre",  
@@ -26,3 +20,8 @@ Voir [féculence](feculence.html), [dextrine, farines](dextrinefarines.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Fecule
+date: Fri Dec 22 2023 11:27:05 GMT+0100 (Central European Standard Time)
+author: postite
+```

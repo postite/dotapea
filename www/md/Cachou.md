@@ -1,9 +1,3 @@
----
-title: Cachou
-date: Wed Dec 20 2023 16:31:47 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cachou
 ### Cachou, article du glossaire
  Mot d'origine malaise ou tamoule.
@@ -16,3 +10,9 @@ Il possède des vertus astringentes.
 
 Le mot cachou désigne également une couleur. Lecture conseillée : [Le cachou sur Pourpre.com](http://pourpre.com/chroma/dico.php?typ=fiche&&ent=cachou)
 
+
+```
+title: Cachou
+date: Fri Dec 22 2023 11:26:22 GMT+0100 (Central European Standard Time)
+author: postite
+```

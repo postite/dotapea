@@ -1,9 +1,3 @@
----
-title: Tain
-date: Wed Dec 20 2023 16:34:03 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tain
 ### Tain, article du glossaire
  Amalgame m�tallique servant � la fabrication d'un miroir. Cet amalgame a pu �tre �tain ([Sn](annexe1.html#sn)) + [mercure](mercure.html) (Hg), ce qui donnerait une explication �tymologique � ce mot. Le mercure �tant un m�tal extr�mement dangereux, on peut supposer qu'un substitut est employ� aujourd'hui (information non confirm�e).
@@ -25,3 +19,8 @@ Sur ces derniers points, lire absolument un [passage](chap28origamimiroir.html#s
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Tain
+date: Fri Dec 22 2023 11:28:34 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Tellure
-date: Wed Dec 20 2023 16:34:06 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tellure
 ### Tellure, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Pour m�moire - car cet atome est un peu hors-sujet pour ce site -, il s'agit d
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Tellure
+date: Fri Dec 22 2023 11:28:37 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Carboxyle
-date: Wed Dec 20 2023 16:31:50 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Carboxyle
 ### Carboxyle, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Dérivé le plus proche de ce radical, l'acide [formique](formique.html) est un 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Carboxyle
+date: Fri Dec 22 2023 11:26:25 GMT+0100 (Central European Standard Time)
+author: postite
+```

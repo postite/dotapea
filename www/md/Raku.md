@@ -1,9 +1,3 @@
----
-title: Raku
-date: Wed Dec 20 2023 16:33:42 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Raku
 ### Raku, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Un cuisson de ce type a la particularité d'être suivie d'un refroidissement br
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Raku
+date: Fri Dec 22 2023 11:28:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Agate
-date: Wed Dec 20 2023 16:31:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Agate
 ### Agate, article du glossaire
  _Etymologie : possiblement «_ du nom d'un cours d'eau de Sicile  
@@ -39,3 +33,8 @@ A signaler, deux termes recensés par A. Béguin (ibidem) :
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Agate
+date: Fri Dec 22 2023 11:25:56 GMT+0100 (Central European Standard Time)
+author: postite
+```

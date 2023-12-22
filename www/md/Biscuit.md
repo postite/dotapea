@@ -1,9 +1,3 @@
----
-title: Biscuit
-date: Wed Dec 20 2023 16:31:40 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Biscuit
 ### Biscuit, article du glossaire
  De _bis_ (une seconde fois) et _cuit_.
@@ -28,3 +22,8 @@ Voir [céramique](ceramique.html), [porcelaine](porcelaine.html) et [faïence](f
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Biscuit
+date: Fri Dec 22 2023 11:26:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

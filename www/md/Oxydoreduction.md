@@ -1,9 +1,3 @@
----
-title: Oxydoréduction
-date: Wed Dec 20 2023 16:33:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Oxydoréduction
 ### Oxydoréduction, portée en arts plastiques
  **L'oxydoréduction**
@@ -22,3 +16,9 @@ Ce qui s'ensuit peut déboucher sur la formation d'une molécule d'eau... ou en 
 
 Lire absolument [passage](chap19oxydationsmetaux.html#oxydationreduction) in _Les Dialogues de Dotapea, chap. XIX._ Un courrier des lecteurs aborde également ces questions et fournit des informations complémentaires. [Lien.](courrierdeslecteurs2011b010.html#20110505lf)
 
+
+```
+title: Oxydoréduction
+date: Fri Dec 22 2023 11:27:55 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Indanthrène
-date: Wed Dec 20 2023 16:32:52 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Indanthrène
 ### Indanthrène, article du glossaire
  _Nom a priori masculin, l'indanthrène  
@@ -18,3 +12,9 @@ On signale des variétés orangées et roses d'indanthrène, de formulations ass
 
 Certaines variétés d'indanthrènes seraient destinées à un usage alimentaire.
 
+
+```
+title: Indanthrène
+date: Fri Dec 22 2023 11:27:26 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,0 +1,3 @@
+-cp /Users/postite/Documents/LAB/pigeonMaps/.haxelib/pigeon-maps/0,21,3
+-D pigeon-maps=0.21.3
+--macro Sys.println("haxe_libraries/pigeon-maps.hxml:2: [Warning] Using dev version of library pigeon-maps")

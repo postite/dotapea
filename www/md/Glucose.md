@@ -1,9 +1,3 @@
----
-title: Glucose
-date: Wed Dec 20 2023 16:32:39 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Glucose
 ### Glucose, article du glossaire
  _Etymologie : voir [glycérine](glucose.html#glycerine)_
@@ -29,3 +23,8 @@ Voir aussi [dextrine, farines](dextrinefarines.html), [cellulose](cellulose.html
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Glucose
+date: Fri Dec 22 2023 11:27:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

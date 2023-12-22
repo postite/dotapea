@@ -1,0 +1,4 @@
+-lib leaflethx
+-cp /Users/postite/Documents/LAB/react-leaflet/src/
+-D react-leaflet=0.0.1
+--macro Sys.println("haxe_libraries/react-leaflet.hxml:3: [Warning] Using dev version of library react-leaflet")

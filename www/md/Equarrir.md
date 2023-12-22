@@ -1,9 +1,3 @@
----
-title: Equarrir
-date: Wed Dec 20 2023 16:32:25 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Equarrir
 ### Equarrir, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Ce terme est employé métaphoriquement de longue date dans des domaines variés
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Equarrir
+date: Fri Dec 22 2023 11:26:59 GMT+0100 (Central European Standard Time)
+author: postite
+```

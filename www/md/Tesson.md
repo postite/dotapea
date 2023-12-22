@@ -1,9 +1,3 @@
----
-title: Tesson
-date: Wed Dec 20 2023 16:34:09 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tesson
 ### Tesson, article du glossaire
  **Acc�s direct glossaire**
@@ -29,3 +23,8 @@ Assez commun�ment, le tesson est nomm� [biscuit](biscuit.html), ce qui est d
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Tesson
+date: Fri Dec 22 2023 11:28:39 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Fer
-date: Wed Dec 20 2023 16:32:31 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Fer
 ### Fer, article du glossaire
  [Élément n°26](annexe1.html#fe) du tableau des éléments périodiques.
@@ -23,3 +17,8 @@ Voir aussi [ferreux](ferreux.html), [ferrique](ferrique.html) et [magnétite](ma
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Fer
+date: Fri Dec 22 2023 11:27:05 GMT+0100 (Central European Standard Time)
+author: postite
+```

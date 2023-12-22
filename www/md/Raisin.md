@@ -1,9 +1,3 @@
----
-title: Raisin
-date: Wed Dec 20 2023 16:33:42 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Raisin
 ### Raisin (format de papier), article du glossaire
  Table des formats de papiers : [cliquer ici](formatsdepapiers.html).
@@ -23,3 +17,8 @@ Un format italien très proche du raisin et également assez répandu est encore
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Raisin
+date: Fri Dec 22 2023 11:28:14 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: VEMP
-date: Wed Dec 20 2023 16:34:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## VEMP
 ### VEMP, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Elle concerne une exposition de durée moyenne et est souvent inférieure à la 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: VEMP
+date: Fri Dec 22 2023 11:28:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

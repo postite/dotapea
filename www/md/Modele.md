@@ -1,9 +1,3 @@
----
-title: Modelé
-date: Wed Dec 20 2023 16:33:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Modelé
 ### Modelé, article du glossaire
  Le modelé est essentiellement la mise en valeur ou l'expression plastique de formes de reliefs (assez souvent corporels, le terme faisant naturellement référence au _modèle_), par opposition avec le contour et l'aplat (dessin/peinture) ou le plan régulier (techniques tridimensionnelles).
@@ -21,3 +15,8 @@ Dans cette perspective, l'artiste plasticien peut lui-même créer le relief ou 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Modelé
+date: Fri Dec 22 2023 11:27:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

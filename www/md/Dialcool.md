@@ -1,9 +1,3 @@
----
-title: Dialcool
-date: Wed Dec 20 2023 16:32:16 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dialcool
 ### Dialcool, article du glossaire
  Composé comportant deux [fonctions alcool](alcool.html#fonctionsalcool).
@@ -21,3 +15,8 @@ Par contre, dans l'usage, le terme glycol est presque toujours associé à un au
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dialcool
+date: Fri Dec 22 2023 11:26:51 GMT+0100 (Central European Standard Time)
+author: postite
+```

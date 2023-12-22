@@ -1,9 +1,3 @@
----
-title: Tarlatane
-date: Wed Dec 20 2023 16:34:05 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tarlatane
 ### Tarlatane, article du glossaire
  Navig. page/section
@@ -55,3 +49,8 @@ Voir aussi [organdi](tarlatane.html#organdi).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Tarlatane
+date: Fri Dec 22 2023 11:28:36 GMT+0100 (Central European Standard Time)
+author: postite
+```

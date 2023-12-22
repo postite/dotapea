@@ -1,9 +1,3 @@
----
-title: Pyroxène
-date: Wed Dec 20 2023 16:33:40 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Pyroxène
 ### Pyroxène, article du glossaire
  _De_ pyro_, du grec pur, feu, et du grec_ xenos_, étranger.  
@@ -26,3 +20,8 @@ Des pyroxènes peuvent entrer dans la composition de certains [granites](granit.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Pyroxène
+date: Fri Dec 22 2023 11:28:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

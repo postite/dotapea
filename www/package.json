@@ -1,0 +1,7 @@
+{
+  "dependencies": {  
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.1.6",
+    "busboy": "^0.3.1"
+  }
+}

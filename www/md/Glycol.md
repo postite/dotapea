@@ -1,9 +1,3 @@
----
-title: Glycol
-date: Wed Dec 20 2023 16:32:40 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Glycol
 ### Glycol, article du glossaire
  _Etymologie : voir [glycérine](glycol.html#glycerine)_
@@ -18,3 +12,9 @@ Formule : CH2OH - CH2OH, (deux [fonctions alcool primaires](alcool.html#fonct
 
 Voir [polyester](glycol.html#polyester).
 
+
+```
+title: Glycol
+date: Fri Dec 22 2023 11:27:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Cetone
-date: Wed Dec 20 2023 16:31:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cetone
 ### Cetone
  _Cétone est un nom féminin_
@@ -14,3 +8,9 @@ Quelques exemples sont [l'acétone](acetone.html), le [camphre](camphre.html) et
 
 La fonction cétone est typiquement le résultat de l'oxydation de la [fonction alcool secondaire](alcool.html#fonctionalcoolsecondaire).
 
+
+```
+title: Cetone
+date: Fri Dec 22 2023 11:26:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

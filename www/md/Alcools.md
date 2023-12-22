@@ -1,9 +1,3 @@
----
-title: Alcools
-date: Wed Dec 20 2023 16:31:23 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcools
 ### Alcool, usage en arts plastiques
  **Alcools**
@@ -83,3 +77,8 @@ Il est parfois employé pour créer des effets dans les techniques mixtes et la 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alcools
+date: Fri Dec 22 2023 11:25:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

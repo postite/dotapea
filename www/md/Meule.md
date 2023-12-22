@@ -1,9 +1,3 @@
----
-title: Meule
-date: Wed Dec 20 2023 16:33:09 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Meule
 ### Meule, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Lire [Pierre meulière](meule.html#meuliere) et surtout [un passage in _Les abra
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Meule
+date: Fri Dec 22 2023 11:27:43 GMT+0100 (Central European Standard Time)
+author: postite
+```

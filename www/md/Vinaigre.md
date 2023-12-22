@@ -1,9 +1,3 @@
----
-title: Vinaigre
-date: Wed Dec 20 2023 16:34:20 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vinaigre
 ### Vinaigre, article du glossaire
  Ce liquide a une grande importance dans le domaine des arts plastiques depuis l'Antiquité. Il a servi à [oxyder le cuivre](cuivre.html#cuivreoxyde) pour réaliser des pigments ou des patines, à attaquer le plomb pour créer la [céruse](ceruse.html), à protéger la [tempera](tempera.html) fraîche, etc.
@@ -16,3 +10,9 @@ Pour un emploi à usage non alimentaire, le _vinaigre blanc d'alcool_ semble une
 
 Voir aussi [Acétate](acetate.html) et une [courte évocation de la peinture au vinaigre dans l'article _Les autres liants_](autresliants.html#autres) ainsi qu'un [passage au sujet de l'emploi du vinaigre en _tempera à l'oeuf_](oeuf.html#vinaigre) et [un autre dans l'article _La céruse_](ceruse.html#fabricationqualites).
 
+
+```
+title: Vinaigre
+date: Fri Dec 22 2023 11:28:48 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Aryle
-date: Wed Dec 20 2023 16:31:31 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Aryle
 ### Aryle, article du glossaire
  _Nom masculin  
@@ -15,3 +9,9 @@ Ce terme désigne une famille de couleurs et de produits [organiques](organique.
 
 Voir notamment _[Arylamine](arylamine.html)_ et accessoirement, _[L'arylide](arylide.html)_.
 
+
+```
+title: Aryle
+date: Fri Dec 22 2023 11:26:06 GMT+0100 (Central European Standard Time)
+author: postite
+```

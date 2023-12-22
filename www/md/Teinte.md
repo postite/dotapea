@@ -1,9 +1,3 @@
----
-title: Teinte
-date: Wed Dec 20 2023 16:34:06 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Teinte
 ### Teinte, article du glossaire
  _Du latin_ tinctus _ou du verbe_ tingere
@@ -23,3 +17,8 @@ Voir �galement [ton](ton.html), [valeur](valeur.html), [couleur](couleur.html)
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Teinte
+date: Fri Dec 22 2023 11:28:36 GMT+0100 (Central European Standard Time)
+author: postite
+```

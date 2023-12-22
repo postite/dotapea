@@ -1,9 +1,3 @@
----
-title: Spermaceti
-date: Wed Dec 20 2023 16:33:57 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Spermaceti
 ### Spermaceti, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Voir [Gras, graisse](gras.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Spermaceti
+date: Fri Dec 22 2023 11:28:29 GMT+0100 (Central European Standard Time)
+author: postite
+```

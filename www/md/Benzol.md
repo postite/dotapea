@@ -1,9 +1,3 @@
----
-title: Benzol
-date: Wed Dec 20 2023 16:31:39 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Benzol
 ### Benzol, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Voir aussi [Benzine](benzine.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Benzol
+date: Fri Dec 22 2023 11:26:14 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Benzidine
-date: Wed Dec 20 2023 16:31:38 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Benzidine
 ### Benzidine, article du glossaire
  Dit aussi "bianiline", c'est, comme [l'aniline](anilines.html), un dérivé azoté du [benzène](benzeneetbenjoin.html). Sa formule condensée est : C12H12N2, soit une sorte de couple d'anilines.
@@ -21,3 +15,8 @@ voir [pigments azoïques](azoiques.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Benzidine
+date: Fri Dec 22 2023 11:26:14 GMT+0100 (Central European Standard Time)
+author: postite
+```

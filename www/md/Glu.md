@@ -1,9 +1,3 @@
----
-title: Glu
-date: Wed Dec 20 2023 16:32:39 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Glu
 ### Glu, article du glossaire
  _Proviendrait du latin classique_ gluten_.  
@@ -25,3 +19,8 @@ Voir [colle](colle.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Glu
+date: Fri Dec 22 2023 11:27:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Rough
-date: Wed Dec 20 2023 16:33:49 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Rough
 ### Rough, article du glossaire
  _Anglicisme utilisé comme adjectif ou comme nom masculin_
@@ -14,3 +8,9 @@ Le papier rough est plutôt destiné à [l'ébauche](ebauche.html) au feutre sur
 
 Le rough est aussi un [béton cellulaire](betoncellulaire.html) permettant la création aisée de formes tridimensionnelles à des fins diverses.
 
+
+```
+title: Rough
+date: Fri Dec 22 2023 11:28:21 GMT+0100 (Central European Standard Time)
+author: postite
+```

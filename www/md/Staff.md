@@ -1,9 +1,3 @@
----
-title: Staff
-date: Wed Dec 20 2023 16:33:57 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Staff
 ### Staff, article du glossaire
  _De l'allemand_ staffieren_, orner_
@@ -23,3 +17,8 @@ L'artisan spécialiste du staff est nommé staffiste, parfois aussi staffeur.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Staff
+date: Fri Dec 22 2023 11:28:29 GMT+0100 (Central European Standard Time)
+author: postite
+```

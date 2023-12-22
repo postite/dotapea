@@ -1,9 +1,3 @@
----
-title: Accueil
-date: Wed Dec 20 2023 16:31:19 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Accueil
 ### page d'accueil
    
@@ -127,3 +121,9 @@ Voir _[Qui sommes-nous ?](quinoussommes.html)_ et [_L'oeuf de Dotapea/ArtRéali
 
 Copyright © www.dotapea.com. Tous droits réservés.
 
+
+```
+title: Accueil
+date: Fri Dec 22 2023 11:25:54 GMT+0100 (Central European Standard Time)
+author: postite
+```

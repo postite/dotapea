@@ -1,9 +1,3 @@
----
-title: Serpentine
-date: Wed Dec 20 2023 16:33:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Serpentine
 ### Serpentine, article du glossaire
  La serpentine ou les serpentines, c'est une petite famille de cinq minéraux [métamorphiques](metamorphiques.html) d'un vert chaud (parfois même jaune), dont la formule chimique varie très peu - sensiblement (Mg,Fe)3Si2O5(OH)4 -, de même que l'apparence, contrairement aux agencements moléculaires et aux associations à d'autres minéraux.
@@ -21,3 +15,8 @@ Trois variétés de serpentines (les chrysotiles, "fibres d'or", en grec) sont d
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Serpentine
+date: Fri Dec 22 2023 11:28:25 GMT+0100 (Central European Standard Time)
+author: postite
+```

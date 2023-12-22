@@ -1,9 +1,3 @@
----
-title: Magnétite
-date: Wed Dec 20 2023 16:33:04 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Magnétite
 ### Magnétite, article du glossaire
  [![](images/chap26magnetitemono.jpg)](chap26magnetisme.html#magnetite)
@@ -16,3 +10,9 @@ Il s'agit d'un minerai d'oxyde de [fer](fer.html) noir (Fe3O4) présent dans d'i
 
 A lire aussi : les [ferrofluides](ferrofluides.html).
 
+
+```
+title: Magnétite
+date: Fri Dec 22 2023 11:27:38 GMT+0100 (Central European Standard Time)
+author: postite
+```

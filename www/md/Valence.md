@@ -1,9 +1,3 @@
----
-title: Valence
-date: Wed Dec 20 2023 16:34:16 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Valence
 ### Valence, article du glossaire
  Définition restreinte : quantité de liaisons moléculaires d'un atome avec d'autres atomes.
@@ -54,3 +48,8 @@ Enfin, si le niveau de Fermi est situé dans la bande de conduction, on a affair
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Valence
+date: Fri Dec 22 2023 11:28:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

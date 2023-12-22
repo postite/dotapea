@@ -1,9 +1,3 @@
----
-title: Uranium
-date: Wed Dec 20 2023 16:34:14 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Uranium
 ### L'uranium, article du glossaire
  **Accès direct glossaire**
@@ -30,3 +24,8 @@ Quelques photographes, mais aussi certains spécialistes des [glaçures](glacure
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Uranium
+date: Fri Dec 22 2023 11:28:43 GMT+0100 (Central European Standard Time)
+author: postite
+```

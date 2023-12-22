@@ -1,9 +1,3 @@
----
-title: Xylidine
-date: Wed Dec 20 2023 16:34:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Xylidine
 ### Xylidine, article du glossaire
  [Arylamine](arylamine.html) [xylénique](xylidine.html#xylene) utilisé dans la fabrication des [colorants azoïques](azoiques.html), très employés en peinture.
@@ -19,3 +13,8 @@ Les informations toxicologiques sur ce produit sont pratiquement inexistantes. S
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Xylidine
+date: Fri Dec 22 2023 11:28:51 GMT+0100 (Central European Standard Time)
+author: postite
+```

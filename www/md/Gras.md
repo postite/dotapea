@@ -1,9 +1,3 @@
----
-title: Gras
-date: Wed Dec 20 2023 16:32:43 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Gras
 ### Gras, article du glossaire
  _Lire l'article [Gras sur maigre](grassurmaigre.html)_
@@ -41,3 +35,8 @@ Note : la graisse peut être un "piège à eau". Voir [Thixotropie](thixotropie
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Gras
+date: Fri Dec 22 2023 11:27:17 GMT+0100 (Central European Standard Time)
+author: postite
+```

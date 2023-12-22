@@ -1,9 +1,3 @@
----
-title: Calamine
-date: Wed Dec 20 2023 16:31:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Calamine
 ### Calamine, article du glossaire
  _Ce mot n'a étymologiquement parlant aucun rapport direct, semble-t-il, avec [le calame](calame.html). Il est dérivé du mot français_ cadmie_, (résidu de la cuisson du minerai de zinc), provenant lui même de_ Cadmée_, antique lieu d'extraction du zinc au Moyen-Orient._
@@ -25,3 +19,8 @@ IV. Résidu crasseux se formant à la surface de métaux ferreux. Ce dernier sen
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Calamine
+date: Fri Dec 22 2023 11:26:23 GMT+0100 (Central European Standard Time)
+author: postite
+```

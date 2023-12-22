@@ -1,9 +1,3 @@
----
-title: Couverte
-date: Wed Dec 20 2023 16:32:10 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Couverte
 ### Couverte, article du glossaire
  En théorie, il s'agit d'un [émail](e.html#email) cuisant en même temps que la pâte terreuse (technique de [céramique](ceramique.html), de [porcelaine](porcelaine.html)), à distinguer des [glaçures](glacure.html) qui ne sont apposées que sur un [biscuit](biscuit.html).
@@ -19,3 +13,8 @@ L'histoire des [faïences](faience.html) semble cependant indiquer que les couve
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Couverte
+date: Fri Dec 22 2023 11:26:44 GMT+0100 (Central European Standard Time)
+author: postite
+```

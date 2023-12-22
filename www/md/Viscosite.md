@@ -1,9 +1,3 @@
----
-title: Viscosité
-date: Wed Dec 20 2023 16:34:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Viscosité
 ### Viscosité, article du glossaire
  Une définition parmi d'autres de la viscosité :  
@@ -34,3 +28,8 @@ Dans certaines disciplines notamment artistiques, la viscosité est couramment l
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Viscosité
+date: Fri Dec 22 2023 11:28:49 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Huile
-date: Wed Dec 20 2023 16:32:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Huile
 ### Huile, article du glossaire
  _du latin_ oleum
@@ -48,3 +42,8 @@ Lire aussi la page [Les huiles](huiles.html), la page [Essences](essences.html) 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Huile
+date: Fri Dec 22 2023 11:27:22 GMT+0100 (Central European Standard Time)
+author: postite
+```

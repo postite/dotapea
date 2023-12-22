@@ -1,9 +1,3 @@
----
-title: Amidon
-date: Wed Dec 20 2023 16:31:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Amidon
 ### Amidon, article du glossaire
  XIIIé, du latin médiéval _amidum_,  
@@ -39,3 +33,8 @@ Concernant sa réactivité aux levures, lire un [passage du chapitre IX des Dial
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Amidon
+date: Fri Dec 22 2023 11:26:01 GMT+0100 (Central European Standard Time)
+author: postite
+```

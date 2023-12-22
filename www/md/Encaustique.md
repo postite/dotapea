@@ -1,9 +1,3 @@
----
-title: Encaustique
-date: Wed Dec 20 2023 16:32:23 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Encaustique
 ### Encaustique, article du glossaire
  _Du grec_ egkaiein_, brûler_
@@ -27,3 +21,8 @@ Lire absolument [Les cires, l'encaustique](cires.html). Lire aussi l'article [Ci
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Encaustique
+date: Fri Dec 22 2023 11:26:57 GMT+0100 (Central European Standard Time)
+author: postite
+```

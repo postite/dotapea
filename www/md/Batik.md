@@ -1,9 +1,3 @@
----
-title: Batik
-date: Wed Dec 20 2023 16:31:37 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Batik
 ### Batik, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Le batik exploite le principe des [réserves](reserves.html) et notamment des [r
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Batik
+date: Fri Dec 22 2023 11:26:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

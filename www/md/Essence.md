@@ -1,9 +1,3 @@
----
-title: Essence
-date: Wed Dec 20 2023 16:32:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Essence
 ### Essence, article du glossaire
  Dans le domaine alchimique, l'essence était la substance la plus pure que l'on tirait de certains corps (cf [élixir](elixir.html), [quintessence](raffinage.html#quintessenceether) bien sûr et [éther](ether.html)). De fait, toute essence est en principe le produit d'une ou plusieurs opérations de transformation.
@@ -21,3 +15,8 @@ Lire la page _[Les essences](essences.html)_ [in _Solvants, dissolvants, etc._](
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Essence
+date: Fri Dec 22 2023 11:27:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

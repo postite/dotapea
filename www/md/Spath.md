@@ -1,9 +1,3 @@
----
-title: Spath
-date: Wed Dec 20 2023 16:33:56 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Spath
 ### Spath, article du glossaire
  _Du mot allemand_
@@ -25,3 +19,8 @@ _Le spath fluor_ ou _fluorine_ (CaF2), fluorescent sous "éclairage" UV, est ass
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Spath
+date: Fri Dec 22 2023 11:28:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

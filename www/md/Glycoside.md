@@ -1,9 +1,3 @@
----
-title: Glycoside
-date: Wed Dec 20 2023 16:32:41 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Glycoside
 ### Glycoside, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Les glycosides sont essentiellement d'origine végétale. Leur importance dans l
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Glycoside
+date: Fri Dec 22 2023 11:27:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

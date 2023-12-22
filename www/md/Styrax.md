@@ -1,9 +1,3 @@
----
-title: Styrax
-date: Wed Dec 20 2023 16:33:59 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Styrax
 ### Styrax, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Voir [Styrène](styrene.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Styrax
+date: Fri Dec 22 2023 11:28:31 GMT+0100 (Central European Standard Time)
+author: postite
+```

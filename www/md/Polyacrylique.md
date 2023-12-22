@@ -1,9 +1,3 @@
----
-title: Polyacrylique
-date: Wed Dec 20 2023 16:33:34 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Polyacrylique
 ### Polyacrylique, article du glossaire
  Adjectif, de _poly(mère)_ et _acrylique_
@@ -18,3 +12,9 @@ Elles se présentent sous forme de pâtes épaisses et s'étalent à la spatule 
 
 Voir [macromolécule](macromolecule.html), [réticulation](reticulation.html) et [colloïde](colloide.html).
 
+
+```
+title: Polyacrylique
+date: Fri Dec 22 2023 11:28:07 GMT+0100 (Central European Standard Time)
+author: postite
+```

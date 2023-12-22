@@ -1,9 +1,3 @@
----
-title: Alcène
-date: Wed Dec 20 2023 16:31:23 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcène
 ### Alcène, article du glossaire
  _Nom masculin, de_ alcool _et vraisemblablement de_ éthylène_._
@@ -29,3 +23,8 @@ Voir [alcane](alcane.html), [essences minérales in Les essences](essences.html#
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alcène
+date: Fri Dec 22 2023 11:25:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Chlore
-date: Wed Dec 20 2023 16:32:04 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Chlore
 ### Chlore
  Chlore : [élément n°17](annexe1.html#cl) de la table de Mendeleïev.
@@ -29,3 +23,8 @@ Beaucoup d'autres choses peuvent certainement être ajoutées au sujet du chlore
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Chlore
+date: Fri Dec 22 2023 11:26:39 GMT+0100 (Central European Standard Time)
+author: postite
+```

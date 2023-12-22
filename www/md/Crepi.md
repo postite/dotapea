@@ -1,9 +1,3 @@
----
-title: Crépi
-date: Wed Dec 20 2023 16:32:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Crépi
 ### Crépi
  _De l'ancien français_ cresp_, frisé, bouclé, ondulé.  
@@ -29,3 +23,8 @@ Dernier point : le retrait. Une opération épouvantablement difficile puisqu'u
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Crépi
+date: Fri Dec 22 2023 11:26:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

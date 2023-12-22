@@ -1,9 +1,3 @@
----
-title: Porcelaine
-date: Wed Dec 20 2023 16:33:38 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Porcelaine
 ### Porcelaine, article du glossaire
  **Accès direct glossaire**
@@ -34,3 +28,8 @@ Voir [céramique](ceramique.html), [biscuit](biscuit.html) et surtout [kaolin](k
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Porcelaine
+date: Fri Dec 22 2023 11:28:11 GMT+0100 (Central European Standard Time)
+author: postite
+```

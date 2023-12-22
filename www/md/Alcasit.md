@@ -1,9 +1,3 @@
----
-title: Alcasit
-date: Wed Dec 20 2023 16:31:23 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcasit
 ### Alcasit, article du glossaire
  _Nom déposé (Glutolin Renovierungsprodukte GmbH)_
@@ -16,3 +10,9 @@ Aux dernières nouvelles il pourrait avoir disparu.
 
 Toute information précise concernant l'Alcasit ® et son emploi dans le domaine des arts plastiques et avoisinants est [bienvenue.](ecrire.html)
 
+
+```
+title: Alcasit
+date: Fri Dec 22 2023 11:25:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

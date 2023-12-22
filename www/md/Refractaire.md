@@ -1,9 +1,3 @@
----
-title: Réfractaire
-date: Wed Dec 20 2023 16:33:44 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Réfractaire
 ### Réfractaire, article du glossaire
  _Du latin_ refractarius_, querelleur,  
@@ -29,3 +23,8 @@ Lire notamment _[Les terres a feu ou argiles réfractaires](terressupports.html#
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Réfractaire
+date: Fri Dec 22 2023 11:28:17 GMT+0100 (Central European Standard Time)
+author: postite
+```

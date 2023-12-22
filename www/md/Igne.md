@@ -1,9 +1,3 @@
----
-title: Igné
-date: Wed Dec 20 2023 16:32:50 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Igné
 ### Igné, article du glossaire
  Navig. page/section
@@ -54,3 +48,8 @@ Par ailleurs, _igné_ est l'épithète se rapportant au feu, à l'instar de l'ad
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Igné
+date: Fri Dec 22 2023 11:27:24 GMT+0100 (Central European Standard Time)
+author: postite
+```

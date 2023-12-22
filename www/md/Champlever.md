@@ -1,9 +1,3 @@
----
-title: Champlever
-date: Wed Dec 20 2023 16:31:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Champlever
 ### Champlever
  Le verbe champlever fait référence à une technique employée dans le travail des [émaux sur métal](email.html#lesupport).
@@ -23,3 +17,8 @@ Voir aussi _[nieller](nieller.html)_.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Champlever
+date: Fri Dec 22 2023 11:26:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

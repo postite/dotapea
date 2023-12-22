@@ -1,9 +1,3 @@
----
-title: Plagioclase
-date: Wed Dec 20 2023 16:33:31 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Plagioclase
 ### Plagioclase, article du glossaire
  _Du grec_ plagios _qui signifie oblique et_ clasis_, cassure,  
@@ -20,3 +14,8 @@ Il s'agit de [cristaux](cristal.html) à [biréfringence](birefringence.html) fa
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Plagioclase
+date: Fri Dec 22 2023 11:28:04 GMT+0100 (Central European Standard Time)
+author: postite
+```

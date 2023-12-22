@@ -1,9 +1,3 @@
----
-title: Aldéhyde
-date: Wed Dec 20 2023 16:31:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Aldéhyde
 ### Aldéhyde, article du glossaire
  _Nom masculin,  
@@ -29,3 +23,8 @@ Voir _[Le formol](formol.html)_, _[Amandes amères](amandeamere.html)_ et _[Form
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Aldéhyde
+date: Fri Dec 22 2023 11:25:59 GMT+0100 (Central European Standard Time)
+author: postite
+```

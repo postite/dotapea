@@ -1,9 +1,3 @@
----
-title: Antimoine
-date: Wed Dec 20 2023 16:31:29 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Antimoine
 ### Antimoine, article du glossaire
  _Du grec_ stimmi _ou_ stibi_, noir d'antimoine,  
@@ -40,3 +34,8 @@ Il s'agit d'un agent puissamment toxique et probablement cancérigène.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Antimoine
+date: Fri Dec 22 2023 11:26:04 GMT+0100 (Central European Standard Time)
+author: postite
+```

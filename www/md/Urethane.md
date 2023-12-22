@@ -1,9 +1,3 @@
----
-title: Uréthane
-date: Wed Dec 20 2023 16:34:14 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Uréthane
 ### Uréthane, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Lire _[Les polyuréthanes.](polyurethane.html)_
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Uréthane
+date: Fri Dec 22 2023 11:28:44 GMT+0100 (Central European Standard Time)
+author: postite
+```

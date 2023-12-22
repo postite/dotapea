@@ -1,9 +1,3 @@
----
-title: Glossaire
-date: Wed Dec 20 2023 16:32:39 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Glossaire
 ### Page centrale de la section glossaire du site Dotapea
                    ![](images/glossaire.jpg)
@@ -17,3 +11,8 @@ En 2005-2006, le glossaire a été totalement révisé et segmenté, c'est-à-di
 
 
 Index alphabétique du glossaire
+```
+title: Glossaire
+date: Fri Dec 22 2023 11:27:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

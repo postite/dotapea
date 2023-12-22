@@ -1,9 +1,3 @@
----
-title: Electrolyte
-date: Wed Dec 20 2023 16:32:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Electrolyte
 ### Electrolyte, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ L'électrolyte est un élément de la réaction physico-chimique qu'est l'élect
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Electrolyte
+date: Fri Dec 22 2023 11:26:56 GMT+0100 (Central European Standard Time)
+author: postite
+```

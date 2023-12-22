@@ -1,9 +1,3 @@
----
-title: Nuance
-date: Wed Dec 20 2023 16:33:16 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Nuance
 ### Nuance, article du glossaire
  La nuance s'oppose dans certains cas à la [couleur](couleur.html) et cette opposition a donné lieu naguère à des polémiques acharnées.
@@ -25,3 +19,8 @@ Voir également _[teinte](teinte.html)_.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Nuance
+date: Fri Dec 22 2023 11:27:50 GMT+0100 (Central European Standard Time)
+author: postite
+```

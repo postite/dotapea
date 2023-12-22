@@ -1,9 +1,3 @@
----
-title: Liber
-date: Wed Dec 20 2023 16:32:59 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Liber
 ### Liber, article du glossaire
  _Mot latin  
@@ -26,3 +20,8 @@ C'est essentiellement le papyrus qui détrôna le liber en tant que support au c
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Liber
+date: Fri Dec 22 2023 11:27:33 GMT+0100 (Central European Standard Time)
+author: postite
+```

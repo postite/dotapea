@@ -1,9 +1,3 @@
----
-title: Grenat
-date: Wed Dec 20 2023 16:32:43 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Grenat
 ### Grenat, article du glossaire
  Un rouge ? Une "laque" ? Une pourpre ?
@@ -20,3 +14,9 @@ La pierre grenat ne semble pas avoir été broyée puis utilisée comme pigment,
 
 Lecture conseillée : [La couleur grenat sur Pourpre.com](http://pourpre.com/chroma/dico.php?typ=fiche&&ent=grenat)
 
+
+```
+title: Grenat
+date: Fri Dec 22 2023 11:27:17 GMT+0100 (Central European Standard Time)
+author: postite
+```

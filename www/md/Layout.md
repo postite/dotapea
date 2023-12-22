@@ -1,9 +1,3 @@
----
-title: Layout
-date: Wed Dec 20 2023 16:32:58 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Layout
 ### Le papier layout, article du glossaire
  **Accès direct glossaire**
@@ -33,3 +27,8 @@ Voir [ébauche](ebauche.html), [esquisse](esquisse.html), ["Les papiers apprêt�
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Layout
+date: Fri Dec 22 2023 11:27:32 GMT+0100 (Central European Standard Time)
+author: postite
+```

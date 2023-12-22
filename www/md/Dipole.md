@@ -1,9 +1,3 @@
----
-title: Dipôle
-date: Wed Dec 20 2023 16:32:17 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Dipôle
 ### Dipôle, article du glossaire
  **Accès direct glossaire**
@@ -32,3 +26,8 @@ Lire notamment [Les liaisons in _Electronégativité, liaisons et liaisons polai
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Dipôle
+date: Fri Dec 22 2023 11:26:52 GMT+0100 (Central European Standard Time)
+author: postite
+```

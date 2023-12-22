@@ -1,9 +1,3 @@
----
-title: Alkydes
-date: Wed Dec 20 2023 16:31:25 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alkydes
 ### Liants alkydes, usage en arts plastiques
  **Alkydes**
@@ -83,3 +77,8 @@ Voir aussi [_Liants émulsions_](liantsemulsions.html#alkydes) et _[Liant glycé
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alkydes
+date: Fri Dec 22 2023 11:26:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

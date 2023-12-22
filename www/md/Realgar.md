@@ -1,9 +1,3 @@
----
-title: Réalgar
-date: Wed Dec 20 2023 16:33:42 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Réalgar
 ### Réalgar, article du glossaire
  _De l'arabe_ rehj-al-ghar_, "mort-aux-rats"._
@@ -21,3 +15,8 @@ Encore utilisé à la fin du XIXème siècle, ce pigment toxique (cf. étymologi
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Réalgar
+date: Fri Dec 22 2023 11:28:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Enzyme
-date: Wed Dec 20 2023 16:32:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Enzyme
 ### Enzyme, article du glossaire
  _Du grec en, dans, et zumê, levain.  
@@ -25,3 +19,8 @@ Voir [protéine](proteine.html), [fermentation](fermentation.html), et l'ensembl
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Enzyme
+date: Fri Dec 22 2023 11:26:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

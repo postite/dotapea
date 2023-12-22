@@ -1,9 +1,3 @@
----
-title: Covalence
-date: Wed Dec 20 2023 16:32:10 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Covalence
 ### Covalence, article du glossaire
  Une liaison covalente entre atomes se distingue par un partage d'électrons sur une orbite moléculaire commune.
@@ -32,3 +26,9 @@ Il est expliqué à la fin de l'article consacré à la valence. [Cliquer ici.](
 
 Avec l'aide de [Jean-Louis](quinoussommes.html#jeanlouis)
 
+
+```
+title: Covalence
+date: Fri Dec 22 2023 11:26:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Vernis
-date: Wed Dec 20 2023 16:34:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vernis
 ### Vernis, article du glossaire
  _Du latin tardif_ veronice_, "[sandaraque](s.html#sandaraque)"; de_ Berenikê_,  
@@ -34,3 +28,8 @@ Lire aussi la page consacrée à _[l'émail](email.html)_.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Vernis
+date: Fri Dec 22 2023 11:28:47 GMT+0100 (Central European Standard Time)
+author: postite
+```

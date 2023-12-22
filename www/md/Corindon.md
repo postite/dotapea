@@ -1,9 +1,3 @@
----
-title: Corindon
-date: Wed Dec 20 2023 16:32:09 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Corindon
 ### Corindon, article du glossaire
  _Du tamul_ kurundam _(selon l'Académie Française)._corundum _semble une version latinisée de ce mot._ 
@@ -23,3 +17,8 @@ L'inventeur du Carborundum ® a voulu faire référence - en fait par erreur, [v
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Corindon
+date: Fri Dec 22 2023 11:26:44 GMT+0100 (Central European Standard Time)
+author: postite
+```

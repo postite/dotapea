@@ -1,9 +1,3 @@
----
-title: Fritte
-date: Wed Dec 20 2023 16:32:35 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Fritte
 ### Fritte, article du glossaire
  _Ce terme donne lieu aux mots [frittage](frittage.html) et fritter._
@@ -31,3 +25,8 @@ Voir [frittage](frittage.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Fritte
+date: Fri Dec 22 2023 11:27:09 GMT+0100 (Central European Standard Time)
+author: postite
+```

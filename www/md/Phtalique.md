@@ -1,9 +1,3 @@
----
-title: Phtalique
-date: Wed Dec 20 2023 16:33:29 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Phtalique
 ### Phtalique, article du glossaire
  **Accès direct glossaire**
@@ -33,3 +27,8 @@ Autres dérivés : [l'acide](acides.html) phtalique (C6H4(COOH)2, soit une mol�
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Phtalique
+date: Fri Dec 22 2023 11:28:02 GMT+0100 (Central European Standard Time)
+author: postite
+```

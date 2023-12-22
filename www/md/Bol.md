@@ -1,9 +1,3 @@
----
-title: Bol
-date: Wed Dec 20 2023 16:31:45 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Bol
 ### Bol, article du glossaire
  _Dit aussi bolus, du latin issu du grec_ bôlos_, motte.  
@@ -28,3 +22,8 @@ A strictement parler, il semble que l'intitulé "terre bolaire" soit particuliè
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Bol
+date: Fri Dec 22 2023 11:26:20 GMT+0100 (Central European Standard Time)
+author: postite
+```

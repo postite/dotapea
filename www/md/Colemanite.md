@@ -1,9 +1,3 @@
----
-title: Colémanite
-date: Wed Dec 20 2023 16:32:06 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Colémanite
 ### Colémanite
  **Accès direct glossaire**
@@ -30,3 +24,8 @@ Autre particularité : c'est un [fondant](fondant.html) adapté aux très basse
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Colémanite
+date: Fri Dec 22 2023 11:26:41 GMT+0100 (Central European Standard Time)
+author: postite
+```

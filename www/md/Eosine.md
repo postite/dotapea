@@ -1,9 +1,3 @@
----
-title: Eosine
-date: Wed Dec 20 2023 16:32:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Eosine
 ### Eosine, article du glossaire
  _De_ Éos _(couleur de l'aube)_
@@ -25,3 +19,8 @@ Elle a sans doute été synthétisée depuis fort longtemps (de quelle manière,
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Eosine
+date: Fri Dec 22 2023 11:26:59 GMT+0100 (Central European Standard Time)
+author: postite
+```

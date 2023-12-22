@@ -1,9 +1,3 @@
----
-title: Hydracide
-date: Wed Dec 20 2023 16:32:49 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Hydracide
 ### Hydracide, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Voir aussi [passage _in Ures, ites et ates_](uresiresates.html#ions)
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Hydracide
+date: Fri Dec 22 2023 11:27:23 GMT+0100 (Central European Standard Time)
+author: postite
+```

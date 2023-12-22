@@ -1,9 +1,3 @@
----
-title: Bicarbonates
-date: Wed Dec 20 2023 16:31:39 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Bicarbonates
 ### Bicarbonates, article du glossaire
  _[Voir ures, ites et ates](uresiresates.html)_
@@ -21,3 +15,8 @@ Si un produit brut peut présenter initialement un pH légèrement alcalin (bica
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Bicarbonates
+date: Fri Dec 22 2023 11:26:15 GMT+0100 (Central European Standard Time)
+author: postite
+```

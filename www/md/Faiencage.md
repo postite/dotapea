@@ -1,9 +1,3 @@
----
-title: Faïençage
-date: Wed Dec 20 2023 16:32:29 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Faïençage
 ### Faïençage, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Une peinture "faïencée" présente de toutes petites fissures consécutives à 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Faïençage
+date: Fri Dec 22 2023 11:27:03 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Autoclave
-date: Wed Dec 20 2023 16:31:32 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Autoclave
 ### Autoclave, article du glossaire
  _Adjectif et nom masculin_
@@ -27,3 +21,8 @@ Concernant les usages de ces appareils, on citera bien sûr la stérilisation, m
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Autoclave
+date: Fri Dec 22 2023 11:26:07 GMT+0100 (Central European Standard Time)
+author: postite
+```

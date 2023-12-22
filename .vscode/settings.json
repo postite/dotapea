@@ -1,0 +1,15 @@
+{
+    "sync-rsync.exclude": [
+        ".git",
+        ".vscode",
+        "node_modules",
+        "/uploads/thumb/",
+        //"statics/*.jpg",
+        "statics/*.pdf",
+        "*.db"
+    ],
+    "sync-rsync.delete": false,
+    "sync-rsync.local": "/Users/postite/Documents/LAB/dotapea/www/",
+    "sync-rsync.remote": "postite@ssh-postite.alwaysdata.net:dotapea/",
+
+}

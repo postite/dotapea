@@ -1,9 +1,3 @@
----
-title: Vulcanisation
-date: Wed Dec 20 2023 16:34:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vulcanisation
 ### Vulcanisation, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Processus artificiel de [polymérisation](polymere.html) du caoutchouc naturel o
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Vulcanisation
+date: Fri Dec 22 2023 11:28:50 GMT+0100 (Central European Standard Time)
+author: postite
+```

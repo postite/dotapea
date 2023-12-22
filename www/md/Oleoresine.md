@@ -1,9 +1,3 @@
----
-title: Oléorésine
-date: Wed Dec 20 2023 16:33:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Oléorésine
 ### Oléorésine, article du glossaire
  _Ce terme n'est pas défini dans les principaux dictionnaires_
@@ -27,3 +21,8 @@ Un passage du courrier du lecteur contient quelques informations supplémentaire
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Oléorésine
+date: Fri Dec 22 2023 11:27:52 GMT+0100 (Central European Standard Time)
+author: postite
+```

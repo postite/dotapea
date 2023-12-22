@@ -1,9 +1,3 @@
----
-title: Craie
-date: Wed Dec 20 2023 16:32:10 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Craie
 ### Craie, article du glossaire
  Ce terme désigne, dans les arts plastiques et dans l'enseignement, les produits à base de [calcite](calcite.html) plus ou moins pur, généralement mis en forme de bâtonnets, associés éventuellement avec d'autres éléments dont du pigment.
@@ -23,3 +17,8 @@ Dans d'autres domaines, les craies sont utilisées tout simplement comme charges
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Craie
+date: Fri Dec 22 2023 11:26:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

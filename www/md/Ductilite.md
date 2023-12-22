@@ -1,9 +1,3 @@
----
-title: Ductilité
-date: Wed Dec 20 2023 16:32:19 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Ductilité
 ### Ductilité, ductile, article du glossaire
  Ductile, ductilité, voilà des termes classiques qui ont retrouvé un emploi dans le domaine de matériaux tout à fait contemporains.
@@ -21,3 +15,8 @@ Dans l'univers des arts plastiques et les domaines voisins, le terme ductilité 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Ductilité
+date: Fri Dec 22 2023 11:26:53 GMT+0100 (Central European Standard Time)
+author: postite
+```

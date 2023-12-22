@@ -1,9 +1,3 @@
----
-title: Alicyclique
-date: Wed Dec 20 2023 16:31:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alicyclique
 ### Alicyclique, adjectif, article du glossaire
  _de_ aliphatique _et_ cyclique
@@ -16,3 +10,9 @@ Exemples : les [cycloalcanes](alcane.html#cycloalcane), les [cycloalcènes](alc
 
 Lire absolument l'article [Acyclique](acyclique.html).
 
+
+```
+title: Alicyclique
+date: Fri Dec 22 2023 11:25:59 GMT+0100 (Central European Standard Time)
+author: postite
+```

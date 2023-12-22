@@ -1,9 +1,3 @@
----
-title: Amyle
-date: Wed Dec 20 2023 16:31:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Amyle
 ### Amyle, article du glossaire
  Hydrocarbure de formule brute C5H11, l'amyle appartiendrait à la série des [alcanes](alcane.html).
@@ -21,3 +15,8 @@ Nos informations au sujet de cette substance sont encore très incomplètes. [To
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Amyle
+date: Fri Dec 22 2023 11:26:02 GMT+0100 (Central European Standard Time)
+author: postite
+```

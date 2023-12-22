@@ -1,0 +1,7 @@
+# @install: lix --silent download "haxelib:/thx.format#0.6.0" into thx.format/0.6.0/haxelib
+-lib thx.core
+-lib thx.culture
+-cp ${HAXE_LIBCACHE}/thx.format/0.6.0/haxelib/src
+-D thx.format=0.6.0
+-D thx_format
+-lib thx.culture

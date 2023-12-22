@@ -1,9 +1,3 @@
----
-title: Chamotte
-date: Wed Dec 20 2023 16:31:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Chamotte
 ### Chamotte
  La terre chamottée possède une structure fine parsemée d'éléments nettement plus épais (la chamotte à proprement parler), visibles à l'oeil nu, constituant fréquemment 20% (plus ou moins 10%) du volume total.
@@ -23,3 +17,8 @@ Mais surtout, _elle ne connaît qu'un faible retrait au séchage_, la chamotte a
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Chamotte
+date: Fri Dec 22 2023 11:26:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

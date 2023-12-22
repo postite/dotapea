@@ -1,9 +1,3 @@
----
-title: Vélin
-date: Wed Dec 20 2023 16:34:17 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vélin
 ### Vélin, article du glossaire
  Il s'agit en principe de peau de veau mort-né traitée et utilisée comme support de l'écriture et du dessin. Lire [passage](parchemin.html#velin) in _Le parchemin_. 
@@ -14,3 +8,9 @@ Informations détaillées : lire absolument _[Le parchemin.](parchemin.html)_
 
 Voir aussi [_Les vélins_ in _Les papiers à dessin._](papiersadessin.html#velins)
 
+
+```
+title: Vélin
+date: Fri Dec 22 2023 11:28:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Brai
-date: Wed Dec 20 2023 16:31:45 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Brai
 ### Brai, article du glossaire
  Les brais sont des résidus plus ou moins durs de la distillation ou de l'évaporation de produits gras tels que les houilles et lignites, le pétrole, les résines telles que la [colophane](autresresines.html#colophane) et les graisses animales (cf. [stéarine](stearine.html)).
@@ -23,3 +17,8 @@ Pour finir, citons une dernière fois André Béguin : "_La maladie du brai est
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Brai
+date: Fri Dec 22 2023 11:26:21 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Fermentation
-date: Wed Dec 20 2023 16:32:31 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Fermentation
 ### Fermentation, article du glossaire
  _Du latin_ fermentum_, levain, de_ fervere_, bouillir_
@@ -31,3 +25,8 @@ Voir aussi [moût](mout.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Fermentation
+date: Fri Dec 22 2023 11:27:06 GMT+0100 (Central European Standard Time)
+author: postite
+```

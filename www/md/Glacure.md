@@ -1,9 +1,3 @@
----
-title: Glaçure
-date: Wed Dec 20 2023 16:32:38 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Glaçure
 ### Glaçure, article du glossaire
  Composition vitreuse appliquée sur une surface perméable ou à demi vitrifiée. On peut dire que les glaçures sont tout simplement du verre.
@@ -22,3 +16,9 @@ L'Assyrie découvrit peu après la glaçure au plomb, plus facile à cuire, plus
 
 Les "[silices](silice.html#lessilices)" ont tendance à faciliter l'adhérence des glaçures.
 
+
+```
+title: Glaçure
+date: Fri Dec 22 2023 11:27:13 GMT+0100 (Central European Standard Time)
+author: postite
+```

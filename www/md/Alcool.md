@@ -1,9 +1,3 @@
----
-title: Alcool
-date: Wed Dec 20 2023 16:31:23 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcool
 ### Alcool, étymologie et chimie, article du glossaire
  Du latin alchimique _alko(ho)ol_, "substance produite par [distillation](distillationraffinage.html) totale" ,  
@@ -54,3 +48,8 @@ Voir aussi [lipide](lipide.html), [alcali](alcali.html), [fixatifs](fixatifs.htm
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alcool
+date: Fri Dec 22 2023 11:25:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

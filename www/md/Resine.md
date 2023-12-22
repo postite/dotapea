@@ -1,9 +1,3 @@
----
-title: Résine
-date: Wed Dec 20 2023 16:33:46 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Résine
 ### Résine, article du glossaire
  _Du latin_ resina
@@ -45,3 +39,8 @@ Cependant, ces définitions entrent en bonne partie en opposition avec d'autres 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Résine
+date: Fri Dec 22 2023 11:28:18 GMT+0100 (Central European Standard Time)
+author: postite
+```

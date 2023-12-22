@@ -1,9 +1,3 @@
----
-title: Ethylène
-date: Wed Dec 20 2023 16:32:27 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Ethylène
 ### Ethylène, article du glossaire
  **Accès direct glossaire**
@@ -34,3 +28,8 @@ Voir aussi : [diène, dioléfine, diéthylénique](diene.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Ethylène
+date: Fri Dec 22 2023 11:27:01 GMT+0100 (Central European Standard Time)
+author: postite
+```

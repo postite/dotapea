@@ -1,9 +1,3 @@
----
-title: Allotropie
-date: Wed Dec 20 2023 16:31:25 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Allotropie
 ### Allotropie, article du glossaire
  _de_ allos _(autre) et_ tropie _(tour, direction, manière d'être).  
@@ -22,3 +16,8 @@ C'est aussi le cas - entre autres - du [soufre](soufre.html), du [sélénium](se
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Allotropie
+date: Fri Dec 22 2023 11:26:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

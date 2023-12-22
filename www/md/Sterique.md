@@ -1,9 +1,3 @@
----
-title: Stérique
-date: Wed Dec 20 2023 16:33:58 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Stérique
 ### Stérique, article du glossaire
  _De l'anglais_ steric_Cette étymologie semble avoir un rapport  
@@ -21,3 +15,8 @@ La forme d'une molécule est souvent déterminante. On mentionnera en particulie
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Stérique
+date: Fri Dec 22 2023 11:28:30 GMT+0100 (Central European Standard Time)
+author: postite
+```

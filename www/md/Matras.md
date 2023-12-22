@@ -1,9 +1,3 @@
----
-title: Matras
-date: Wed Dec 20 2023 16:33:06 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Matras
 ### Matras, article du glossaire
  **Accès direct glossaire**
@@ -31,3 +25,8 @@ Largement utilisé en alchimie, il l'est encore actuellement en chimie, en parfu
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Matras
+date: Fri Dec 22 2023 11:27:40 GMT+0100 (Central European Standard Time)
+author: postite
+```

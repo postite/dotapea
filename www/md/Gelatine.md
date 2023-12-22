@@ -1,32 +1,33 @@
----
-title: Gélatine
-date: Wed Dec 20 2023 16:32:38 GMT+0100 (Central European Standard Time)
-author: postite
----
+## Les gélatines
+### Les gélatines, usage en arts plastiques et autres
+ **Les gélatines**  
 
-## Gélatine
-### Gélatine, article du glossaire
- _de l'italien_ gelatina_, "la petite colle" ou "le petit gel"_
+![](images/colledepeauenplaqueversionweb.jpg)
 
-[Lire aussi l'article _Les gélatines_](gelatine.html)[(section _Les colles comme liants et enduits_)](gelatine.html)
+Lire absolument [l'article du glossaire](gelatine2.html)
 
-La gélatine est [protidique](p.html#protide). Elle est composée de protéines incomplètes (morceaux de [protéines](proteine.html)), ce qui détermine certaines de ses caractéristiques. Comparée à la [caséine](caseine.html) (protéines complètes), elle est nettement plus perméable. Elle se révèle même sensible à l'humidité et surtout au contact direct de l'eau. Une toile enduite avec n'importe quelle gélatine, même d'excellente qualité, se détend considérablement par temps fortement humide.
+_Il en existe de qualité alimentaire et de qualité "artistique", si l'on peut dire. Le terme de gélatine est en fait relativement flou. Pour certains, il désigne aussi bien la [colle de peau](colledepeau.html) que les [colles de poisson](colledepoisson.html) et d'autres produits (dont [la colle d'os](colledos.html) mais aussi la_ gelée de cerf _asiatique, extraite des bois du cerf, et d'autres variétés très nombreuses), tous provenant des la peau, des sabots, des cornes ou des os animaux._
 
-On fabrique la gélatine avec le [collagène](collagene.html) de tissus animaux divers, soumis à l'action prolongée de l'eau bouillante.
+_Les différences entre ces substances sont très importantes. Nous bouderons donc toute recette où le terme de gélatine est employé sans autre précision ! Il en existe dans le domaine de la peinture comme dans celui de la sculpture, car des gélatines peuvent être employées pour prendre une [empreinte](moulage.html) et servir de moule, voire même pour polir un métal, conjointement à un tissu ([cf. "patate" in Les abrasifs et les outils de polissage](abrasifs.html#patate))._
 
-Des produits présentant d'excellentes caractéristiques comme la [colle de peau de lapin](colledepeau.html), les [colles de poisson](colledepoisson.html) et les [colles d'os](colledos.html) peuvent être considérés comme des gélatines mais pour certains, le terme de gélatine s'applique surtout aux colles préparées à l'aide de sabots, d'os et de peau d'animaux _d'origine incertaine_.
+_Les gélatines sont des substances [protéiques](proteine.html), mais contrairement aux [caséines](caseine.html), plus solides, aux chaînes moléculaires plus longues, elles ne contiennent que des_ segments _protéiques. Elles sont très majoritairement d'origine animale, mais il existe au moins deux gélatines végétales, surtout utilisées en moulage : [l'alginate](alginate.html) et [l'agar-agar](agaragar.html). Elles ne sont pas traitées dans cette section._
 
-Un moyen de sortir du flou et de mettre tout le monde d'accord consiste à considérer qu'il existe deux qualités de gélatine :
+[L'acétone](acetone.html), le [formol](formol.html), l'acétate d'alumine et [l'alun](alun.html) (qui a largement fait ses preuves en teinture notamment) pourraient servir d'imperméabilisants/insolubilisants pour les gélatines. Cependant, l'action de ces substances pourrait être fragilisante. D'autre part, les gélatines présentent des compositions variées pouvant offrir des réactions diverses à ces produits. Le formol (inclus dans la gélatine ou badigeonné à sec) et l'acétone (à projeter sur la surface peinte) sont cependant conseillés par certains auteurs, malgré la réserve toujours émise au sujet de l'accroissement de la friabilité et... la dangerosité des telles opérations.  
+L'alun doit être incorporé au liant.
 
-> \- l'inférieure, destinée à servir de colle, parfois d'ingrédient alimentaire (mais la basse qualité ne détermine pas systématiquement l'appartenance à la catégorie des gélatines alimentaires)
-> 
-> \- la supérieure (colle de peau, colle de vessie natatoire d'esturgeon, colle d'os de qualité), pouvant être utilisée comme liant ([détrempe décorative](temperadetrempes.html), [peinture à la colle de peau](colledepeau.html#lacolledepeaucommeliant), etc.) ou comme enduit. Certains auteurs mentionnent la possibilité d'adjoindre de la [glycérine](glycerine.html) (facteur assouplissant) ou une [dextrine](dextrinefarines.html) (facteur durcissant) aux gélatines de ce type. 
+[L'alcool éthylique](alcools.html) permet au contraire une remise en solution des gélatines, de même que l'eau très chaude pour la plupart d'entre elles.
 
-Quelques auteurs signalent que plus la gélatine est sombre, plus elle est impure. Nous ne sommes pas en mesure de confirmer ou d'infirmer cette information (merci de [nous laisser un e-mail](ecrire.html) si vous savez quelque chose à ce sujet).
+Cette [réversibilité](liants.html#reversibilite) à l'eau constitue bien souvent un handicap important, tant en peinture décorative qu'artistique. Dans les deux cas, les temps très humides, notamment sous les latitudes européennes, peuvent réellement provoquer des catastrophes picturales. Nous sommes quelques uns à l'avoir constaté, mais il faut quand même préciser que ce n'est pas systématique. Il faut cependant veiller aux conditions de conservation des travaux, au moins autant que pour les peintures à la [cire](cires.html).
 
-Sauf préparation particulière, les gélatines s'appliquent à chaud, la [caséine](gelatine2.html#caseine) toujours à froid.
+La gélatine d'emploi "artistique" est en fait aujourd'hui réservée à des domaines précis et limités : restauration, enluminure, enduction, collage et type de peintures très particuliers ([voir _La colle de peau comme liant_](colledepeau.html#lacolledepeaucommeliant)).
 
-Employées comme colles à l'[état colloïdal](colloide.html), certains auteurs les signalent comme propices au phénomène de [thixotropie](thixotropie.html).
+Sa pureté est très déterminante. Certains auteurs affirment qu'une gélatine sombre est toujours impure (information non confirmée). Il faut reconnaître que les gélatines alimentaires sont bien plus sombres que les autres.
+
+Les gélatines se travaillent le plus souvent à chaud, exactement comme la [colle de peau de lapin](colledepeau.html), étant basées sur un même constituant commun : le [collagène](collagene.html).
+
+Certains auteurs reprochent aux gélatines leur manque d'élasticité, ce qui a incité fabricants et peintres à leur adjoindre de la [glycérine](glycerine.html), agent assouplissant généralement compatible avec les substances aux collagènes. Malheureusement, cette adjonction a souvent été réalisée en proportions trop importantes, ce qui provoque une altération de la viscosité de ces produits.
+
+Note : une gélatine qui a été humectée avant application pourrit très rapidement, perd son tirant et devient inutilisable.
 
 
 
@@ -35,3 +36,8 @@ Employées comme colles à l'[état colloïdal](colloide.html), certains auteurs
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Les gélatines
+date: Fri Dec 22 2023 11:27:12 GMT+0100 (Central European Standard Time)
+author: postite
+```

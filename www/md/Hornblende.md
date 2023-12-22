@@ -1,9 +1,3 @@
----
-title: Hornblende
-date: Wed Dec 20 2023 16:32:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Hornblende
 ### Hornblende, article du glossaire
  **Accès direct glossaire**
@@ -28,3 +22,8 @@ La hornblende peut être contenue dans les [roches ignées intrusives](ignees.ht
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Hornblende
+date: Fri Dec 22 2023 11:27:22 GMT+0100 (Central European Standard Time)
+author: postite
+```

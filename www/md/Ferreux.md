@@ -1,9 +1,3 @@
----
-title: Ferreux
-date: Wed Dec 20 2023 16:32:32 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Ferreux
 ### Ferreux, article du glossaire
  **Accès direct glossaire**
@@ -30,3 +24,8 @@ Le terme a aussi une acception plus large. Les "métaux non-ferreux" sont simple
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Ferreux
+date: Fri Dec 22 2023 11:27:06 GMT+0100 (Central European Standard Time)
+author: postite
+```

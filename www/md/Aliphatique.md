@@ -1,9 +1,3 @@
----
-title: Aliphatique
-date: Wed Dec 20 2023 16:31:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Aliphatique
 ### Aliphatique, adjectif, article du glossaire
  **Accès direct glossaire**
@@ -34,3 +28,8 @@ Lire explications générales et illustrations in _[acyclique](acyclique.html)_.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Aliphatique
+date: Fri Dec 22 2023 11:26:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

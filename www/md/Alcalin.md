@@ -1,9 +1,3 @@
----
-title: Alcalin
-date: Wed Dec 20 2023 16:31:22 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alcalin
 ### Alcalin, article du glossaire
  _1691, de [alcali](alcalin.html#alcali)_
@@ -35,3 +29,8 @@ Voir aussi [anion](alcalin.html#anion), [acide](acides.html) et [différents pas
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Alcalin
+date: Fri Dec 22 2023 11:25:57 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Olivine
-date: Wed Dec 20 2023 16:33:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Olivine
 ### Olivine, article du glossaire
  _n.f., de_ olive
@@ -19,3 +13,8 @@ Sa base chimique est sensiblement située autour de celle du [péridot](peridot.
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Olivine
+date: Fri Dec 22 2023 11:27:52 GMT+0100 (Central European Standard Time)
+author: postite
+```

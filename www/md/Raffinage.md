@@ -1,9 +1,3 @@
----
-title: Raffinage
-date: Wed Dec 20 2023 16:33:42 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Raffinage
 ### Raffinage, article du glossaire
  _De re- et affiner_
@@ -33,3 +27,8 @@ Si l'alchimiste affinait et raffinait sans relâche des produits variés dans un
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Raffinage
+date: Fri Dec 22 2023 11:28:14 GMT+0100 (Central European Standard Time)
+author: postite
+```

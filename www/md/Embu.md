@@ -1,9 +1,3 @@
----
-title: Embu
-date: Wed Dec 20 2023 16:32:23 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Embu
 ### Embu, article du glossaire
  L'embu est une zone mate dans un ensemble brillant ou satiné, une région où le pigment - ou une autre substance - a absorbé les éléments satinés ou brillants (huile, liants brillants, médiums, etc.).
@@ -26,3 +20,8 @@ Entre autres. La réduction des embus a été et demeure un enjeu. Cependant, un
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Embu
+date: Fri Dec 22 2023 11:26:57 GMT+0100 (Central European Standard Time)
+author: postite
+```

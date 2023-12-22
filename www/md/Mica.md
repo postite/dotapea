@@ -1,9 +1,3 @@
----
-title: Mica
-date: Wed Dec 20 2023 16:33:10 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Mica
 ### Mica, article du glossaire
  [Silicate](silicate.html) d'aluminium et de potassium, composant de diverses roches [métamorphiques](metamorphiques.html) ou volcaniques comme le [granit](granit.html), le [gneiss](gneiss.html) et le [micaschiste](s.html#micaschiste).
@@ -27,3 +21,8 @@ Le mica noir dit _[biotite](granit.html)_ est notamment présent dans le [granit
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Mica
+date: Fri Dec 22 2023 11:27:44 GMT+0100 (Central European Standard Time)
+author: postite
+```

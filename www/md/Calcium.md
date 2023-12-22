@@ -1,9 +1,3 @@
----
-title: Calcium
-date: Wed Dec 20 2023 16:31:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Calcium
 ### Calcium, article du glossaire
  Calcium : [élément n°20](annexe1.html#ca) de la table de Mendeleïev.
@@ -32,3 +26,9 @@ L'oxyde de calcium permet de ternir les teintes sans les opacifier. Il avantage 
 
 Son comportement est assez semblable à celui de [l'oxyde de baryum](baryum.html).
 
+
+```
+title: Calcium
+date: Fri Dec 22 2023 11:26:23 GMT+0100 (Central European Standard Time)
+author: postite
+```

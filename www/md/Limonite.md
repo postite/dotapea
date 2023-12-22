@@ -1,9 +1,3 @@
----
-title: Limonite
-date: Wed Dec 20 2023 16:33:00 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Limonite
 ### Limonite, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Formulation "moyenne" : FeO(OH) - (H2O)n, soit une goethite associée à de l'e
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Limonite
+date: Fri Dec 22 2023 11:27:35 GMT+0100 (Central European Standard Time)
+author: postite
+```

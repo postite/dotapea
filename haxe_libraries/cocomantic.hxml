@@ -1,0 +1,5 @@
+-lib jQueryExtern
+-lib coconut.ui
+-cp /Users/postite/Documents/LAB/fomantic//src/
+-D cocomantic=0.0.14 
+--macro Sys.println("haxe_libraries/cocomantic.hxml:4: [Warning] Using dev version of library cocomantic")

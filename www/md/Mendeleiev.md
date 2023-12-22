@@ -1,9 +1,3 @@
----
-title: Mendeleïev
-date: Wed Dec 20 2023 16:33:08 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Mendeleïev
 ### Mendeleïev, article du glossaire
  Chimiste russe (1834-1907), auteur du [tableau périodique des éléments chimiques](annexe1.html) (1869).
@@ -19,3 +13,8 @@ Grand génie fondateur et aventurier des sciences n'hésitant pas à se lancer d
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Mendeleïev
+date: Fri Dec 22 2023 11:27:42 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Livres
-date: Wed Dec 20 2023 16:33:02 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Livres
 ### Livre, bibliographie
  **Bibliographie**
@@ -287,3 +281,8 @@ _Comment dessiner avec fusains, sanguines et craies_, J.M. PARRAMON, 2002, Dessa
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Livres
+date: Fri Dec 22 2023 11:27:36 GMT+0100 (Central European Standard Time)
+author: postite
+```

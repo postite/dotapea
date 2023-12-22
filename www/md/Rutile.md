@@ -1,9 +1,3 @@
----
-title: Rutile
-date: Wed Dec 20 2023 16:33:49 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Rutile
 ### Rutile, article du glossaire
  _Nom masculin_
@@ -25,3 +19,8 @@ Les saphirs étoilés contiendraient des inclusions de rutile leur conférant de
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Rutile
+date: Fri Dec 22 2023 11:28:21 GMT+0100 (Central European Standard Time)
+author: postite
+```

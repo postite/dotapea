@@ -1,0 +1,3 @@
+-cp /Users/postite/Documents/LAB/localLibs/leaflethx/src/
+-D leaflethx=1.0.0
+--macro Sys.println("haxe_libraries/leaflethx.hxml:2: [Warning] Using dev version of library leaflethx")

@@ -1,9 +1,3 @@
----
-title: Alumine
-date: Wed Dec 20 2023 16:31:25 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Alumine
 ### Alumine, article du glossaire
  Formule brute : Al2O3  
@@ -25,3 +19,9 @@ Sa température de fusion extrêmement élevée (2040°C environ) rend nécessai
 > 
 > \- l'adjonction de "[fondants](fondant.html)" ou l'emploi de matériaux "porteurs" d'alumine étant eux-mêmes des fondants. 
 
+
+```
+title: Alumine
+date: Fri Dec 22 2023 11:26:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

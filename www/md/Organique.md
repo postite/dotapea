@@ -1,9 +1,3 @@
----
-title: Organique
-date: Wed Dec 20 2023 16:33:19 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Organique
 ### Organique, article du glossaire
  _Adjectif_
@@ -23,3 +17,8 @@ Lire absolument l'article "[Organiques contre inorganiques](organiquesvsinorgani
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Organique
+date: Fri Dec 22 2023 11:27:53 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Moufle
-date: Wed Dec 20 2023 16:33:12 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Moufle
 ### Moufle, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Arts du feu. La moufle est un pot, un contenant, une forme permettant de garder 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Moufle
+date: Fri Dec 22 2023 11:27:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

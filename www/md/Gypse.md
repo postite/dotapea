@@ -1,9 +1,3 @@
----
-title: Gypse
-date: Wed Dec 20 2023 16:32:44 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Gypse
 ### Gypse, article du glossaire
  Du grec _gypsos_, plâtre, qui pourrait provenir de _aiguptos_, Égypte  
@@ -48,3 +42,8 @@ Le gypse est également employé dans la [fabrication des ciments](ciment.html#f
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Gypse
+date: Fri Dec 22 2023 11:27:18 GMT+0100 (Central European Standard Time)
+author: postite
+```

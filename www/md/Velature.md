@@ -1,9 +1,3 @@
----
-title: Vélature
-date: Wed Dec 20 2023 16:34:17 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vélature
 ### Vélature, article du glossaire
  [Glacis](glacis.html) blanc.
@@ -30,3 +24,8 @@ Avec d'autres matériaux plus solides, plastiques, résines, gels ou liants dive
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Vélature
+date: Fri Dec 22 2023 11:28:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

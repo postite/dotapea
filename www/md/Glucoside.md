@@ -1,9 +1,3 @@
----
-title: Glucoside
-date: Wed Dec 20 2023 16:32:40 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Glucoside
 ### Glucoside, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Un glucoside n'est pas un [glycoside](glucoside.html#glycoside). Le glucoside es
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Glucoside
+date: Fri Dec 22 2023 11:27:14 GMT+0100 (Central European Standard Time)
+author: postite
+```

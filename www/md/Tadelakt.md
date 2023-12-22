@@ -1,9 +1,3 @@
----
-title: Tadelakt
-date: Wed Dec 20 2023 16:34:03 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tadelakt
 ### Tadelakt, article du glossaire
  Technique de peinture dï¿½corative ï¿½ la [chaux](chaux.html) nï¿½e au Maroc.
@@ -18,3 +12,9 @@ Une question rï¿½currente concernant cette technique concerne son ï¿½tanchï¿½itï
 
 La surface picturale est traitï¿½e au finale, en principe par un Mï¿½alem (maï¿½tre), par un "polissage au galet" trï¿½s doux censï¿½ "fermer la chaux". Cette fermeture est-elle totaleÂ ? Rien n'est moins sï¿½r. Il est possible qu'elle soit plutï¿½t un compromis optimal entre nï¿½cessitï¿½ d'ï¿½tanchï¿½itï¿½ et aptitude ï¿½ laisser l'eau s'ï¿½chapper des murs. _Information non confirmï¿½e._
 
+
+```
+title: Tadelakt
+date: Fri Dec 22 2023 11:28:34 GMT+0100 (Central European Standard Time)
+author: postite
+```

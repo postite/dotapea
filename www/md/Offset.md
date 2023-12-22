@@ -1,9 +1,3 @@
----
-title: Offset
-date: Wed Dec 20 2023 16:33:18 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Offset
 ### Offset, article du glossaire
  L'offset est un procédé de reproduction sur papier.
@@ -23,3 +17,8 @@ L'encre fraîche est littéralement transférée sur la seconde feuille. Aucune 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Offset
+date: Fri Dec 22 2023 11:27:52 GMT+0100 (Central European Standard Time)
+author: postite
+```

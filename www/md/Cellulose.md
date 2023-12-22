@@ -1,9 +1,3 @@
----
-title: Cellulose
-date: Wed Dec 20 2023 16:31:52 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cellulose
 ### Cellulose
  [Glucide](glucide.html) (C6H10O5)n. Substance des parois cellulaires et des fibres de tous les tissus végétaux. Elle peut être accompagnée de différentes substances (voir [lécithine](lecithine.html)). Elle appartient à la famille des [oses](glucide.html#oses).
@@ -19,3 +13,8 @@ Elle est employée directement ou indirectement (dans ce cas, souvent par réact
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Cellulose
+date: Fri Dec 22 2023 11:26:27 GMT+0100 (Central European Standard Time)
+author: postite
+```

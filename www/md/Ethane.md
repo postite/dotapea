@@ -1,9 +1,3 @@
----
-title: Ethane
-date: Wed Dec 20 2023 16:32:27 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Ethane
 ### Ethane, article du glossaire
  **Accès direct glossaire**
@@ -30,3 +24,8 @@ Associé à un atome d'oxygène, il devient [éthanol](alcools.html#ethanolpur).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Ethane
+date: Fri Dec 22 2023 11:27:01 GMT+0100 (Central European Standard Time)
+author: postite
+```

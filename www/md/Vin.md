@@ -1,9 +1,3 @@
----
-title: Vin
-date: Wed Dec 20 2023 16:34:20 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Vin
 ### Vin, article du glossaire
  ![](images/vin.jpg)
@@ -31,3 +25,8 @@ La connaissance du vin est en elle-même une science et un art vénérable et tr
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Vin
+date: Fri Dec 22 2023 11:28:48 GMT+0100 (Central European Standard Time)
+author: postite
+```

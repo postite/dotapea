@@ -1,9 +1,3 @@
----
-title: Retrait
-date: Wed Dec 20 2023 16:33:47 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Retrait
 ### Retrait, article du glossaire
  Perte de volume par évaporation consécutive au [séchage](sechagesiccativation.html) ou à la cuisson de peintures, de terres et autres produits.
@@ -23,3 +17,8 @@ Voir aussi [_extrait sec_](extraitsec.html).
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Retrait
+date: Fri Dec 22 2023 11:28:20 GMT+0100 (Central European Standard Time)
+author: postite
+```

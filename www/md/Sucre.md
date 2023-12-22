@@ -1,9 +1,3 @@
----
-title: Sucre
-date: Wed Dec 20 2023 16:34:00 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Sucre
 ### Sucre, sucres, article du glossaire
  _Étymologie complexe.  
@@ -22,3 +16,8 @@ Dans ce domaine, pour en rester aux produits simples, le sucre solide est peu em
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Sucre
+date: Fri Dec 22 2023 11:28:32 GMT+0100 (Central European Standard Time)
+author: postite
+```

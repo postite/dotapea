@@ -1,9 +1,3 @@
----
-title: Maigre
-date: Wed Dec 20 2023 16:33:04 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Maigre
 ### Maigre, article du glossaire
  _Adjectif  
@@ -27,3 +21,8 @@ C'est l'opposé du [gras](gras.html) dans les deux sens possibles du terme (hors
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Maigre
+date: Fri Dec 22 2023 11:27:38 GMT+0100 (Central European Standard Time)
+author: postite
+```

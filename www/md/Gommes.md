@@ -1,37 +1,26 @@
----
-title: Gommes
-date: Wed Dec 20 2023 16:32:41 GMT+0100 (Central European Standard Time)
-author: postite
----
+## Les gommes
+### Les gommes, usages en arts plastiques
+ **Les gommes**  _La gomme crêpe_
 
-## Gommes
-### Gommes, article du glossaire
- _Gomme, du grec_ kommi_, d'origine orientale_
+C'est du caoutchouc (voir [latex](latex.html)). On nous signale que la semelle de certaines chaussures (notamment les clarkes) aurait des propriétés similaires, quoique s'usant plus vite.
 
-Certains arbres, dits gommiers, exsudent cette substance, mais le terme de gomme s'applique parfois à des produits ayant d'autres origines. La [gomme laque](gommelaque.html), par exemple, est d'origine animale et non végétale.
+La gomme crêpe trouve, à notre connaissance, deux utilisations majeures :
 
-Sur une définition restreinte mais intéressante  
-du terme gomme, lire [passage](resine.html#delcroix) in _La résine_
-
-_La_ _gomme de l'hévéa est le [latex](latex.html) ordinaire. La gomme à effacer ordinaire en est généralement un dérivé, c'est-à-dire un bloc de caoutchouc traité ([voir passage](latex.html#gommeaeffacer)). Lire l'article consacré aux [gommes à effacer](gommes.html)._
-
-_Les autres gommes servent à protéger, renforcer une pâte ou coller._
-
-> _La gomme de sapin du Canada est le [baume](baume.html) du Canada._
+> \* le retrait de [gomme à masquer](reserves.html)
 > 
-> _La gomme-résine est un concept difficile à cerner précisément._
-> 
-> _La [gomme gutte](jaunes.html#lagommegutteoujauneducambodge) est une résine jaune utilisée en peinture, en peinture sur soie et en médecine._
-> 
-> _La gomme-laque ou plutôt les gommes-laques sont employées dans plusieurs domaines. Voir [article](gommelaque.html)._
+> \* l'enlèvement des surplus de colles de montage, en maquettage "à l'ancienne".
 
-Certaines gommes n'adhèrent que lorsqu'elles sont humectées (exemple type : le _kraft gommé_ utilisé pour la [tension des papiers](tensiondupapier.html) pour aquarelles et lavis, le timbre poste).
+_La gomme chaussette_
 
-En peinture et différents autres domaines, on les nomme également "résines" ou "gommes-résines". On dilue ces différentes gommes-résines dans l'essence, dans l'alcool ou d'autres liquides, tantôt à chaud, tantôt à froid.
+Ainsi nommée car il s'agit d'une poudre emplissant une sorte de chaussette/sac fait d'un tissus à la trame très ajourée, juste assez peu pour que la poudre ne s'échappe pas.
 
-En botanique, une gomme ou gommose désigne une maladie parfois provoquée provoquant l'apparition d'ulcérations végétales d'où suintent des liquides [visqueux](viscosite.html).
+Elle est extrêmement efficace, notamment sur les supports ayant du relief, du grain, comme la toile par exemple (elle peut jouer un rôle dans la [préparation classique de tableaux au fusain](dessinpreparatoire.html#solutionclassique)).
 
-Voir aussi [colle](colle.html), [gomme arabique](gommearabaquar.html), [résine](resine.html), [réserves à la gomme à masquer (drawing gum)](gommearabaquar.html#reserves).
+Par contre, elle est extrêmement imprécise et plutôt rare.
+
+_La gomme pour la fresque_
+
+Nous croyons savoir qu'elle est utilisée pour le nettoyage des [fresques](fresque.html). Une artiste française ayant travaillé en Italie nous signale la "gomme Wishop", de couleur jaune, apparemment très employée dans ce pays par les spécialistes.
 
 
 
@@ -40,3 +29,8 @@ Voir aussi [colle](colle.html), [gomme arabique](gommearabaquar.html), [résine]
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Les gommes
+date: Fri Dec 22 2023 11:27:16 GMT+0100 (Central European Standard Time)
+author: postite
+```

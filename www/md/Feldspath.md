@@ -1,9 +1,3 @@
----
-title: Feldspath
-date: Wed Dec 20 2023 16:32:31 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Feldspath
 ### Feldspath, article du glossaire
  _Littéralement, "spath des champs"._
@@ -25,3 +19,8 @@ Voir aussi _[Le feldspathoïde](feldspathoide.html)_
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Feldspath
+date: Fri Dec 22 2023 11:27:05 GMT+0100 (Central European Standard Time)
+author: postite
+```

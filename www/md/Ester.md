@@ -1,9 +1,3 @@
----
-title: Ester
-date: Wed Dec 20 2023 16:32:26 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Ester
 ### Ester, article du glossaire
  **L'ester** 
@@ -33,3 +27,8 @@ Voir [polyester](polyester.html), [éther](ester.html#ether), [sel](formationdes
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Ester
+date: Fri Dec 22 2023 11:27:00 GMT+0100 (Central European Standard Time)
+author: postite
+```

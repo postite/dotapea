@@ -1,9 +1,3 @@
----
-title: Engobe
-date: Wed Dec 20 2023 16:32:24 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Engobe
 ### Engobe, article du glossaire
  Nom masculin.  
@@ -33,3 +27,8 @@ Lire absolument _[Les oxydes](oxydes.html)_
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Engobe
+date: Fri Dec 22 2023 11:26:58 GMT+0100 (Central European Standard Time)
+author: postite
+```

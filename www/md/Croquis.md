@@ -1,9 +1,3 @@
----
-title: Croquis
-date: Wed Dec 20 2023 16:32:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Croquis
 ### Croquis, article du glossaire
  _Proviendrait du verbe croquer_
@@ -24,3 +18,9 @@ Les techniques aqueuses peuvent nécessiter un grammage important et éventuelle
 
 Quant aux croquis gras, ils relèvent davantage de la _[pochade](pochade.html)_ et nécessitent un support préparé.
 
+
+```
+title: Croquis
+date: Fri Dec 22 2023 11:26:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

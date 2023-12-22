@@ -1,9 +1,3 @@
----
-title: Cire
-date: Wed Dec 20 2023 16:32:05 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Cire
 ### Cire
  _du latin_ cera_, qui donne notamment_ cérat _(un onguent) et_ incarcération_.  
@@ -29,3 +23,8 @@ Voir [gras, graisse](gras.html), [suif](suif.html) minéral, [paraffine](paraffi
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Cire
+date: Fri Dec 22 2023 11:26:40 GMT+0100 (Central European Standard Time)
+author: postite
+```

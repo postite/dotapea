@@ -1,9 +1,3 @@
----
-title: Camaïeu
-date: Wed Dec 20 2023 16:31:48 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Camaïeu
 ### Camaïeu, article du glossaire
  _E__tymologiquement, le camée et le camaïeu - étranges mots -  
@@ -34,3 +28,8 @@ Dans ce dernier cas, il désigne un travail pictural monochrome jouant sur des l
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Camaïeu
+date: Fri Dec 22 2023 11:26:23 GMT+0100 (Central European Standard Time)
+author: postite
+```

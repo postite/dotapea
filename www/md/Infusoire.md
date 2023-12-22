@@ -1,9 +1,3 @@
----
-title: Infusoire
-date: Wed Dec 20 2023 16:32:53 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Infusoire
 ### Imputrescible, article du glossaire
  Navig. page/section
@@ -51,3 +45,8 @@ Cet organisme peut cr√©er par accumulation des terres relativement comparables √
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Infusoire
+date: Fri Dec 22 2023 11:27:27 GMT+0100 (Central European Standard Time)
+author: postite
+```

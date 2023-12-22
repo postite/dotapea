@@ -1,9 +1,3 @@
----
-title: Anilines
-date: Wed Dec 20 2023 16:31:27 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Anilines
 ### Anilines, usage en arts plastiques
  **Les anilines**
@@ -34,3 +28,8 @@ La mauvéine (_voir [indican](bleusfroids.html#mauveine)_) serait l'un des déri
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Anilines
+date: Fri Dec 22 2023 11:26:02 GMT+0100 (Central European Standard Time)
+author: postite
+```

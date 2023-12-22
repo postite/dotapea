@@ -1,9 +1,3 @@
----
-title: Agave
-date: Wed Dec 20 2023 16:31:21 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Agave
 ### Agave, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Par ailleurs, ces feuilles produisent des boissons fermentées et/ou distillées
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Agave
+date: Fri Dec 22 2023 11:25:57 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Silicone
-date: Wed Dec 20 2023 16:33:54 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Silicone
 ### Silicone, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Cette famille de corps chimiques donne lieu à des huiles lubrifiantes, des rés
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Silicone
+date: Fri Dec 22 2023 11:28:26 GMT+0100 (Central European Standard Time)
+author: postite
+```

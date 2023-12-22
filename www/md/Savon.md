@@ -1,9 +1,3 @@
----
-title: Savon
-date: Wed Dec 20 2023 16:33:51 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Savon
 ### Savon, article du glossaire
  _Du latin_ sapo, onis_, d'origine germanique_
@@ -25,3 +19,8 @@ Voir aussi [borax](borax.html), [émulsion au savon noir](liantsemulsions.html#e
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Savon
+date: Fri Dec 22 2023 11:28:23 GMT+0100 (Central European Standard Time)
+author: postite
+```

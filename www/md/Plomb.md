@@ -1,9 +1,3 @@
----
-title: Plomb
-date: Wed Dec 20 2023 16:33:32 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Plomb
 ### Plomb, article du glossaire
  _Elément [métallique](metal.html) [Pb](annexe1.html#pb)._
@@ -44,3 +38,9 @@ On nuancera cependant ce discours en ajoutant que dans un lointain passé, le pl
 
 Dans des conditions optimales plus théoriques que réelles, une glaçure au plomb _pourrait peut-être_ s'avérer anodine pour un usage alimentaire, c'est tout ce que nous pouvons dire car une grande prudence s'impose.
 
+
+```
+title: Plomb
+date: Fri Dec 22 2023 11:28:05 GMT+0100 (Central European Standard Time)
+author: postite
+```

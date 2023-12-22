@@ -1,9 +1,3 @@
----
-title: Chaulage
-date: Wed Dec 20 2023 16:32:03 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Chaulage
 ### Chaulage
  **Accès direct glossaire**
@@ -28,3 +22,8 @@ Voir aussi [Badigeon](badigeon.html) et [Badigeon, lait de chaux et chaulage](ch
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Chaulage
+date: Fri Dec 22 2023 11:26:38 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,9 +1,3 @@
----
-title: Mucilage
-date: Wed Dec 20 2023 16:33:13 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Mucilage
 ### Mucilage, article du glossaire
  _Mucilage : du latin_ mucilago_, mucosité (Académie)  
@@ -25,3 +19,8 @@ Un mucilage contient une ou plusieurs pectines. Une confiture ou une gelée est 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Mucilage
+date: Fri Dec 22 2023 11:27:47 GMT+0100 (Central European Standard Time)
+author: postite
+```

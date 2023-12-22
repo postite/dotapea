@@ -1,9 +1,3 @@
----
-title: Coalescence
-date: Wed Dec 20 2023 16:32:06 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Coalescence
 ### Coalescence
  _Dérivé savant du latin_ coalescere_, « s'unir en croissant »,  
@@ -23,3 +17,8 @@ II. Chimie. On mentionnera deux définitions que nous livrons à titre temporair
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Coalescence
+date: Fri Dec 22 2023 11:26:41 GMT+0100 (Central European Standard Time)
+author: postite
+```

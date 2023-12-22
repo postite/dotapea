@@ -1,9 +1,3 @@
----
-title: Soufre
-date: Wed Dec 20 2023 16:33:56 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Soufre
 ### Soufre, article du glossaire
  _Du latin_ sulfur_.  
@@ -46,3 +40,8 @@ Nasa/Jpl - Image Nasa
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Soufre
+date: Fri Dec 22 2023 11:28:28 GMT+0100 (Central European Standard Time)
+author: postite
+```

@@ -1,0 +1,4 @@
+# @install: lix --silent download "gh://github.com/andyli/jqueryexternforhaxe#6f58aeae862be79b7ad53054327fd257090043c0" into jQueryExtern/3.3.0/github/6f58aeae862be79b7ad53054327fd257090043c0
+-cp ${HAXE_LIBCACHE}/jQueryExtern/3.3.0/github/6f58aeae862be79b7ad53054327fd257090043c0/
+-D jQueryExtern=3.3.0
+--macro js.jquery.Config.init()

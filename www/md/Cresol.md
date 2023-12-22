@@ -1,9 +1,3 @@
----
-title: Crésol
-date: Wed Dec 20 2023 16:32:11 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Crésol
 ### Crésol, article du glossaire
  Navig. page/section
@@ -53,3 +47,8 @@ Nous sommes en présence d'une famille [d'esterifiants](saponification.html#lest
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Crésol
+date: Fri Dec 22 2023 11:26:46 GMT+0100 (Central European Standard Time)
+author: postite
+```

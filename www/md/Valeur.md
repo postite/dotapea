@@ -1,9 +1,3 @@
----
-title: Valeur
-date: Wed Dec 20 2023 16:34:16 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Valeur
 ### Valeur, article du glossaire
  Dans le contexte des arts picturaux, la terme valeur réfère à l'intensité lumineuse. C'est, en quelque sorte, la lumière, et aussi la lumière dans la couleur, la valeur lumineuse d'une note de couleur ou d'un ensemble pictural.
@@ -21,3 +15,8 @@ Voir aussi _[couleur](couleur.html)_, _[ton](ton.html)_, _[camaïeu](camaieu.htm
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Valeur
+date: Fri Dec 22 2023 11:28:45 GMT+0100 (Central European Standard Time)
+author: postite
+```

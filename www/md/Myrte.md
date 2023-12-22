@@ -1,9 +1,3 @@
----
-title: Myrte
-date: Wed Dec 20 2023 16:33:13 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Myrte
 ### Myrte, article du glossaire
  _Nom masculin d'origine très ancienne_
@@ -25,3 +19,8 @@ Les épices et parfums sont tirés des fleurs, des feuilles et des fruits, les t
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Myrte
+date: Fri Dec 22 2023 11:27:47 GMT+0100 (Central European Standard Time)
+author: postite
+```

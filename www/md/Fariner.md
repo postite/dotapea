@@ -1,9 +1,3 @@
----
-title: Fariner
-date: Wed Dec 20 2023 16:32:30 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Fariner
 ### Fariner, article du glossaire
  Navig. page/section
@@ -49,3 +43,8 @@ Plus généralement, on dit d'une peinture ou d'un enduit qu'il farine lorsqu'il
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Fariner
+date: Fri Dec 22 2023 11:27:04 GMT+0100 (Central European Standard Time)
+author: postite
+```

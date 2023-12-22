@@ -1,9 +1,3 @@
----
-title: Tripoli
-date: Wed Dec 20 2023 16:34:13 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Tripoli
 ### Tripoli, article du glossaire
  _M�me si cette appellation semble bien provenir  
@@ -29,3 +23,8 @@ On l'applique aussi au chiffon sur une couche de peinture s�che que l'on veut 
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Tripoli
+date: Fri Dec 22 2023 11:28:42 GMT+0100 (Central European Standard Time)
+author: postite
+```

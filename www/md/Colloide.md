@@ -1,9 +1,3 @@
----
-title: Colloïde
-date: Wed Dec 20 2023 16:32:07 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Colloïde
 ### Colloïde, colloïdal
  **Le colloïde**
@@ -43,3 +37,8 @@ Lire également _[La dialyse](dialyse.html)_
 [![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne1.png)](index-2.html#20131014)
 
 ![](https://cbonvin.fr/sites/regie.artrealite.com/visuels/campagne2.png)
+```
+title: Colloïde
+date: Fri Dec 22 2023 11:26:42 GMT+0100 (Central European Standard Time)
+author: postite
+```

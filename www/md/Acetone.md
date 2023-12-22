@@ -1,9 +1,3 @@
----
-title: Acétone
-date: Wed Dec 20 2023 16:31:19 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Acétone
 ### Acétone, usage en arts plastiques
  **Acétone**
@@ -32,3 +26,9 @@ Moyennant ces précautions, l'acétone ne pose aucun problème. Elle se révèle
 
 [Voir diluants, solvants et dissolvants](diluantssolvants.html)
 
+
+```
+title: Acétone
+date: Fri Dec 22 2023 11:25:54 GMT+0100 (Central European Standard Time)
+author: postite
+```

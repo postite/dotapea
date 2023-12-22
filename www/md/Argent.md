@@ -1,9 +1,3 @@
----
-title: Argent
-date: Wed Dec 20 2023 16:31:29 GMT+0100 (Central European Standard Time)
-author: postite
----
-
 ## Argent
 ### Argent, article du glossaire
  Note : la substance vendue actuellement  
@@ -23,3 +17,9 @@ Les professionnels travaillant avec de l'argent et ayant quelques inquiétudes s
 
 Doté d'un pouvoir de réflexion exceptionnel, il est utilisé dans la fabrication des miroirs. [Voir _Acide tartique._](tartre.html)
 
+
+```
+title: Argent
+date: Fri Dec 22 2023 11:26:05 GMT+0100 (Central European Standard Time)
+author: postite
+```
