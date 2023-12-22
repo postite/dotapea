@@ -615,7 +615,7 @@ code {
   display: none;
 }
 #maincontainer {
-  width: 1000px;
+  max-width: 1000px;
   margin: 10px auto;
 }
 #container {
@@ -672,4 +672,22 @@ code {
   padding: 0.5em;
   outline: 1px solid black;
   font-size: 2.5em;
+}
+@media screen and (max-width: 600px) {
+  #container {
+    width: 100%;
+    flex-direction: column;
+  }
+  .aside {
+    width: 100%;
+  }
+  #content {
+    width: 100%;
+  }
+  #content p {
+    width: 100%;
+  }
+  .collapsible {
+    cursor: pointer;
+  }
 }

@@ -6,13 +6,13 @@
         (:header:)
         <div id="container">
             <div class="aside">
-                <div class="titrebox top" >
+                <div class="titrebox top collapsible" >
                     <h2>themes</h2>
                 </div>
                 <div class="menu">
                     (:menu:)
                 </div>
-                <div class="titrebox mid">
+                <div class="titrebox mid collapsible" >
                     <h2>glossaire</h2>
                 </div>
                 <div class="glossaire">              

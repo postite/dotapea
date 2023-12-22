@@ -121,6 +121,7 @@ class Root implements ICrossRoot {
 			var H:MeHtml=htm;
 			return  H.toHtml()
 			.withLayout()
+			.addAction(NavCommand)
 			.render();
 		}
 		);
