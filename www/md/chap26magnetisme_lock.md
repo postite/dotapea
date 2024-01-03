@@ -2,12 +2,6 @@
 ### Magnétisme - Chapitre XXVI des Dialogues de Dotapea
 
 
-[![Préc./Prec.](_derived/back_cmp_themenoir010_back.gif)](chap25lumiereetmatiere.html)  
-[![Sup./Above](_derived/up_cmp_themenoir010_up.gif)](dialoguesdotapea.html)  
-[![Suiv./Folwg.](_derived/next_cmp_themenoir010_next.gif)](chap27ambre.html)
-
-
-
 **Pages soeurs**
 
 [I, A propos des liants](chap01liants.html)  
@@ -247,4 +241,5 @@ date: Fri Dec 22 2023 11:26:35 GMT+0100 (Central European Standard Time)
 author: postite
 ```
 
+    
     

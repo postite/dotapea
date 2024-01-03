@@ -1,12 +1,12 @@
 ## Magnétisme - Chapitre XXVI des Dialogues de Dotapea
 ### Magnétisme - Chapitre XXVI des Dialogues de Dotapea
-
+ Navig. page/section
 
 [![Préc./Prec.](_derived/back_cmp_themenoir010_back.gif)](chap25lumiereetmatiere.html)  
 [![Sup./Above](_derived/up_cmp_themenoir010_up.gif)](dialoguesdotapea.html)  
 [![Suiv./Folwg.](_derived/next_cmp_themenoir010_next.gif)](chap27ambre.html)
 
-
+\_\_\_\_\_
 
 **Pages soeurs**
 
@@ -59,8 +59,6 @@ appliquée aux arts**
 **Magnétisme**
 
 [![](images/chap00cornelissavantvw.jpg)](dialoguesdotapea.html#notecornelis)
-
-dial   dial   dial
 
 Ce chapitre est une discussion entre Jean-Louis, physico-chimiste au CNRS, et Emmanuel, candide.
 
@@ -241,6 +239,7 @@ Pour revenir au corps du texte, cliquez sur le bouton "Précédent" de votre nav
  ![](images/transparent122x1.gif)
 
  ![](images/flechebas.gif) [Communication](http://www.artrealite.com/annonceurs.htm)
+ 
 ```
 title: Magnétisme - Chapitre XXVI des Dialogues de Dotapea
 date: Fri Dec 22 2023 11:26:35 GMT+0100 (Central European Standard Time)

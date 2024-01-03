@@ -1,0 +1,16 @@
+<div id="glossaire2">
+    <h2>Glossaire</h2>
+    <blockquote>@todo : pas exhaustif certaines def on été zappée par le parsing</blockquote>
+    (: for row in tab :)
+        <!-- <p class="def">(:row.def:)</p>
+        <p class="link">(:row.link:)</p> -->
+        <a href="(:row.link:)">(:row.def:) | </a>
+    (:end:)
+</div>
+<div class="editor titrebox bottom">
+    <h2>ajouter une definition</h2>
+    <form action="/create/"  method="GET">
+        <input type="text" name ="text"/>
+        <button type = "submit">ok</button>
+    </form>
+</div>

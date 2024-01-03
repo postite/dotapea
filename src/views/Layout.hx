@@ -18,6 +18,7 @@ class Layout implements poscope.wire.ILayout{
         
         this.footer=Footer.render();
         this.header=Header.render();
+        
     }
 
     @:template("layout.tt")
@@ -61,7 +62,6 @@ class Menu {
 public static function render(nav:Array<tink.core.Named<String>>):Html;
 
 }
-
 class Home {
 
     @:template('home')
@@ -69,9 +69,18 @@ class Home {
 }
 
 class One {
-
     @:template('one')
     public static function render(nano:NanoCast):Html;
+}
+class Editor {
+    @:template('editor')
+    public static function render( viewContent:String,id:String):Html;
+}
+
+class Glossaire {
+
+    @:template('glossaire')
+    public static function render(tab:Array<{def:String,link:String}>):Html;
 }
 
 

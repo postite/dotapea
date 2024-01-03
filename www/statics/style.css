@@ -619,6 +619,7 @@ code {
   margin: 10px auto;
 }
 #container {
+  position: relative;
   display: flex;
   width: 100%;
   outline: 1px solid black;
@@ -641,18 +642,22 @@ code {
   margin-left: -0.9em;
   margin-right: -0.9em;
 }
-.aside .titrebox {
+.titrebox {
   margin-top: 0;
   margin-left: -0.9em;
   margin-right: -0.9em;
   border-bottom: 1px solid black;
   padding: 2em;
 }
-.aside .titrebox.mid {
+.titrebox.mid {
   margin-top: 2em;
   border-top: 1px solid black;
 }
-.aside .titrebox h2 {
+.titrebox.bottom {
+  border-top: 1px solid black;
+  border-bottom: none;
+}
+.titrebox h2 {
   margin: 0;
 }
 #content {
@@ -672,6 +677,21 @@ code {
   padding: 0.5em;
   outline: 1px solid black;
   font-size: 2.5em;
+}
+.edits {
+  position: absolute;
+  right: 0;
+  padding: 1em;
+}
+.edits a {
+  text-decoration: none;
+  color: unset;
+}
+.edits > a {
+  background-color: #1f0909;
+  color: #d1d0cb;
+  display: inline-block;
+  margin-bottom: 2px;
 }
 @media screen and (max-width: 600px) {
   #container {

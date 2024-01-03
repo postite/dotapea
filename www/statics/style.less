@@ -15,6 +15,7 @@ code {
 }
 
 #container {
+position: relative;
     display: flex;
     width:100%;
     outline: 1px solid black;
@@ -30,6 +31,7 @@ code {
 //     display:none;
 // }
 .aside{
+    
     width: 30%;
     padding:1em;
     border-right: 1px solid black;
@@ -47,19 +49,24 @@ code {
         margin-right: -.9em;
        // padding-bottom: 2em;
     }
-    .titrebox {
-        margin-top: 0;
-        margin-left: -.9em;
-        margin-right: -.9em;
-        border-bottom: 1px solid black;
-       padding:2em;
-        &.mid{
-            margin-top: 2em;
-            border-top: 1px solid black;
-        }
-        h2{
-            margin:0;
-        }
+    
+}
+.titrebox {
+    margin-top: 0;
+    margin-left: -.9em;
+    margin-right: -.9em;
+    border-bottom: 1px solid black;
+   padding:2em;
+    &.mid{
+        margin-top: 2em;
+        border-top: 1px solid black;
+    }
+    &.bottom{
+        border-top: 1px solid black;
+        border-bottom: none; 
+    }
+    h2{
+        margin:0;
     }
 }
 #content{
@@ -72,13 +79,42 @@ display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 }
-.gloss_lettre{
+
+.gloss_lettre {
     margin: 3px;
     background-color: #1f0909;
     color:#d1d0cb;
     padding:.5em;
     outline: 1px solid black;
     font-size: 2.5em;
+}
+
+#glossaire2{
+   // display: flex;
+}
+
+.edits{
+    position: absolute;
+    right:0;
+    padding:1em;
+    a{
+        text-decoration: none;
+        color:unset;
+    }
+    
+    &>a{
+        background-color: #1f0909;
+        color: #d1d0cb;
+        display: inline-block;
+        margin-bottom: 2px;
+    }
+    
+}
+.edit_btn{
+    
+}
+.save_btn{
+    
 }
 
 

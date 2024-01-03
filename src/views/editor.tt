@@ -1,0 +1,10 @@
+<div class="editor">
+
+    <textarea  id="my_text_area" >
+        (: viewContent :)
+    </textarea>
+    <div class="edits">
+        <a href="/edit/(:id:)" class="edit_btn">edit</a>
+        <a href="/save/(:id:)" class="save_btn">rec</a>
+    </div>
+</div>

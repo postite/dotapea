@@ -1,6 +1,7 @@
 package app;
 
 
+import haxe.Json;
 import cross.NanoCast;
 import asys.FileSystem;
 import asys.io.File;
@@ -111,16 +112,88 @@ class Root implements ICrossRoot {
 		return ("/accueil":Url);
 	}
 
+
+
+	@:get('/glossaire')
+	public function gloss(){
+		
+		return File.getContent(("md/gloss.json").addRoot())
+		.next(n->{
+			var   tab= haxe.Json.parse(n);
+			return Glossaire.render(tab)
+			.withLayout()
+			.addAction(NavCommand)
+			.render();
+		}
+		);
+	}
+
+
+	@:get('/create')
+	@:params(text in query)
+	public function create(text:String):Promise<Url>{
+		trace( text);
+		//return Promise.lift(("/accueil":Url));
+		return File.getContent(("md/gloss.json").addRoot())
+		.next(n->{
+			var   tab= haxe.Json.parse(n);
+			tab.push({def:text,link:'${text}.html'});
+			Json.stringify(tab);
+		}
+		)
+		.next(n->File.saveContent(("md/gloss.json").addRoot(),n))
+		.next(n->File.saveContent(('md/$text.md').addRoot(),'## $text\n'))
+		.next(
+			n-> ('/edit/$text':Url)
+		);
+	}
 	
+
+
+	@:get("/edit/$page/")
+	public function edit(page:String){
+		var name= Path.withoutExtension(page);
+		return FileSystem.exists(("md/"+name+"_lock.md").addRoot())
+		.next(b->if( b)
+			 File.getContent(("md/"+name+"_lock.md").addRoot())
+			else
+			 File.getContent(("md/"+name+".md").addRoot())
+		)
+		.next(md->{
+			return  Editor.render(md,name)
+			.withLayout(name)
+			.addAction(NavCommand)
+			.addStyle('https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css')
+			.addScript("https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js")
+			.addAction(EditCommand,{id:name})
+			.render();
+		}
+		);
+	}
+
+	@:post
+    public function save(body:{text:String,id:String}):Promise<Noise>{
+		var name= Path.withoutExtension(body.id);
+		//var name= "opp";
+		trace( "...saving "+name);
+		trace( body.text);
+		return File.saveContent(("md/"+name+"_lock.md").addRoot(),body.text);
+	}
+
 	@:get("/$page")
 	public function page(page:String){
 		var name= Path.withoutExtension(page);
-		return File.getContent(("md/"+name+".md").addRoot())
+		return FileSystem.exists(("md/"+name+"_lock.md").addRoot())
+		.next(b->if( b)
+			 File.getContent(("md/"+name+"_lock.md").addRoot())
+			else
+			 File.getContent(("md/"+name+".md").addRoot())
+		)
 		.next(n->{
 			var htm=Markdown.markdownToHtml(n);
 			var H:MeHtml=htm;
 			return  H.toHtml()
-			.withLayout()
+			.withLayout(name)
 			.addAction(NavCommand)
 			.render();
 		}
@@ -137,7 +210,6 @@ class Root implements ICrossRoot {
 
 	
 }
-
 
 
 abstract MeHtml(String) from String to String{

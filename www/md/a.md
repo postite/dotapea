@@ -63,7 +63,7 @@ B. [Le pigment.](acier.html)
 [Passage _in Les dialogues de Dotapea, Chap. II, Bulles, siccativation et structure électronique._](chap02bullessiccativation.html#agentmoussant)
 **Aggloméré mélaminé**
 
-Voir [Formica ®](formica.html).
+**[Formica ®](formica.html)**
 **[Agrégat](pateschargesagreg.html)**
 
 **[Ail, allicine](ail.html)**

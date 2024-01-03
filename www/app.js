@@ -175,6 +175,13 @@ EReg.prototype = {
 			throw haxe_Exception.thrown("EReg::matched");
 		}
 	}
+	,matchedRight: function() {
+		if(this.r.m == null) {
+			throw haxe_Exception.thrown("No string matched");
+		}
+		var sz = this.r.m.index + this.r.m[0].length;
+		return HxOverrides.substr(this.r.s,sz,this.r.s.length - sz);
+	}
 	,matchedPos: function() {
 		if(this.r.m == null) {
 			throw haxe_Exception.thrown("No string matched");
@@ -353,6 +360,15 @@ var Parser = function() {
 	var _g1 = _this.length;
 	while(_g < _g1) {
 		var i = _g++;
+		result[i] = _this[i] + ".md";
+	}
+	this.pages_lettres_md = result;
+	var _this = "a,b,c,e,d,e,f,g,h,ijk,l,m,no,p,qr,s,t,uv,wxyz".split(",");
+	var result = new Array(_this.length);
+	var _g = 0;
+	var _g1 = _this.length;
+	while(_g < _g1) {
+		var i = _g++;
 		result[i] = _this[i] + ".html";
 	}
 	this.pages_lettres = result;
@@ -360,43 +376,96 @@ var Parser = function() {
 	this.counter = 0;
 	this.laliste = [];
 	this.done = [];
-	var _gthis = this;
-	haxe_Log.trace("new",{ fileName : "src/Parser.hx", lineNumber : 21, className : "Parser", methodName : "new"});
-	var f = function(r) {
-		Debug.Log(_gthis.resumed(),"resumed",{ fileName : "src/Parser.hx", lineNumber : 31, className : "Parser", methodName : "new"});
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(r)));
-	};
-	tink_core_Promise.next(tink_core_Future.flatMap(tink_core_Promise.next(this.getFiles(),function(liste) {
-		_gthis.laliste = liste.slice(0,-1);
-		haxe_Log.trace(_gthis.laliste.length,{ fileName : "src/Parser.hx", lineNumber : 26, className : "Parser", methodName : "new"});
-		return _gthis.batchexport(_gthis.laliste);
-	}),function(o) {
-		switch(o._hx_index) {
-		case 0:
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(o));
-		case 1:
-			return f(o.failure);
-		}
-	}),function(n) {
-		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(Debug.Log(_gthis.resumed(),"resumed",{ fileName : "src/Parser.hx", lineNumber : 34, className : "Parser", methodName : "new"}))));
-	}).eager();
+	haxe_Log.trace("new",{ fileName : "src/Parser.hx", lineNumber : 24, className : "Parser", methodName : "new"});
+	this.extractGlossaire().eager();
 };
 Parser.__name__ = true;
 Parser.main = function() {
 	new Parser();
 };
 Parser.prototype = {
-	getOne: function(name) {
+	extractGlossaire: function() {
+		this.cleanIndexPages = true;
+		return tink_core_Promise.next(tink_core_Promise.next(this.getMd(),function(tab) {
+			var proms = [];
+			var _g = 0;
+			while(_g < tab.length) {
+				var a = tab[_g];
+				++_g;
+				proms.push(tink_core_Promise.next(tink_core_Promise.next(asys_io_File.getContent(Parser.mdPath + "/" + a),function(content) {
+					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(DotapeaTools.getDef(content))));
+				}),function(tab) {
+					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(tab)));
+				}));
+			}
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(proms)));
+		}),function(proms) {
+			var t = [];
+			return tink_core_Future.flatMap(tink_core_Future.flatMap(tink_core_Promise.inSequence(proms),function(tab) {
+				t = t.concat(tink_core_OutcomeTools.sure(tab));
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(t));
+			}),function(r) {
+				var _g = [];
+				var _g_current = 0;
+				var _g_array = t;
+				while(_g_current < _g_array.length) {
+					var e = _g_array[_g_current++];
+					var x = $getIterator(e);
+					while(x.hasNext()) {
+						var x1 = x.next();
+						_g.push(x1);
+					}
+				}
+				return asys_io_File.saveContent(Parser.mdPath + "/" + "gloss.json",JSON.stringify(_g));
+			});
+		});
+	}
+	,getOne: function(name) {
 		this.laliste = [name];
 		return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(this.laliste)));
+	}
+	,getMd: function() {
+		var _gthis = this;
+		return tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(asys_FileSystem.readDirectory(Parser.mdPath),function(n) {
+			Debug.Log(n.length,null,{ fileName : "src/Parser.hx", lineNumber : 84, className : "Parser", methodName : "getMd"});
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(n)));
+		}),function(n) {
+			var _g = [];
+			var _g1 = 0;
+			while(_g1 < n.length) {
+				var v = n[_g1];
+				++_g1;
+				if(!sys_FileSystem.isDirectory(Parser.mdPath + v)) {
+					_g.push(v);
+				}
+			}
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(_g)));
+		}),function(n) {
+			if(_gthis.cleanIndexPages) {
+				var _g = [];
+				var _g1 = 0;
+				while(_g1 < n.length) {
+					var v = n[_g1];
+					++_g1;
+					if(_gthis.pages_lettres_md.indexOf(v) != -1) {
+						_g.push(v);
+					}
+				}
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(_g)));
+			} else {
+				return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(n)));
+			}
+		}),function(n) {
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(Debug.Log(n,"mds",{ fileName : "src/Parser.hx", lineNumber : 89, className : "Parser", methodName : "getMd"}))));
+		});
 	}
 	,getFiles: function() {
 		var _gthis = this;
 		var f = function(r) {
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"oups",{ fileName : "src/Parser.hx", lineNumber : 67, className : "Parser", methodName : "getFiles"}))));
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"oups",{ fileName : "src/Parser.hx", lineNumber : 112, className : "Parser", methodName : "getFiles"}))));
 		};
 		return tink_core_Future.flatMap(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(asys_FileSystem.readDirectory(Parser.dotapeaPath),function(n) {
-			Debug.Log(n.length,null,{ fileName : "src/Parser.hx", lineNumber : 50, className : "Parser", methodName : "getFiles"});
+			Debug.Log(n.length,null,{ fileName : "src/Parser.hx", lineNumber : 95, className : "Parser", methodName : "getFiles"});
 			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(n)));
 		}),function(n) {
 			var _g = [];
@@ -436,10 +505,10 @@ Parser.prototype = {
 			}
 			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(_g)));
 		}),function(n) {
-			Debug.Log(n.length,null,{ fileName : "src/Parser.hx", lineNumber : 63, className : "Parser", methodName : "getFiles"});
+			Debug.Log(n.length,null,{ fileName : "src/Parser.hx", lineNumber : 108, className : "Parser", methodName : "getFiles"});
 			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(n)));
 		}),function(n) {
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(Debug.Log(n,"path",{ fileName : "src/Parser.hx", lineNumber : 66, className : "Parser", methodName : "getFiles"}))));
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(Debug.Log(n,"path",{ fileName : "src/Parser.hx", lineNumber : 111, className : "Parser", methodName : "getFiles"}))));
 		}),function(o) {
 			switch(o._hx_index) {
 			case 0:
@@ -455,7 +524,7 @@ Parser.prototype = {
 		var _g1 = liste.length;
 		while(_g < _g1) {
 			var i = _g++;
-			result[i] = tink_core_Future.flatMap(this.exportToMd(Parser.dotapeaPath + Debug.Log(liste[i],"name",{ fileName : "src/Parser.hx", lineNumber : 71, className : "Parser", methodName : "batchexport"})),(function(f) {
+			result[i] = tink_core_Future.flatMap(this.exportToMd(Parser.dotapeaPath + Debug.Log(liste[i],"name",{ fileName : "src/Parser.hx", lineNumber : 116, className : "Parser", methodName : "batchexport"})),(function(f) {
 				return function(o) {
 					switch(o._hx_index) {
 					case 0:
@@ -466,12 +535,12 @@ Parser.prototype = {
 				};
 			})([(function() {
 				return function(n) {
-					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(n,"ok",{ fileName : "src/Parser.hx", lineNumber : 71, className : "Parser", methodName : "batchexport"}))));
+					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(n,"ok",{ fileName : "src/Parser.hx", lineNumber : 116, className : "Parser", methodName : "batchexport"}))));
 				};
 			})()]));
 		}
 		var f = function(f) {
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(f,"continue qund même",{ fileName : "src/Parser.hx", lineNumber : 72, className : "Parser", methodName : "batchexport"}))));
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(f,"continue qund même",{ fileName : "src/Parser.hx", lineNumber : 117, className : "Parser", methodName : "batchexport"}))));
 		};
 		return tink_core_Promise.noise(tink_core_Future.flatMap(tink_core_Promise.inSequence(result),function(o) {
 			switch(o._hx_index) {
@@ -486,8 +555,8 @@ Parser.prototype = {
 		this.resumedBuf.b += Std.string("" + s + "\n");
 	}
 	,resumed: function() {
-		haxe_Log.trace(this.laliste.length,{ fileName : "src/Parser.hx", lineNumber : 82, className : "Parser", methodName : "resumed", customParams : ["laliste"]});
-		haxe_Log.trace(this.done.length,{ fileName : "src/Parser.hx", lineNumber : 83, className : "Parser", methodName : "resumed", customParams : ["done"]});
+		haxe_Log.trace(this.laliste.length,{ fileName : "src/Parser.hx", lineNumber : 127, className : "Parser", methodName : "resumed", customParams : ["laliste"]});
+		haxe_Log.trace(this.done.length,{ fileName : "src/Parser.hx", lineNumber : 128, className : "Parser", methodName : "resumed", customParams : ["done"]});
 		this.logToResumed("laliste" + this.laliste.length);
 		this.logToResumed("done" + this.done.length);
 		asys_io_File.saveContent("./resumed.txt",this.resumedBuf.b).eager();
@@ -496,10 +565,10 @@ Parser.prototype = {
 	,exportToMd: function(path) {
 		var _gthis = this;
 		var f = function(n) {
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(n,"erreur fichier",{ fileName : "src/Parser.hx", lineNumber : 92, className : "Parser", methodName : "exportToMd"}))));
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(n,"erreur fichier",{ fileName : "src/Parser.hx", lineNumber : 137, className : "Parser", methodName : "exportToMd"}))));
 		};
 		var f1 = function(r) {
-			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"err" + path,{ fileName : "src/Parser.hx", lineNumber : 148, className : "Parser", methodName : "exportToMd"}))));
+			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Failure(Debug.Log(r,"err" + path,{ fileName : "src/Parser.hx", lineNumber : 193, className : "Parser", methodName : "exportToMd"}))));
 		};
 		return tink_core_Future.flatMap(tink_core_Promise.next(tink_core_Promise.next(tink_core_Promise.next(tink_core_Future.flatMap(asys_io_File.getContent(path),function(o) {
 			switch(o._hx_index) {
@@ -516,8 +585,8 @@ Parser.prototype = {
 			var read = new mozilla_readability_Readability(doc).parse();
 			return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(haxe_ds_Option.Some(read))));
 		}),function(readOpt) {
-			haxe_Log.trace("path",{ fileName : "src/Parser.hx", lineNumber : 101, className : "Parser", methodName : "exportToMd", customParams : [path]});
-			_gthis.counter = Debug.Log(_gthis.counter + 1,"count",{ fileName : "src/Parser.hx", lineNumber : 102, className : "Parser", methodName : "exportToMd"});
+			haxe_Log.trace("path",{ fileName : "src/Parser.hx", lineNumber : 146, className : "Parser", methodName : "exportToMd", customParams : [path]});
+			_gthis.counter = Debug.Log(_gthis.counter + 1,"count",{ fileName : "src/Parser.hx", lineNumber : 147, className : "Parser", methodName : "exportToMd"});
 			switch(readOpt._hx_index) {
 			case 0:
 				var _g = readOpt.v;
@@ -531,7 +600,7 @@ Parser.prototype = {
 				} else {
 					content = new Turndown().turndown(_g.content);
 				}
-				var titre = Debug.Log(DotapeaTools.removeDotapeaTitle(_g.title),"titre",{ fileName : "src/Parser.hx", lineNumber : 120, className : "Parser", methodName : "exportToMd"});
+				var titre = Debug.Log(DotapeaTools.removeDotapeaTitle(_g.title),"titre",{ fileName : "src/Parser.hx", lineNumber : 165, className : "Parser", methodName : "exportToMd"});
 				var excerpt = DotapeaTools.removeDotapeaTitle(_g.excerpt);
 				content = DotapeaTools.remOrphanLink(content,"Retour début de page");
 				if(_gthis.cleanIndexPages) {
@@ -554,8 +623,8 @@ Parser.prototype = {
 		}),function(opt) {
 			switch(opt._hx_index) {
 			case 0:
-				var mdPath = Debug.Log(haxe_io_Path.withoutExtension(haxe_io_Path.withoutDirectory(path)) + ".md","mdPath",{ fileName : "src/Parser.hx", lineNumber : 142, className : "Parser", methodName : "exportToMd"});
-				return tink_core_Promise.next(tink_core_Promise.next(asys_io_File.saveContent(process.cwd() + Debug.Log("/www/md/" + mdPath,"write",{ fileName : "src/Parser.hx", lineNumber : 143, className : "Parser", methodName : "exportToMd"}),opt.v),function(n) {
+				var mdPath = Debug.Log(haxe_io_Path.withoutExtension(haxe_io_Path.withoutDirectory(path)) + ".md","mdPath",{ fileName : "src/Parser.hx", lineNumber : 187, className : "Parser", methodName : "exportToMd"});
+				return tink_core_Promise.next(tink_core_Promise.next(asys_io_File.saveContent(process.cwd() + Debug.Log("/www/md/" + mdPath,"write",{ fileName : "src/Parser.hx", lineNumber : 188, className : "Parser", methodName : "exportToMd"}),opt.v),function(n) {
 					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(_gthis.done.push(mdPath))));
 				}),function(n) {
 					return new tink_core__$Future_SyncFuture(new tink_core__$Lazy_LazyConst(tink_core_Outcome.Success(null)));
@@ -598,6 +667,15 @@ DotapeaTools.remDoubleBreaks = function(big) {
 DotapeaTools.remSpaceandBreaks = function(big) {
 	var reg_r = new RegExp("^(\\s{1,3}\n)","gm".split("u").join(""));
 	return big.replace(reg_r,"\n");
+};
+DotapeaTools.getDef = function(input) {
+	var ereg = new EReg("\\*\\*(\\[(.*)\\])(\\((.*)\\))\\*\\*","gm");
+	var list = [];
+	while(ereg.match(input)) {
+		list.push({ def : ereg.matched(2), link : ereg.matched(4)});
+		input = ereg.matchedRight();
+	}
+	return list;
 };
 var Reflect = function() { };
 Reflect.__name__ = true;
@@ -11068,6 +11146,7 @@ Diactrics.map = (function($this) {
 }(this));
 Mots.jsReg = new EReg("\\ud83c[\\udf00-\\udfff]|\\ud83d[\\udc00-\\ude4f]|\\ud83d[\\ude80-\\udeff]","g");
 Parser.dotapeaPath = "./www.dotapea.com/";
+Parser.mdPath = "./www/md";
 haxe_crypto_Base64.CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 haxe_crypto_Base64.BYTES = haxe_io_Bytes.ofString(haxe_crypto_Base64.CHARS);
 haxe_io_FPHelper.i64tmp = new haxe__$Int64__$_$_$Int64(0,0);

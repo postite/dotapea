@@ -1,3 +1,4 @@
+import haxe.macro.Expr.ExprDef;
 import asys.FileSystem;
 import js.Browser;
 import mozilla.readability.Readability;
@@ -10,17 +11,21 @@ using Parser.DotapeaTools;
 
 class Parser {
 	static final dotapeaPath = "./www.dotapea.com/";
+	static final mdPath = "./www/md";
 
 	var done:Array<String> = [];
 	var laliste:Array<String> = [];
 	var counter = 0;
 	var cleanIndexPages:Bool = true;
 	var pages_lettres = "a,b,c,e,d,e,f,g,h,ijk,l,m,no,p,qr,s,t,uv,wxyz".split(",").map(n -> n + ".html");
+	var pages_lettres_md = "a,b,c,e,d,e,f,g,h,ijk,l,m,no,p,qr,s,t,uv,wxyz".split(",").map(n -> n + ".md");
 
 	public function new() {
 		trace("new");
 		// getOne("zinc.html")
 		// return ;
+		extractGlossaire().eager();
+		return;
 		getFiles().next(liste -> {
 			laliste = liste.slice(0, -1);
 			trace(laliste.length);
@@ -39,9 +44,49 @@ class Parser {
 		new Parser();
 	}
 
+	function extractGlossaire() {
+		cleanIndexPages = true;
+		return getMd().next(tab -> {
+			//tab=tab.slice(0,2);
+			var  proms=[];
+			for (a in tab)
+			proms.push(
+				File.getContent(mdPath + "/" + a).next(content -> content.getDef()).next(tab -> tab));
+			proms;
+		}).next(proms ->  {
+			var t=[]; 
+			Promise.inSequence(proms).flatMap(
+				tab->{
+				$type(tab);
+				t=t.concat(tab.sure());
+				//tab;
+				}
+			).next(
+				r->{
+					$type(t);
+					//trace(t);
+					var  f=Lambda.flatten(t);
+				File.saveContent(mdPath+"/"+"gloss.json",haxe.Json.stringify(f));
+				}
+			);
+
+		});
+	}
+
 	function getOne(name:String):Promise<Array<String>> {
 		laliste = [name];
 		return Promise.lift(laliste);
+	}
+
+	function getMd():Promise<Array<String>> {
+		return FileSystem.readDirectory(mdPath)
+			.next(n -> {
+				n.length.Log();
+				n;
+			})
+			.next(n -> n.filter(s -> !sys.FileSystem.isDirectory(mdPath + s)))
+			.next(n -> if (cleanIndexPages) n.filter(s -> pages_lettres_md.contains(s)) else n)
+			.next(n -> n.Log('mds'));
 	}
 
 	function getFiles():Promise<Array<String>> {
@@ -174,8 +219,23 @@ class DotapeaTools {
 		var reg = new EReg('^\n{2,}', "gm");
 		return reg.replace(big, "");
 	}
+
 	static function remSpaceandBreaks(big:String):String {
 		var reg = new EReg('^(\\s{1,3}\n)', "gm");
 		return reg.replace(big, "\n");
+	}
+
+	static function getDef(input:String):Array<{def:String, link:String}> {
+		var ereg = new EReg('\\*\\*(\\[(.*)\\])(\\((.*)\\))\\*\\*', 'gm');
+		var list = [];
+		while (ereg.match(input)) {
+			list.push({
+				def: ereg.matched(2),
+				link: ereg.matched(4),
+			});
+			input = ereg.matchedRight();
+		}
+		
+		return list;
 	}
 }

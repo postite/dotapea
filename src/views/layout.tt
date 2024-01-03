@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 (:head:)
 <body>
-    <div id="maincontainer" id="(:id:)">
+    <div id="maincontainer" id="(:id:)" class="(:id:)">
         (:header:)
         <div id="container">
             <div class="aside">
@@ -11,6 +11,11 @@
                 </div>
                 <div class="menu">
                     (:menu:)
+                </div>
+                <div class="titrebox mid" >
+                    <a href="/glossaire">
+                        <h2>glossaire generé ( POC)</h2>
+                    </a>
                 </div>
                 <div class="titrebox mid collapsible" >
                     <h2>glossaire</h2>
@@ -28,6 +33,11 @@
             </div>
             <div id="content" class="">
                 (: viewContent :)
+            </div>
+            <div class="edits">
+                <a href="/edit/(:id:)" class="edit_btn">edit</a>
+                <a href="/save/(:id:)" class="save_btn">rec</a>
+
             </div>
         </div>
         (: footer :)
